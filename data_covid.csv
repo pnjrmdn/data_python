@@ -1,0 +1,3494 @@
+Date,Location ISO Code,Location,New Cases,New Deaths
+01/03/20,ID-JK,DKI Jakarta,3,0
+01/03/20,ID-JB,Jawa Barat,3,0
+02/03/20,ID-JK,DKI Jakarta,2,0
+02/03/20,IDN,Indonesia,2,0
+02/03/20,ID-JB,Jawa Barat,0,0
+03/03/20,ID-JK,DKI Jakarta,2,0
+03/03/20,IDN,Indonesia,0,0
+03/03/20,ID-JB,Jawa Barat,1,1
+04/03/20,ID-JK,DKI Jakarta,2,0
+04/03/20,IDN,Indonesia,0,0
+04/03/20,ID-JB,Jawa Barat,1,0
+05/03/20,ID-JK,DKI Jakarta,0,1
+05/03/20,IDN,Indonesia,0,0
+05/03/20,ID-JB,Jawa Barat,0,0
+06/03/20,ID-BT,Banten,1,0
+06/03/20,ID-JK,DKI Jakarta,0,0
+06/03/20,IDN,Indonesia,2,0
+06/03/20,ID-JB,Jawa Barat,1,0
+07/03/20,ID-BT,Banten,0,0
+07/03/20,ID-JK,DKI Jakarta,0,2
+07/03/20,IDN,Indonesia,0,0
+07/03/20,ID-JB,Jawa Barat,0,0
+08/03/20,ID-BT,Banten,1,0
+08/03/20,ID-JK,DKI Jakarta,0,0
+08/03/20,IDN,Indonesia,2,0
+08/03/20,ID-JB,Jawa Barat,0,0
+09/03/20,ID-BT,Banten,0,0
+09/03/20,ID-JK,DKI Jakarta,0,1
+09/03/20,IDN,Indonesia,13,0
+09/03/20,ID-JB,Jawa Barat,0,0
+10/03/20,ID-BT,Banten,0,0
+10/03/20,ID-JK,DKI Jakarta,0,0
+10/03/20,IDN,Indonesia,8,0
+10/03/20,ID-JB,Jawa Barat,0,0
+10/03/20,ID-SG,Sulawesi Tenggara,1,0
+11/03/20,ID-BT,Banten,0,0
+11/03/20,ID-JK,DKI Jakarta,0,0
+11/03/20,IDN,Indonesia,7,1
+11/03/20,ID-JB,Jawa Barat,1,1
+11/03/20,ID-SG,Sulawesi Tenggara,0,0
+12/03/20,ID-BT,Banten,0,1
+12/03/20,ID-JK,DKI Jakarta,0,1
+12/03/20,IDN,Indonesia,0,0
+12/03/20,ID-JB,Jawa Barat,1,0
+12/03/20,ID-SG,Sulawesi Tenggara,0,0
+13/03/20,ID-BT,Banten,1,0
+13/03/20,ID-JK,DKI Jakarta,0,1
+13/03/20,IDN,Indonesia,35,3
+13/03/20,ID-JB,Jawa Barat,4,0
+13/03/20,ID-SG,Sulawesi Tenggara,0,0
+14/03/20,ID-BT,Banten,1,0
+14/03/20,ID-JK,DKI Jakarta,1,1
+14/03/20,IDN,Indonesia,27,1
+14/03/20,ID-JB,Jawa Barat,0,0
+14/03/20,ID-KI,Kalimantan Timur,3,0
+14/03/20,ID-SG,Sulawesi Tenggara,0,0
+15/03/20,ID-BT,Banten,1,0
+15/03/20,ID-JK,DKI Jakarta,6,3
+15/03/20,IDN,Indonesia,21,0
+15/03/20,ID-JB,Jawa Barat,0,0
+15/03/20,ID-KI,Kalimantan Timur,2,0
+15/03/20,ID-SG,Sulawesi Tenggara,0,0
+16/03/20,ID-BT,Banten,1,0
+16/03/20,ID-JK,DKI Jakarta,1,3
+16/03/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+16/03/20,IDN,Indonesia,17,0
+16/03/20,ID-JB,Jawa Barat,0,0
+16/03/20,ID-KI,Kalimantan Timur,1,0
+16/03/20,ID-SG,Sulawesi Tenggara,2,0
+17/03/20,ID-BT,Banten,0,1
+17/03/20,ID-JK,DKI Jakarta,1,1
+17/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+17/03/20,IDN,Indonesia,38,0
+17/03/20,ID-JB,Jawa Barat,11,0
+17/03/20,ID-KI,Kalimantan Timur,1,0
+17/03/20,ID-SG,Sulawesi Tenggara,0,0
+17/03/20,ID-SU,Sumatera Utara,1,1
+18/03/20,ID-BT,Banten,0,0
+18/03/20,ID-JK,DKI Jakarta,0,1
+18/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+18/03/20,IDN,Indonesia,55,14
+18/03/20,ID-JB,Jawa Barat,5,1
+18/03/20,ID-JT,Jawa Tengah,1,1
+18/03/20,ID-JI,Jawa Timur,2,0
+18/03/20,ID-KI,Kalimantan Timur,0,0
+18/03/20,ID-SG,Sulawesi Tenggara,0,0
+18/03/20,ID-SU,Sumatera Utara,0,0
+19/03/20,ID-BT,Banten,0,1
+19/03/20,ID-JK,DKI Jakarta,1,0
+19/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+19/03/20,IDN,Indonesia,82,6
+19/03/20,ID-JB,Jawa Barat,7,1
+19/03/20,ID-JT,Jawa Tengah,1,0
+19/03/20,ID-JI,Jawa Timur,0,0
+19/03/20,ID-KI,Kalimantan Timur,0,0
+19/03/20,ID-SN,Sulawesi Selatan,1,0
+19/03/20,ID-SG,Sulawesi Tenggara,0,0
+19/03/20,ID-SU,Sumatera Utara,0,0
+20/03/20,ID-BT,Banten,0,1
+20/03/20,ID-JK,DKI Jakarta,1,3
+20/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+20/03/20,IDN,Indonesia,60,7
+20/03/20,ID-JB,Jawa Barat,16,2
+20/03/20,ID-JT,Jawa Tengah,2,0
+20/03/20,ID-JI,Jawa Timur,0,0
+20/03/20,ID-KI,Kalimantan Timur,0,0
+20/03/20,ID-SN,Sulawesi Selatan,0,0
+20/03/20,ID-SG,Sulawesi Tenggara,0,0
+20/03/20,ID-SU,Sumatera Utara,0,0
+21/03/20,ID-BT,Banten,0,0
+21/03/20,ID-JK,DKI Jakarta,0,3
+21/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+21/03/20,IDN,Indonesia,81,6
+21/03/20,ID-JB,Jawa Barat,5,0
+21/03/20,ID-JT,Jawa Tengah,1,1
+21/03/20,ID-JI,Jawa Timur,0,0
+21/03/20,ID-KI,Kalimantan Timur,0,0
+21/03/20,ID-SN,Sulawesi Selatan,0,0
+21/03/20,ID-SG,Sulawesi Tenggara,0,0
+21/03/20,ID-SU,Sumatera Utara,0,0
+22/03/20,ID-BT,Banten,0,0
+22/03/20,ID-JK,DKI Jakarta,0,0
+22/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+22/03/20,IDN,Indonesia,64,10
+22/03/20,ID-JB,Jawa Barat,3,3
+22/03/20,ID-JT,Jawa Tengah,0,0
+22/03/20,ID-JI,Jawa Timur,0,0
+22/03/20,ID-KI,Kalimantan Timur,0,0
+22/03/20,ID-MA,Maluku,1,0
+22/03/20,ID-PA,Papua,2,0
+22/03/20,ID-SN,Sulawesi Selatan,0,0
+22/03/20,ID-SG,Sulawesi Tenggara,0,0
+22/03/20,ID-SU,Sumatera Utara,0,0
+23/03/20,ID-BT,Banten,0,0
+23/03/20,ID-JK,DKI Jakarta,0,0
+23/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,1
+23/03/20,IDN,Indonesia,65,1
+23/03/20,ID-JB,Jawa Barat,8,2
+23/03/20,ID-JT,Jawa Tengah,3,0
+23/03/20,ID-JI,Jawa Timur,0,0
+23/03/20,ID-KI,Kalimantan Timur,1,0
+23/03/20,ID-MA,Maluku,0,0
+23/03/20,ID-MU,Maluku Utara,1,0
+23/03/20,ID-PA,Papua,0,0
+23/03/20,ID-SN,Sulawesi Selatan,0,1
+23/03/20,ID-SG,Sulawesi Tenggara,0,0
+23/03/20,ID-SU,Sumatera Utara,0,0
+24/03/20,ID-BT,Banten,0,0
+24/03/20,ID-JK,DKI Jakarta,0,20
+24/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+24/03/20,IDN,Indonesia,106,6
+24/03/20,ID-JB,Jawa Barat,1,0
+24/03/20,ID-JT,Jawa Tengah,1,1
+24/03/20,ID-JI,Jawa Timur,0,1
+24/03/20,ID-KI,Kalimantan Timur,0,0
+24/03/20,ID-MA,Maluku,0,0
+24/03/20,ID-MU,Maluku Utara,0,0
+24/03/20,ID-PA,Papua,0,0
+24/03/20,ID-SN,Sulawesi Selatan,2,0
+24/03/20,ID-SG,Sulawesi Tenggara,0,0
+24/03/20,ID-SU,Sumatera Utara,0,0
+25/03/20,ID-BT,Banten,0,0
+25/03/20,ID-JK,DKI Jakarta,0,1
+25/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,1
+25/03/20,IDN,Indonesia,105,3
+25/03/20,ID-JB,Jawa Barat,4,0
+25/03/20,ID-JT,Jawa Tengah,18,1
+25/03/20,ID-JI,Jawa Timur,0,2
+25/03/20,ID-KI,Kalimantan Timur,0,0
+25/03/20,ID-MA,Maluku,0,0
+25/03/20,ID-MU,Maluku Utara,0,0
+25/03/20,ID-PA,Papua,0,0
+25/03/20,ID-SN,Sulawesi Selatan,9,0
+25/03/20,ID-SG,Sulawesi Tenggara,0,0
+25/03/20,ID-SU,Sumatera Utara,0,0
+26/03/20,ID-AC,Aceh,1,0
+26/03/20,ID-BT,Banten,0,0
+26/03/20,ID-JK,DKI Jakarta,57,2
+26/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+26/03/20,IDN,Indonesia,103,20
+26/03/20,ID-JB,Jawa Barat,7,0
+26/03/20,ID-JT,Jawa Tengah,2,0
+26/03/20,ID-JI,Jawa Timur,8,0
+26/03/20,ID-KT,Kalimantan Tengah,2,0
+26/03/20,ID-KI,Kalimantan Timur,0,0
+26/03/20,ID-LA,Lampung,2,0
+26/03/20,ID-MA,Maluku,0,0
+26/03/20,ID-MU,Maluku Utara,0,0
+26/03/20,ID-PA,Papua,4,0
+26/03/20,ID-SN,Sulawesi Selatan,14,0
+26/03/20,ID-ST,Sulawesi Tengah,1,0
+26/03/20,ID-SG,Sulawesi Tenggara,0,0
+26/03/20,ID-SB,Sumatera Barat,3,0
+26/03/20,ID-SU,Sumatera Utara,0,0
+27/03/20,ID-AC,Aceh,3,0
+27/03/20,ID-BT,Banten,25,0
+27/03/20,ID-JK,DKI Jakarta,69,8
+27/03/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+27/03/20,IDN,Indonesia,153,9
+27/03/20,ID-JB,Jawa Barat,26,3
+27/03/20,ID-JT,Jawa Tengah,4,0
+27/03/20,ID-JI,Jawa Timur,7,0
+27/03/20,ID-KT,Kalimantan Tengah,0,0
+27/03/20,ID-KI,Kalimantan Timur,0,0
+27/03/20,ID-LA,Lampung,1,0
+27/03/20,ID-MA,Maluku,0,0
+27/03/20,ID-MU,Maluku Utara,0,0
+27/03/20,ID-PA,Papua,0,0
+27/03/20,ID-PB,Papua Barat,2,0
+27/03/20,ID-SN,Sulawesi Selatan,2,0
+27/03/20,ID-ST,Sulawesi Tengah,0,0
+27/03/20,ID-SG,Sulawesi Tenggara,0,0
+27/03/20,ID-SB,Sumatera Barat,2,0
+27/03/20,ID-SU,Sumatera Utara,0,1
+28/03/20,ID-AC,Aceh,1,0
+28/03/20,ID-BT,Banten,10,0
+28/03/20,ID-JK,DKI Jakarta,42,9
+28/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+28/03/20,IDN,Indonesia,109,15
+28/03/20,ID-JB,Jawa Barat,22,2
+28/03/20,ID-JT,Jawa Tengah,12,1
+28/03/20,ID-JI,Jawa Timur,11,0
+28/03/20,ID-KT,Kalimantan Tengah,1,0
+28/03/20,ID-KI,Kalimantan Timur,5,0
+28/03/20,ID-KU,Kalimantan Utara,2,0
+28/03/20,ID-LA,Lampung,0,0
+28/03/20,ID-MA,Maluku,0,0
+28/03/20,ID-MU,Maluku Utara,0,0
+28/03/20,ID-PA,Papua,0,0
+28/03/20,ID-PB,Papua Barat,0,0
+28/03/20,ID-SR,Sulawesi Barat,1,0
+28/03/20,ID-SN,Sulawesi Selatan,3,0
+28/03/20,ID-ST,Sulawesi Tengah,1,0
+28/03/20,ID-SG,Sulawesi Tenggara,0,0
+28/03/20,ID-SB,Sumatera Barat,0,0
+28/03/20,ID-SS,Sumatera Selatan,1,0
+28/03/20,ID-SU,Sumatera Utara,0,0
+29/03/20,ID-AC,Aceh,0,0
+29/03/20,ID-BA,Bali,1,0
+29/03/20,ID-BT,Banten,2,2
+29/03/20,ID-JK,DKI Jakarta,51,10
+29/03/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+29/03/20,IDN,Indonesia,130,12
+29/03/20,ID-JB,Jawa Barat,31,2
+29/03/20,ID-JT,Jawa Tengah,7,2
+29/03/20,ID-JI,Jawa Timur,12,3
+29/03/20,ID-KB,Kalimantan Barat,5,0
+29/03/20,ID-KT,Kalimantan Tengah,0,0
+29/03/20,ID-KI,Kalimantan Timur,0,0
+29/03/20,ID-KU,Kalimantan Utara,0,0
+29/03/20,ID-LA,Lampung,0,0
+29/03/20,ID-MA,Maluku,0,0
+29/03/20,ID-MU,Maluku Utara,0,0
+29/03/20,ID-PA,Papua,2,0
+29/03/20,ID-PB,Papua Barat,0,0
+29/03/20,ID-RI,Riau,1,0
+29/03/20,ID-SR,Sulawesi Barat,0,0
+29/03/20,ID-SN,Sulawesi Selatan,15,0
+29/03/20,ID-ST,Sulawesi Tengah,0,0
+29/03/20,ID-SG,Sulawesi Tenggara,0,0
+29/03/20,ID-SB,Sumatera Barat,0,0
+29/03/20,ID-SS,Sumatera Selatan,0,0
+29/03/20,ID-SU,Sumatera Utara,0,0
+30/03/20,ID-AC,Aceh,0,0
+30/03/20,ID-BA,Bali,9,0
+30/03/20,ID-BT,Banten,22,0
+30/03/20,ID-JK,DKI Jakarta,31,7
+30/03/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+30/03/20,IDN,Indonesia,129,8
+30/03/20,ID-JA,Jambi,1,0
+30/03/20,ID-JB,Jawa Barat,25,0
+30/03/20,ID-JT,Jawa Tengah,14,1
+30/03/20,ID-JI,Jawa Timur,1,1
+30/03/20,ID-KB,Kalimantan Barat,1,0
+30/03/20,ID-KS,Kalimantan Selatan,5,0
+30/03/20,ID-KT,Kalimantan Tengah,0,0
+30/03/20,ID-KI,Kalimantan Timur,0,0
+30/03/20,ID-KU,Kalimantan Utara,0,0
+30/03/20,ID-BB,Kepulauan Bangka Belitung,1,0
+30/03/20,ID-KR,Kepulauan Riau,1,2
+30/03/20,ID-LA,Lampung,4,1
+30/03/20,ID-MA,Maluku,0,0
+30/03/20,ID-MU,Maluku Utara,0,0
+30/03/20,ID-PA,Papua,0,0
+30/03/20,ID-PB,Papua Barat,0,0
+30/03/20,ID-RI,Riau,1,0
+30/03/20,ID-SR,Sulawesi Barat,0,0
+30/03/20,ID-SN,Sulawesi Selatan,4,2
+30/03/20,ID-ST,Sulawesi Tengah,0,0
+30/03/20,ID-SG,Sulawesi Tenggara,0,0
+30/03/20,ID-SB,Sumatera Barat,3,0
+30/03/20,ID-SS,Sumatera Selatan,0,0
+30/03/20,ID-SU,Sumatera Utara,6,0
+31/03/20,ID-AC,Aceh,0,0
+31/03/20,ID-BA,Bali,0,0
+31/03/20,ID-BT,Banten,14,8
+31/03/20,ID-BE,Bengkulu,1,1
+31/03/20,ID-JK,DKI Jakarta,42,9
+31/03/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+31/03/20,IDN,Indonesia,114,14
+31/03/20,ID-JA,Jambi,0,0
+31/03/20,ID-JB,Jawa Barat,9,0
+31/03/20,ID-JT,Jawa Tengah,12,2
+31/03/20,ID-JI,Jawa Timur,2,2
+31/03/20,ID-KB,Kalimantan Barat,0,0
+31/03/20,ID-KS,Kalimantan Selatan,2,0
+31/03/20,ID-KT,Kalimantan Tengah,2,0
+31/03/20,ID-KI,Kalimantan Timur,3,1
+31/03/20,ID-KU,Kalimantan Utara,0,0
+31/03/20,ID-BB,Kepulauan Bangka Belitung,1,1
+31/03/20,ID-KR,Kepulauan Riau,1,0
+31/03/20,ID-LA,Lampung,0,1
+31/03/20,ID-MA,Maluku,0,0
+31/03/20,ID-MU,Maluku Utara,0,0
+31/03/20,ID-NB,Nusa Tenggara Barat,2,0
+31/03/20,ID-PA,Papua,1,0
+31/03/20,ID-PB,Papua Barat,0,0
+31/03/20,ID-RI,Riau,0,0
+31/03/20,ID-SR,Sulawesi Barat,0,0
+31/03/20,ID-SN,Sulawesi Selatan,0,1
+31/03/20,ID-ST,Sulawesi Tengah,0,0
+31/03/20,ID-SG,Sulawesi Tenggara,0,0
+31/03/20,ID-SB,Sumatera Barat,0,0
+31/03/20,ID-SS,Sumatera Selatan,3,0
+31/03/20,ID-SU,Sumatera Utara,6,2
+01/04/20,ID-AC,Aceh,0,0
+01/04/20,ID-BA,Bali,6,0
+01/04/20,ID-BT,Banten,12,0
+01/04/20,ID-BE,Bengkulu,0,0
+01/04/20,ID-JK,DKI Jakarta,61,1
+01/04/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+01/04/20,IDN,Indonesia,149,21
+01/04/20,ID-JA,Jambi,0,0
+01/04/20,ID-JB,Jawa Barat,24,0
+01/04/20,ID-JT,Jawa Tengah,8,7
+01/04/20,ID-JI,Jawa Timur,10,0
+01/04/20,ID-KB,Kalimantan Barat,1,0
+01/04/20,ID-KS,Kalimantan Selatan,0,0
+01/04/20,ID-KT,Kalimantan Tengah,0,0
+01/04/20,ID-KI,Kalimantan Timur,1,0
+01/04/20,ID-KU,Kalimantan Utara,0,0
+01/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+01/04/20,ID-KR,Kepulauan Riau,0,0
+01/04/20,ID-LA,Lampung,0,0
+01/04/20,ID-MA,Maluku,0,0
+01/04/20,ID-MU,Maluku Utara,0,0
+01/04/20,ID-NB,Nusa Tenggara Barat,2,0
+01/04/20,ID-PA,Papua,0,0
+01/04/20,ID-PB,Papua Barat,0,0
+01/04/20,ID-RI,Riau,0,1
+01/04/20,ID-SR,Sulawesi Barat,0,0
+01/04/20,ID-SN,Sulawesi Selatan,14,0
+01/04/20,ID-ST,Sulawesi Tengah,0,0
+01/04/20,ID-SG,Sulawesi Tenggara,0,0
+01/04/20,ID-SA,Sulawesi Utara,1,0
+01/04/20,ID-SB,Sumatera Barat,0,0
+01/04/20,ID-SS,Sumatera Selatan,0,0
+01/04/20,ID-SU,Sumatera Utara,2,0
+02/04/20,ID-AC,Aceh,0,0
+02/04/20,ID-BA,Bali,0,0
+02/04/20,ID-BT,Banten,6,1
+02/04/20,ID-BE,Bengkulu,0,0
+02/04/20,ID-JK,DKI Jakarta,72,5
+02/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,1
+02/04/20,IDN,Indonesia,113,13
+02/04/20,ID-JA,Jambi,0,0
+02/04/20,ID-JB,Jawa Barat,20,4
+02/04/20,ID-JT,Jawa Tengah,0,2
+02/04/20,ID-JI,Jawa Timur,0,1
+02/04/20,ID-KB,Kalimantan Barat,0,1
+02/04/20,ID-KS,Kalimantan Selatan,0,0
+02/04/20,ID-KT,Kalimantan Tengah,0,0
+02/04/20,ID-KI,Kalimantan Timur,0,0
+02/04/20,ID-KU,Kalimantan Utara,0,0
+02/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+02/04/20,ID-KR,Kepulauan Riau,0,1
+02/04/20,ID-LA,Lampung,0,0
+02/04/20,ID-MA,Maluku,0,0
+02/04/20,ID-MU,Maluku Utara,0,0
+02/04/20,ID-NB,Nusa Tenggara Barat,0,0
+02/04/20,ID-PA,Papua,0,0
+02/04/20,ID-PB,Papua Barat,0,0
+02/04/20,ID-RI,Riau,4,0
+02/04/20,ID-SR,Sulawesi Barat,0,0
+02/04/20,ID-SN,Sulawesi Selatan,0,2
+02/04/20,ID-ST,Sulawesi Tengah,0,1
+02/04/20,ID-SG,Sulawesi Tenggara,0,0
+02/04/20,ID-SA,Sulawesi Utara,0,0
+02/04/20,ID-SB,Sumatera Barat,0,0
+02/04/20,ID-SS,Sumatera Selatan,6,0
+02/04/20,ID-SU,Sumatera Utara,0,0
+03/04/20,ID-AC,Aceh,0,0
+03/04/20,ID-BA,Bali,3,0
+03/04/20,ID-BT,Banten,4,3
+03/04/20,ID-BE,Bengkulu,1,0
+03/04/20,ID-JK,DKI Jakarta,70,6
+03/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+03/04/20,IDN,Indonesia,196,11
+03/04/20,ID-JA,Jambi,0,0
+03/04/20,ID-JB,Jawa Barat,2,1
+03/04/20,ID-JT,Jawa Tengah,13,1
+03/04/20,ID-JI,Jawa Timur,49,0
+03/04/20,ID-KB,Kalimantan Barat,0,0
+03/04/20,ID-KS,Kalimantan Selatan,0,0
+03/04/20,ID-KT,Kalimantan Tengah,2,0
+03/04/20,ID-KI,Kalimantan Timur,1,0
+03/04/20,ID-KU,Kalimantan Utara,6,0
+03/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+03/04/20,ID-KR,Kepulauan Riau,2,0
+03/04/20,ID-LA,Lampung,3,1
+03/04/20,ID-MA,Maluku,0,0
+03/04/20,ID-MU,Maluku Utara,0,0
+03/04/20,ID-NB,Nusa Tenggara Barat,0,0
+03/04/20,ID-PA,Papua,6,1
+03/04/20,ID-PB,Papua Barat,0,0
+03/04/20,ID-RI,Riau,3,0
+03/04/20,ID-SR,Sulawesi Barat,1,0
+03/04/20,ID-SN,Sulawesi Selatan,15,0
+03/04/20,ID-ST,Sulawesi Tengah,2,1
+03/04/20,ID-SG,Sulawesi Tenggara,2,0
+03/04/20,ID-SA,Sulawesi Utara,0,0
+03/04/20,ID-SB,Sumatera Barat,0,0
+03/04/20,ID-SS,Sumatera Selatan,1,0
+03/04/20,ID-SU,Sumatera Utara,0,0
+04/04/20,ID-AC,Aceh,0,0
+04/04/20,ID-BA,Bali,5,0
+04/04/20,ID-BT,Banten,3,0
+04/04/20,ID-BE,Bengkulu,0,0
+04/04/20,ID-JK,DKI Jakarta,58,8
+04/04/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+04/04/20,IDN,Indonesia,106,10
+04/04/20,ID-JA,Jambi,0,0
+04/04/20,ID-JB,Jawa Barat,22,2
+04/04/20,ID-JT,Jawa Tengah,8,1
+04/04/20,ID-JI,Jawa Timur,0,3
+04/04/20,ID-KB,Kalimantan Barat,0,0
+04/04/20,ID-KS,Kalimantan Selatan,0,0
+04/04/20,ID-KT,Kalimantan Tengah,0,0
+04/04/20,ID-KI,Kalimantan Timur,2,0
+04/04/20,ID-KU,Kalimantan Utara,0,0
+04/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+04/04/20,ID-KR,Kepulauan Riau,0,0
+04/04/20,ID-LA,Lampung,0,0
+04/04/20,ID-MA,Maluku,0,0
+04/04/20,ID-MU,Maluku Utara,0,0
+04/04/20,ID-NB,Nusa Tenggara Barat,0,0
+04/04/20,ID-PA,Papua,2,0
+04/04/20,ID-PB,Papua Barat,0,0
+04/04/20,ID-RI,Riau,0,0
+04/04/20,ID-SR,Sulawesi Barat,0,0
+04/04/20,ID-SN,Sulawesi Selatan,0,2
+04/04/20,ID-ST,Sulawesi Tengah,0,0
+04/04/20,ID-SG,Sulawesi Tenggara,0,0
+04/04/20,ID-SA,Sulawesi Utara,0,1
+04/04/20,ID-SB,Sumatera Barat,0,0
+04/04/20,ID-SS,Sumatera Selatan,0,0
+04/04/20,ID-SU,Sumatera Utara,3,1
+05/04/20,ID-AC,Aceh,0,0
+05/04/20,ID-BA,Bali,3,0
+05/04/20,ID-BT,Banten,4,0
+05/04/20,ID-BE,Bengkulu,0,0
+05/04/20,ID-JK,DKI Jakarta,85,11
+05/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+05/04/20,IDN,Indonesia,181,7
+05/04/20,ID-JA,Jambi,0,0
+05/04/20,ID-JB,Jawa Barat,10,0
+05/04/20,ID-JT,Jawa Tengah,0,0
+05/04/20,ID-JI,Jawa Timur,35,2
+05/04/20,ID-KB,Kalimantan Barat,0,0
+05/04/20,ID-KS,Kalimantan Selatan,8,1
+05/04/20,ID-KT,Kalimantan Tengah,0,0
+05/04/20,ID-KI,Kalimantan Timur,1,0
+05/04/20,ID-KU,Kalimantan Utara,0,0
+05/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+05/04/20,ID-KR,Kepulauan Riau,1,0
+05/04/20,ID-LA,Lampung,0,0
+05/04/20,ID-MA,Maluku,0,0
+05/04/20,ID-MU,Maluku Utara,0,0
+05/04/20,ID-NB,Nusa Tenggara Barat,0,0
+05/04/20,ID-PA,Papua,8,0
+05/04/20,ID-PB,Papua Barat,0,0
+05/04/20,ID-RI,Riau,1,1
+05/04/20,ID-SR,Sulawesi Barat,0,0
+05/04/20,ID-SN,Sulawesi Selatan,2,2
+05/04/20,ID-ST,Sulawesi Tengah,1,0
+05/04/20,ID-SG,Sulawesi Tenggara,0,0
+05/04/20,ID-SA,Sulawesi Utara,0,0
+05/04/20,ID-SB,Sumatera Barat,0,0
+05/04/20,ID-SS,Sumatera Selatan,4,0
+05/04/20,ID-SU,Sumatera Utara,0,0
+06/04/20,ID-AC,Aceh,0,0
+06/04/20,ID-BA,Bali,7,0
+06/04/20,ID-BT,Banten,9,1
+06/04/20,ID-BE,Bengkulu,0,0
+06/04/20,ID-JK,DKI Jakarta,103,7
+06/04/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+06/04/20,IDN,Indonesia,218,11
+06/04/20,ID-JA,Jambi,0,0
+06/04/20,ID-JB,Jawa Barat,15,1
+06/04/20,ID-JT,Jawa Tengah,12,4
+06/04/20,ID-JI,Jawa Timur,3,0
+06/04/20,ID-KB,Kalimantan Barat,0,0
+06/04/20,ID-KS,Kalimantan Selatan,2,0
+06/04/20,ID-KT,Kalimantan Tengah,9,0
+06/04/20,ID-KI,Kalimantan Timur,6,0
+06/04/20,ID-KU,Kalimantan Utara,7,0
+06/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+06/04/20,ID-KR,Kepulauan Riau,0,0
+06/04/20,ID-LA,Lampung,1,0
+06/04/20,ID-MA,Maluku,0,0
+06/04/20,ID-MU,Maluku Utara,0,0
+06/04/20,ID-NB,Nusa Tenggara Barat,3,0
+06/04/20,ID-PA,Papua,0,1
+06/04/20,ID-PB,Papua Barat,0,0
+06/04/20,ID-RI,Riau,1,0
+06/04/20,ID-SR,Sulawesi Barat,0,0
+06/04/20,ID-SN,Sulawesi Selatan,29,0
+06/04/20,ID-ST,Sulawesi Tengah,0,0
+06/04/20,ID-SG,Sulawesi Tenggara,1,0
+06/04/20,ID-SA,Sulawesi Utara,2,0
+06/04/20,ID-SB,Sumatera Barat,10,0
+06/04/20,ID-SS,Sumatera Selatan,0,0
+06/04/20,ID-SU,Sumatera Utara,1,0
+07/04/20,ID-AC,Aceh,0,0
+07/04/20,ID-BA,Bali,0,0
+07/04/20,ID-BT,Banten,6,1
+07/04/20,ID-BE,Bengkulu,0,0
+07/04/20,ID-JK,DKI Jakarta,111,14
+07/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+07/04/20,IDN,Indonesia,247,12
+07/04/20,ID-JA,Jambi,0,0
+07/04/20,ID-JB,Jawa Barat,79,0
+07/04/20,ID-JT,Jawa Tengah,1,0
+07/04/20,ID-JI,Jawa Timur,5,0
+07/04/20,ID-KB,Kalimantan Barat,0,0
+07/04/20,ID-KS,Kalimantan Selatan,0,2
+07/04/20,ID-KT,Kalimantan Tengah,0,0
+07/04/20,ID-KI,Kalimantan Timur,0,0
+07/04/20,ID-KU,Kalimantan Utara,0,0
+07/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+07/04/20,ID-KR,Kepulauan Riau,0,0
+07/04/20,ID-LA,Lampung,0,0
+07/04/20,ID-MA,Maluku,0,0
+07/04/20,ID-MU,Maluku Utara,0,0
+07/04/20,ID-NB,Nusa Tenggara Barat,0,0
+07/04/20,ID-PA,Papua,0,1
+07/04/20,ID-PB,Papua Barat,0,0
+07/04/20,ID-RI,Riau,0,0
+07/04/20,ID-SR,Sulawesi Barat,0,0
+07/04/20,ID-SN,Sulawesi Selatan,10,0
+07/04/20,ID-ST,Sulawesi Tengah,0,0
+07/04/20,ID-SG,Sulawesi Tenggara,0,0
+07/04/20,ID-SA,Sulawesi Utara,3,1
+07/04/20,ID-SB,Sumatera Barat,0,0
+07/04/20,ID-SS,Sumatera Selatan,0,0
+07/04/20,ID-SU,Sumatera Utara,0,0
+08/04/20,ID-AC,Aceh,0,0
+08/04/20,ID-BA,Bali,6,0
+08/04/20,ID-BT,Banten,19,0
+08/04/20,ID-BE,Bengkulu,0,0
+08/04/20,ID-JK,DKI Jakarta,89,8
+08/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,3
+08/04/20,IDN,Indonesia,218,19
+08/04/20,ID-JA,Jambi,0,0
+08/04/20,ID-JB,Jawa Barat,23,5
+08/04/20,ID-JT,Jawa Tengah,7,2
+08/04/20,ID-JI,Jawa Timur,2,0
+08/04/20,ID-KB,Kalimantan Barat,0,0
+08/04/20,ID-KS,Kalimantan Selatan,4,0
+08/04/20,ID-KT,Kalimantan Tengah,0,1
+08/04/20,ID-KI,Kalimantan Timur,1,0
+08/04/20,ID-KU,Kalimantan Utara,1,0
+08/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+08/04/20,ID-KR,Kepulauan Riau,0,0
+08/04/20,ID-LA,Lampung,3,2
+08/04/20,ID-MA,Maluku,2,0
+08/04/20,ID-MU,Maluku Utara,1,0
+08/04/20,ID-NB,Nusa Tenggara Barat,0,0
+08/04/20,ID-PA,Papua,11,0
+08/04/20,ID-PB,Papua Barat,0,0
+08/04/20,ID-RI,Riau,0,0
+08/04/20,ID-SR,Sulawesi Barat,0,0
+08/04/20,ID-SN,Sulawesi Selatan,5,1
+08/04/20,ID-ST,Sulawesi Tengah,0,0
+08/04/20,ID-SG,Sulawesi Tenggara,4,0
+08/04/20,ID-SA,Sulawesi Utara,0,0
+08/04/20,ID-SB,Sumatera Barat,0,0
+08/04/20,ID-SS,Sumatera Selatan,0,0
+08/04/20,ID-SU,Sumatera Utara,29,0
+09/04/20,ID-AC,Aceh,0,0
+09/04/20,ID-BA,Bali,14,0
+09/04/20,ID-BT,Banten,3,2
+09/04/20,ID-BE,Bengkulu,2,0
+09/04/20,ID-JK,DKI Jakarta,229,34
+09/04/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+09/04/20,IDN,Indonesia,337,40
+09/04/20,ID-JA,Jambi,0,0
+09/04/20,ID-JB,Jawa Barat,18,6
+09/04/20,ID-JT,Jawa Tengah,4,1
+09/04/20,ID-JI,Jawa Timur,27,2
+09/04/20,ID-KB,Kalimantan Barat,0,0
+09/04/20,ID-KS,Kalimantan Selatan,0,1
+09/04/20,ID-KT,Kalimantan Tengah,0,0
+09/04/20,ID-KI,Kalimantan Timur,0,0
+09/04/20,ID-KU,Kalimantan Utara,0,0
+09/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+09/04/20,ID-KR,Kepulauan Riau,11,0
+09/04/20,ID-LA,Lampung,0,0
+09/04/20,ID-MA,Maluku,0,0
+09/04/20,ID-MU,Maluku Utara,0,0
+09/04/20,ID-NB,Nusa Tenggara Barat,5,0
+09/04/20,ID-NT,Nusa Tenggara Timur,1,0
+09/04/20,ID-PA,Papua,0,0
+09/04/20,ID-PB,Papua Barat,0,0
+09/04/20,ID-RI,Riau,1,1
+09/04/20,ID-SR,Sulawesi Barat,0,0
+09/04/20,ID-SN,Sulawesi Selatan,6,0
+09/04/20,ID-ST,Sulawesi Tengah,0,0
+09/04/20,ID-SG,Sulawesi Tenggara,5,0
+09/04/20,ID-SA,Sulawesi Utara,0,0
+09/04/20,ID-SB,Sumatera Barat,0,0
+09/04/20,ID-SS,Sumatera Selatan,1,0
+09/04/20,ID-SU,Sumatera Utara,0,0
+10/04/20,ID-AC,Aceh,0,0
+10/04/20,ID-BA,Bali,12,0
+10/04/20,ID-BT,Banten,21,1
+10/04/20,ID-BE,Bengkulu,0,0
+10/04/20,ID-JK,DKI Jakarta,50,11
+10/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+10/04/20,ID-GO,Gorontalo,1,0
+10/04/20,IDN,Indonesia,219,26
+10/04/20,ID-JA,Jambi,0,0
+10/04/20,ID-JB,Jawa Barat,10,0
+10/04/20,ID-JT,Jawa Tengah,0,0
+10/04/20,ID-JI,Jawa Timur,33,4
+10/04/20,ID-KB,Kalimantan Barat,0,0
+10/04/20,ID-KS,Kalimantan Selatan,7,0
+10/04/20,ID-KT,Kalimantan Tengah,4,0
+10/04/20,ID-KI,Kalimantan Timur,4,0
+10/04/20,ID-KU,Kalimantan Utara,0,0
+10/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+10/04/20,ID-KR,Kepulauan Riau,0,0
+10/04/20,ID-LA,Lampung,5,0
+10/04/20,ID-MA,Maluku,0,0
+10/04/20,ID-MU,Maluku Utara,0,0
+10/04/20,ID-NB,Nusa Tenggara Barat,9,0
+10/04/20,ID-NT,Nusa Tenggara Timur,0,0
+10/04/20,ID-PA,Papua,0,1
+10/04/20,ID-PB,Papua Barat,0,0
+10/04/20,ID-RI,Riau,0,0
+10/04/20,ID-SR,Sulawesi Barat,1,0
+10/04/20,ID-SN,Sulawesi Selatan,33,1
+10/04/20,ID-ST,Sulawesi Tengah,9,0
+10/04/20,ID-SG,Sulawesi Tenggara,0,0
+10/04/20,ID-SA,Sulawesi Utara,5,1
+10/04/20,ID-SB,Sumatera Barat,13,3
+10/04/20,ID-SS,Sumatera Selatan,1,0
+10/04/20,ID-SU,Sumatera Utara,0,0
+11/04/20,ID-AC,Aceh,0,0
+11/04/20,ID-BA,Bali,4,0
+11/04/20,ID-BT,Banten,31,0
+11/04/20,ID-BE,Bengkulu,0,0
+11/04/20,ID-JK,DKI Jakarta,195,11
+11/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+11/04/20,ID-GO,Gorontalo,0,0
+11/04/20,IDN,Indonesia,330,21
+11/04/20,ID-JA,Jambi,2,0
+11/04/20,ID-JB,Jawa Barat,35,0
+11/04/20,ID-JT,Jawa Tengah,0,1
+11/04/20,ID-JI,Jawa Timur,11,3
+11/04/20,ID-KB,Kalimantan Barat,0,0
+11/04/20,ID-KS,Kalimantan Selatan,0,1
+11/04/20,ID-KT,Kalimantan Tengah,0,0
+11/04/20,ID-KI,Kalimantan Timur,0,0
+11/04/20,ID-KU,Kalimantan Utara,0,1
+11/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+11/04/20,ID-KR,Kepulauan Riau,0,1
+11/04/20,ID-LA,Lampung,0,0
+11/04/20,ID-MA,Maluku,0,0
+11/04/20,ID-MU,Maluku Utara,0,0
+11/04/20,ID-NB,Nusa Tenggara Barat,2,2
+11/04/20,ID-NT,Nusa Tenggara Timur,0,0
+11/04/20,ID-PA,Papua,24,0
+11/04/20,ID-PB,Papua Barat,0,0
+11/04/20,ID-RI,Riau,3,0
+11/04/20,ID-SR,Sulawesi Barat,2,1
+11/04/20,ID-SN,Sulawesi Selatan,11,6
+11/04/20,ID-ST,Sulawesi Tengah,5,0
+11/04/20,ID-SG,Sulawesi Tenggara,1,1
+11/04/20,ID-SA,Sulawesi Utara,0,0
+11/04/20,ID-SB,Sumatera Barat,0,0
+11/04/20,ID-SS,Sumatera Selatan,0,0
+11/04/20,ID-SU,Sumatera Utara,0,3
+12/04/20,ID-AC,Aceh,0,0
+12/04/20,ID-BA,Bali,2,0
+12/04/20,ID-BT,Banten,2,0
+12/04/20,ID-BE,Bengkulu,0,0
+12/04/20,ID-JK,DKI Jakarta,123,33
+12/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+12/04/20,ID-GO,Gorontalo,0,0
+12/04/20,IDN,Indonesia,399,46
+12/04/20,ID-JA,Jambi,0,0
+12/04/20,ID-JB,Jawa Barat,32,4
+12/04/20,ID-JT,Jawa Tengah,56,0
+12/04/20,ID-JI,Jawa Timur,119,0
+12/04/20,ID-KB,Kalimantan Barat,3,0
+12/04/20,ID-KS,Kalimantan Selatan,5,0
+12/04/20,ID-KT,Kalimantan Tengah,0,0
+12/04/20,ID-KI,Kalimantan Timur,0,0
+12/04/20,ID-KU,Kalimantan Utara,0,0
+12/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+12/04/20,ID-KR,Kepulauan Riau,0,1
+12/04/20,ID-LA,Lampung,0,0
+12/04/20,ID-MA,Maluku,8,0
+12/04/20,ID-MU,Maluku Utara,0,0
+12/04/20,ID-NB,Nusa Tenggara Barat,9,0
+12/04/20,ID-NT,Nusa Tenggara Timur,0,0
+12/04/20,ID-PA,Papua,1,0
+12/04/20,ID-PB,Papua Barat,0,0
+12/04/20,ID-RI,Riau,0,0
+12/04/20,ID-SR,Sulawesi Barat,0,0
+12/04/20,ID-SN,Sulawesi Selatan,45,0
+12/04/20,ID-ST,Sulawesi Tengah,0,0
+12/04/20,ID-SG,Sulawesi Tenggara,0,0
+12/04/20,ID-SA,Sulawesi Utara,4,0
+12/04/20,ID-SB,Sumatera Barat,13,0
+12/04/20,ID-SS,Sumatera Selatan,0,0
+12/04/20,ID-SU,Sumatera Utara,10,0
+13/04/20,ID-AC,Aceh,0,0
+13/04/20,ID-BA,Bali,5,0
+13/04/20,ID-BT,Banten,3,1
+13/04/20,ID-BE,Bengkulu,0,0
+13/04/20,ID-JK,DKI Jakarta,141,8
+13/04/20,ID-YO,Daerah Istimewa Yogyakarta,16,0
+13/04/20,ID-GO,Gorontalo,0,0
+13/04/20,IDN,Indonesia,316,26
+13/04/20,ID-JA,Jambi,0,0
+13/04/20,ID-JB,Jawa Barat,71,9
+13/04/20,ID-JT,Jawa Tengah,3,1
+13/04/20,ID-JI,Jawa Timur,52,2
+13/04/20,ID-KB,Kalimantan Barat,0,0
+13/04/20,ID-KS,Kalimantan Selatan,0,0
+13/04/20,ID-KT,Kalimantan Tengah,1,0
+13/04/20,ID-KI,Kalimantan Timur,0,0
+13/04/20,ID-KU,Kalimantan Utara,0,0
+13/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+13/04/20,ID-KR,Kepulauan Riau,0,0
+13/04/20,ID-LA,Lampung,1,0
+13/04/20,ID-MA,Maluku,0,0
+13/04/20,ID-MU,Maluku Utara,0,0
+13/04/20,ID-NB,Nusa Tenggara Barat,3,0
+13/04/20,ID-NT,Nusa Tenggara Timur,0,0
+13/04/20,ID-PA,Papua,6,0
+13/04/20,ID-PB,Papua Barat,0,0
+13/04/20,ID-RI,Riau,4,0
+13/04/20,ID-SR,Sulawesi Barat,0,0
+13/04/20,ID-SN,Sulawesi Selatan,0,1
+13/04/20,ID-ST,Sulawesi Tengah,0,1
+13/04/20,ID-SG,Sulawesi Tenggara,0,0
+13/04/20,ID-SA,Sulawesi Utara,0,0
+13/04/20,ID-SB,Sumatera Barat,1,0
+13/04/20,ID-SS,Sumatera Selatan,0,0
+13/04/20,ID-SU,Sumatera Utara,2,1
+14/04/20,ID-AC,Aceh,0,0
+14/04/20,ID-BA,Bali,6,0
+14/04/20,ID-BT,Banten,5,0
+14/04/20,ID-BE,Bengkulu,0,0
+14/04/20,ID-JK,DKI Jakarta,124,10
+14/04/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+14/04/20,ID-GO,Gorontalo,0,0
+14/04/20,IDN,Indonesia,282,60
+14/04/20,ID-JA,Jambi,1,0
+14/04/20,ID-JB,Jawa Barat,3,0
+14/04/20,ID-JT,Jawa Tengah,75,1
+14/04/20,ID-JI,Jawa Timur,36,13
+14/04/20,ID-KB,Kalimantan Barat,0,0
+14/04/20,ID-KS,Kalimantan Selatan,3,2
+14/04/20,ID-KT,Kalimantan Tengah,0,1
+14/04/20,ID-KI,Kalimantan Timur,0,0
+14/04/20,ID-KU,Kalimantan Utara,0,0
+14/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+14/04/20,ID-KR,Kepulauan Riau,6,1
+14/04/20,ID-LA,Lampung,0,0
+14/04/20,ID-MA,Maluku,0,0
+14/04/20,ID-MU,Maluku Utara,0,0
+14/04/20,ID-NB,Nusa Tenggara Barat,0,0
+14/04/20,ID-NT,Nusa Tenggara Timur,0,0
+14/04/20,ID-PA,Papua,0,0
+14/04/20,ID-PB,Papua Barat,0,0
+14/04/20,ID-RI,Riau,0,0
+14/04/20,ID-SR,Sulawesi Barat,0,0
+14/04/20,ID-SN,Sulawesi Selatan,8,3
+14/04/20,ID-ST,Sulawesi Tengah,0,0
+14/04/20,ID-SG,Sulawesi Tenggara,0,0
+14/04/20,ID-SA,Sulawesi Utara,0,0
+14/04/20,ID-SB,Sumatera Barat,3,1
+14/04/20,ID-SS,Sumatera Selatan,1,0
+14/04/20,ID-SU,Sumatera Utara,5,0
+15/04/20,ID-AC,Aceh,0,0
+15/04/20,ID-BA,Bali,6,0
+15/04/20,ID-BT,Banten,0,2
+15/04/20,ID-BE,Bengkulu,0,0
+15/04/20,ID-JK,DKI Jakarta,135,11
+15/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+15/04/20,ID-GO,Gorontalo,0,0
+15/04/20,IDN,Indonesia,297,10
+15/04/20,ID-JA,Jambi,1,0
+15/04/20,ID-JB,Jawa Barat,30,1
+15/04/20,ID-JT,Jawa Tengah,13,2
+15/04/20,ID-JI,Jawa Timur,25,4
+15/04/20,ID-KB,Kalimantan Barat,0,0
+15/04/20,ID-KS,Kalimantan Selatan,12,0
+15/04/20,ID-KT,Kalimantan Tengah,8,0
+15/04/20,ID-KI,Kalimantan Timur,0,0
+15/04/20,ID-KU,Kalimantan Utara,4,0
+15/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+15/04/20,ID-KR,Kepulauan Riau,5,0
+15/04/20,ID-LA,Lampung,0,0
+15/04/20,ID-MA,Maluku,3,0
+15/04/20,ID-MU,Maluku Utara,2,0
+15/04/20,ID-NB,Nusa Tenggara Barat,0,0
+15/04/20,ID-NT,Nusa Tenggara Timur,0,0
+15/04/20,ID-PA,Papua,7,0
+15/04/20,ID-PB,Papua Barat,0,0
+15/04/20,ID-RI,Riau,0,2
+15/04/20,ID-SR,Sulawesi Barat,2,0
+15/04/20,ID-SN,Sulawesi Selatan,10,1
+15/04/20,ID-ST,Sulawesi Tengah,3,0
+15/04/20,ID-SG,Sulawesi Tenggara,8,0
+15/04/20,ID-SA,Sulawesi Utara,1,0
+15/04/20,ID-SB,Sumatera Barat,7,0
+15/04/20,ID-SS,Sumatera Selatan,3,0
+15/04/20,ID-SU,Sumatera Utara,6,0
+16/04/20,ID-AC,Aceh,0,0
+16/04/20,ID-BA,Bali,15,0
+16/04/20,ID-BT,Banten,15,6
+16/04/20,ID-BE,Bengkulu,0,0
+16/04/20,ID-JK,DKI Jakarta,183,1
+16/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+16/04/20,ID-GO,Gorontalo,3,0
+16/04/20,IDN,Indonesia,380,27
+16/04/20,ID-JA,Jambi,1,0
+16/04/20,ID-JB,Jawa Barat,13,1
+16/04/20,ID-JT,Jawa Tengah,8,2
+16/04/20,ID-JI,Jawa Timur,15,1
+16/04/20,ID-KB,Kalimantan Barat,8,0
+16/04/20,ID-KS,Kalimantan Selatan,9,0
+16/04/20,ID-KT,Kalimantan Tengah,1,0
+16/04/20,ID-KI,Kalimantan Timur,9,0
+16/04/20,ID-KU,Kalimantan Utara,8,0
+16/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+16/04/20,ID-KR,Kepulauan Riau,7,0
+16/04/20,ID-LA,Lampung,5,0
+16/04/20,ID-MA,Maluku,0,0
+16/04/20,ID-MU,Maluku Utara,0,0
+16/04/20,ID-NB,Nusa Tenggara Barat,8,0
+16/04/20,ID-NT,Nusa Tenggara Timur,0,0
+16/04/20,ID-PA,Papua,5,2
+16/04/20,ID-PB,Papua Barat,3,0
+16/04/20,ID-RI,Riau,5,0
+16/04/20,ID-SR,Sulawesi Barat,0,0
+16/04/20,ID-SN,Sulawesi Selatan,27,2
+16/04/20,ID-ST,Sulawesi Tengah,0,0
+16/04/20,ID-SG,Sulawesi Tenggara,3,0
+16/04/20,ID-SA,Sulawesi Utara,0,0
+16/04/20,ID-SB,Sumatera Barat,0,0
+16/04/20,ID-SS,Sumatera Selatan,18,0
+16/04/20,ID-SU,Sumatera Utara,1,0
+17/04/20,ID-AC,Aceh,0,0
+17/04/20,ID-BA,Bali,11,0
+17/04/20,ID-BT,Banten,8,2
+17/04/20,ID-BE,Bengkulu,0,0
+17/04/20,ID-JK,DKI Jakarta,146,7
+17/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,1
+17/04/20,ID-GO,Gorontalo,0,0
+17/04/20,IDN,Indonesia,407,24
+17/04/20,ID-JA,Jambi,1,0
+17/04/20,ID-JB,Jawa Barat,59,3
+17/04/20,ID-JT,Jawa Tengah,5,4
+17/04/20,ID-JI,Jawa Timur,8,1
+17/04/20,ID-KB,Kalimantan Barat,0,0
+17/04/20,ID-KS,Kalimantan Selatan,15,0
+17/04/20,ID-KT,Kalimantan Tengah,1,0
+17/04/20,ID-KI,Kalimantan Timur,0,0
+17/04/20,ID-KU,Kalimantan Utara,19,0
+17/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+17/04/20,ID-KR,Kepulauan Riau,19,0
+17/04/20,ID-LA,Lampung,0,0
+17/04/20,ID-MA,Maluku,0,0
+17/04/20,ID-MU,Maluku Utara,0,0
+17/04/20,ID-NB,Nusa Tenggara Barat,6,0
+17/04/20,ID-NT,Nusa Tenggara Timur,0,0
+17/04/20,ID-PA,Papua,9,0
+17/04/20,ID-PB,Papua Barat,0,0
+17/04/20,ID-RI,Riau,1,0
+17/04/20,ID-SR,Sulawesi Barat,0,0
+17/04/20,ID-SN,Sulawesi Selatan,65,2
+17/04/20,ID-ST,Sulawesi Tengah,2,0
+17/04/20,ID-SG,Sulawesi Tenggara,0,0
+17/04/20,ID-SA,Sulawesi Utara,0,0
+17/04/20,ID-SB,Sumatera Barat,7,2
+17/04/20,ID-SS,Sumatera Selatan,14,0
+17/04/20,ID-SU,Sumatera Utara,0,0
+18/04/20,ID-AC,Aceh,1,0
+18/04/20,ID-BA,Bali,7,0
+18/04/20,ID-BT,Banten,11,0
+18/04/20,ID-BE,Bengkulu,0,0
+18/04/20,ID-JK,DKI Jakarta,105,7
+18/04/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+18/04/20,ID-GO,Gorontalo,0,0
+18/04/20,IDN,Indonesia,325,15
+18/04/20,ID-JA,Jambi,0,0
+18/04/20,ID-JB,Jawa Barat,9,0
+18/04/20,ID-JT,Jawa Tengah,24,0
+18/04/20,ID-JI,Jawa Timur,33,3
+18/04/20,ID-KB,Kalimantan Barat,0,0
+18/04/20,ID-KS,Kalimantan Selatan,18,0
+18/04/20,ID-KT,Kalimantan Tengah,6,1
+18/04/20,ID-KI,Kalimantan Timur,10,0
+18/04/20,ID-KU,Kalimantan Utara,3,0
+18/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+18/04/20,ID-KR,Kepulauan Riau,21,0
+18/04/20,ID-LA,Lampung,0,0
+18/04/20,ID-MA,Maluku,3,0
+18/04/20,ID-MU,Maluku Utara,0,0
+18/04/20,ID-NB,Nusa Tenggara Barat,4,0
+18/04/20,ID-NT,Nusa Tenggara Timur,0,0
+18/04/20,ID-PA,Papua,6,0
+18/04/20,ID-PB,Papua Barat,0,0
+18/04/20,ID-RI,Riau,4,0
+18/04/20,ID-SR,Sulawesi Barat,0,0
+18/04/20,ID-SN,Sulawesi Selatan,10,2
+18/04/20,ID-ST,Sulawesi Tengah,0,0
+18/04/20,ID-SG,Sulawesi Tenggara,0,1
+18/04/20,ID-SA,Sulawesi Utara,2,0
+18/04/20,ID-SB,Sumatera Barat,9,1
+18/04/20,ID-SS,Sumatera Selatan,30,1
+18/04/20,ID-SU,Sumatera Utara,0,0
+19/04/20,ID-AC,Aceh,1,0
+19/04/20,ID-BA,Bali,4,1
+19/04/20,ID-BT,Banten,3,0
+19/04/20,ID-BE,Bengkulu,0,0
+19/04/20,ID-JK,DKI Jakarta,102,3
+19/04/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+19/04/20,ID-GO,Gorontalo,0,0
+19/04/20,IDN,Indonesia,327,47
+19/04/20,ID-JA,Jambi,0,0
+19/04/20,ID-JB,Jawa Barat,50,1
+19/04/20,ID-JT,Jawa Tengah,21,2
+19/04/20,ID-JI,Jawa Timur,33,5
+19/04/20,ID-KB,Kalimantan Barat,0,0
+19/04/20,ID-KS,Kalimantan Selatan,4,0
+19/04/20,ID-KT,Kalimantan Tengah,5,0
+19/04/20,ID-KI,Kalimantan Timur,5,0
+19/04/20,ID-KU,Kalimantan Utara,19,0
+19/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+19/04/20,ID-KR,Kepulauan Riau,0,0
+19/04/20,ID-LA,Lampung,0,0
+19/04/20,ID-MA,Maluku,0,0
+19/04/20,ID-MU,Maluku Utara,0,0
+19/04/20,ID-NB,Nusa Tenggara Barat,6,1
+19/04/20,ID-NT,Nusa Tenggara Timur,0,0
+19/04/20,ID-PA,Papua,12,0
+19/04/20,ID-PB,Papua Barat,2,0
+19/04/20,ID-RI,Riau,0,0
+19/04/20,ID-SR,Sulawesi Barat,0,0
+19/04/20,ID-SN,Sulawesi Selatan,27,1
+19/04/20,ID-ST,Sulawesi Tengah,3,0
+19/04/20,ID-SG,Sulawesi Tenggara,9,0
+19/04/20,ID-SA,Sulawesi Utara,0,0
+19/04/20,ID-SB,Sumatera Barat,1,0
+19/04/20,ID-SS,Sumatera Selatan,5,0
+19/04/20,ID-SU,Sumatera Utara,2,0
+20/04/20,ID-AC,Aceh,0,0
+20/04/20,ID-BA,Bali,5,0
+20/04/20,ID-BT,Banten,29,0
+20/04/20,ID-BE,Bengkulu,0,0
+20/04/20,ID-JK,DKI Jakarta,71,5
+20/04/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+20/04/20,ID-GO,Gorontalo,0,0
+20/04/20,IDN,Indonesia,185,8
+20/04/20,ID-JA,Jambi,0,0
+20/04/20,ID-JB,Jawa Barat,26,3
+20/04/20,ID-JT,Jawa Tengah,3,1
+20/04/20,ID-JI,Jawa Timur,0,3
+20/04/20,ID-KB,Kalimantan Barat,0,0
+20/04/20,ID-KS,Kalimantan Selatan,0,0
+20/04/20,ID-KT,Kalimantan Tengah,14,1
+20/04/20,ID-KI,Kalimantan Timur,4,0
+20/04/20,ID-KU,Kalimantan Utara,4,0
+20/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+20/04/20,ID-KR,Kepulauan Riau,0,1
+20/04/20,ID-LA,Lampung,0,0
+20/04/20,ID-MA,Maluku,0,0
+20/04/20,ID-MU,Maluku Utara,0,0
+20/04/20,ID-NB,Nusa Tenggara Barat,11,1
+20/04/20,ID-NT,Nusa Tenggara Timur,0,0
+20/04/20,ID-PA,Papua,0,0
+20/04/20,ID-PB,Papua Barat,0,0
+20/04/20,ID-RI,Riau,4,1
+20/04/20,ID-SR,Sulawesi Barat,0,0
+20/04/20,ID-SN,Sulawesi Selatan,0,1
+20/04/20,ID-ST,Sulawesi Tengah,0,0
+20/04/20,ID-SG,Sulawesi Tenggara,0,0
+20/04/20,ID-SA,Sulawesi Utara,0,0
+20/04/20,ID-SB,Sumatera Barat,2,0
+20/04/20,ID-SS,Sumatera Selatan,0,0
+20/04/20,ID-SU,Sumatera Utara,2,1
+21/04/20,ID-AC,Aceh,0,0
+21/04/20,ID-BA,Bali,10,0
+21/04/20,ID-BT,Banten,0,0
+21/04/20,ID-BE,Bengkulu,4,0
+21/04/20,ID-JK,DKI Jakarta,156,2
+21/04/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+21/04/20,ID-GO,Gorontalo,3,1
+21/04/20,IDN,Indonesia,375,26
+21/04/20,ID-JA,Jambi,5,0
+21/04/20,ID-JB,Jawa Barat,10,5
+21/04/20,ID-JT,Jawa Tengah,99,1
+21/04/20,ID-JI,Jawa Timur,15,1
+21/04/20,ID-KB,Kalimantan Barat,6,0
+21/04/20,ID-KS,Kalimantan Selatan,2,0
+21/04/20,ID-KT,Kalimantan Tengah,7,1
+21/04/20,ID-KI,Kalimantan Timur,5,0
+21/04/20,ID-KU,Kalimantan Utara,4,0
+21/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+21/04/20,ID-KR,Kepulauan Riau,2,0
+21/04/20,ID-LA,Lampung,1,0
+21/04/20,ID-MA,Maluku,0,0
+21/04/20,ID-MU,Maluku Utara,0,0
+21/04/20,ID-NB,Nusa Tenggara Barat,21,0
+21/04/20,ID-NT,Nusa Tenggara Timur,0,0
+21/04/20,ID-PA,Papua,11,0
+21/04/20,ID-PB,Papua Barat,0,0
+21/04/20,ID-RI,Riau,1,0
+21/04/20,ID-SR,Sulawesi Barat,0,0
+21/04/20,ID-SN,Sulawesi Selatan,6,2
+21/04/20,ID-ST,Sulawesi Tengah,0,0
+21/04/20,ID-SG,Sulawesi Tenggara,0,0
+21/04/20,ID-SA,Sulawesi Utara,0,0
+21/04/20,ID-SB,Sumatera Barat,2,1
+21/04/20,ID-SS,Sumatera Selatan,0,0
+21/04/20,ID-SU,Sumatera Utara,1,0
+22/04/20,ID-AC,Aceh,0,0
+22/04/20,ID-BA,Bali,2,1
+22/04/20,ID-BT,Banten,1,0
+22/04/20,ID-BE,Bengkulu,0,0
+22/04/20,ID-JK,DKI Jakarta,110,1
+22/04/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+22/04/20,ID-GO,Gorontalo,0,0
+22/04/20,IDN,Indonesia,283,19
+22/04/20,ID-JA,Jambi,0,0
+22/04/20,ID-JB,Jawa Barat,6,3
+22/04/20,ID-JT,Jawa Tengah,30,1
+22/04/20,ID-JI,Jawa Timur,34,0
+22/04/20,ID-KB,Kalimantan Barat,4,0
+22/04/20,ID-KS,Kalimantan Selatan,10,0
+22/04/20,ID-KT,Kalimantan Tengah,15,0
+22/04/20,ID-KI,Kalimantan Timur,1,0
+22/04/20,ID-KU,Kalimantan Utara,0,0
+22/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+22/04/20,ID-KR,Kepulauan Riau,0,0
+22/04/20,ID-LA,Lampung,0,0
+22/04/20,ID-MA,Maluku,0,0
+22/04/20,ID-MU,Maluku Utara,8,0
+22/04/20,ID-NB,Nusa Tenggara Barat,15,0
+22/04/20,ID-NT,Nusa Tenggara Timur,0,0
+22/04/20,ID-PA,Papua,5,0
+22/04/20,ID-PB,Papua Barat,1,0
+22/04/20,ID-RI,Riau,0,0
+22/04/20,ID-SR,Sulawesi Barat,1,0
+22/04/20,ID-SN,Sulawesi Selatan,13,0
+22/04/20,ID-ST,Sulawesi Tengah,2,0
+22/04/20,ID-SG,Sulawesi Tenggara,0,0
+22/04/20,ID-SA,Sulawesi Utara,0,0
+22/04/20,ID-SB,Sumatera Barat,5,1
+22/04/20,ID-SS,Sumatera Selatan,0,0
+22/04/20,ID-SU,Sumatera Utara,9,0
+23/04/20,ID-AC,Aceh,0,1
+23/04/20,ID-BA,Bali,15,0
+23/04/20,ID-BT,Banten,3,0
+23/04/20,ID-BE,Bengkulu,0,0
+23/04/20,ID-JK,DKI Jakarta,124,0
+23/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+23/04/20,ID-GO,Gorontalo,0,0
+23/04/20,IDN,Indonesia,357,12
+23/04/20,ID-JA,Jambi,1,0
+23/04/20,ID-JB,Jawa Barat,25,3
+23/04/20,ID-JT,Jawa Tengah,59,1
+23/04/20,ID-JI,Jawa Timur,25,2
+23/04/20,ID-KB,Kalimantan Barat,19,0
+23/04/20,ID-KS,Kalimantan Selatan,7,1
+23/04/20,ID-KT,Kalimantan Tengah,1,0
+23/04/20,ID-KI,Kalimantan Timur,5,0
+23/04/20,ID-KU,Kalimantan Utara,0,0
+23/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+23/04/20,ID-KR,Kepulauan Riau,2,0
+23/04/20,ID-LA,Lampung,11,0
+23/04/20,ID-MA,Maluku,0,0
+23/04/20,ID-MU,Maluku Utara,2,0
+23/04/20,ID-NB,Nusa Tenggara Barat,7,0
+23/04/20,ID-NT,Nusa Tenggara Timur,0,0
+23/04/20,ID-PA,Papua,7,0
+23/04/20,ID-PB,Papua Barat,5,0
+23/04/20,ID-RI,Riau,1,0
+23/04/20,ID-SR,Sulawesi Barat,0,0
+23/04/20,ID-SN,Sulawesi Selatan,10,0
+23/04/20,ID-ST,Sulawesi Tengah,0,0
+23/04/20,ID-SG,Sulawesi Tenggara,0,0
+23/04/20,ID-SA,Sulawesi Utara,11,0
+23/04/20,ID-SB,Sumatera Barat,5,0
+23/04/20,ID-SS,Sumatera Selatan,4,0
+23/04/20,ID-SU,Sumatera Utara,2,1
+24/04/20,ID-AC,Aceh,1,0
+24/04/20,ID-BA,Bali,10,0
+24/04/20,ID-BT,Banten,23,4
+24/04/20,ID-BE,Bengkulu,0,0
+24/04/20,ID-JK,DKI Jakarta,80,0
+24/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+24/04/20,ID-GO,Gorontalo,5,0
+24/04/20,IDN,Indonesia,436,42
+24/04/20,ID-JA,Jambi,4,0
+24/04/20,ID-JB,Jawa Barat,72,2
+24/04/20,ID-JT,Jawa Tengah,37,3
+24/04/20,ID-JI,Jawa Timur,28,7
+24/04/20,ID-KB,Kalimantan Barat,0,0
+24/04/20,ID-KS,Kalimantan Selatan,18,0
+24/04/20,ID-KT,Kalimantan Tengah,11,0
+24/04/20,ID-KI,Kalimantan Timur,11,0
+24/04/20,ID-KU,Kalimantan Utara,0,0
+24/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+24/04/20,ID-KR,Kepulauan Riau,0,0
+24/04/20,ID-LA,Lampung,0,0
+24/04/20,ID-MA,Maluku,0,0
+24/04/20,ID-MU,Maluku Utara,0,0
+24/04/20,ID-NB,Nusa Tenggara Barat,38,0
+24/04/20,ID-NT,Nusa Tenggara Timur,0,0
+24/04/20,ID-PA,Papua,6,0
+24/04/20,ID-PB,Papua Barat,2,0
+24/04/20,ID-RI,Riau,0,0
+24/04/20,ID-SR,Sulawesi Barat,25,0
+24/04/20,ID-SN,Sulawesi Selatan,22,0
+24/04/20,ID-ST,Sulawesi Tengah,3,0
+24/04/20,ID-SG,Sulawesi Tenggara,5,0
+24/04/20,ID-SA,Sulawesi Utara,5,0
+24/04/20,ID-SB,Sumatera Barat,10,1
+24/04/20,ID-SS,Sumatera Selatan,13,0
+24/04/20,ID-SU,Sumatera Utara,1,0
+25/04/20,ID-AC,Aceh,1,0
+25/04/20,ID-BA,Bali,6,0
+25/04/20,ID-BT,Banten,11,0
+25/04/20,ID-BE,Bengkulu,0,0
+25/04/20,ID-JK,DKI Jakarta,82,18
+25/04/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+25/04/20,ID-GO,Gorontalo,2,0
+25/04/20,IDN,Indonesia,396,31
+25/04/20,ID-JA,Jambi,3,0
+25/04/20,ID-JB,Jawa Barat,44,0
+25/04/20,ID-JT,Jawa Tengah,46,1
+25/04/20,ID-JI,Jawa Timur,77,8
+25/04/20,ID-KB,Kalimantan Barat,1,0
+25/04/20,ID-KS,Kalimantan Selatan,14,0
+25/04/20,ID-KT,Kalimantan Tengah,6,0
+25/04/20,ID-KI,Kalimantan Timur,12,0
+25/04/20,ID-KU,Kalimantan Utara,6,0
+25/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+25/04/20,ID-KR,Kepulauan Riau,0,0
+25/04/20,ID-LA,Lampung,0,0
+25/04/20,ID-MA,Maluku,3,0
+25/04/20,ID-MU,Maluku Utara,0,0
+25/04/20,ID-NB,Nusa Tenggara Barat,27,0
+25/04/20,ID-NT,Nusa Tenggara Timur,0,0
+25/04/20,ID-PA,Papua,0,0
+25/04/20,ID-PB,Papua Barat,1,0
+25/04/20,ID-RI,Riau,2,0
+25/04/20,ID-SR,Sulawesi Barat,2,0
+25/04/20,ID-SN,Sulawesi Selatan,13,1
+25/04/20,ID-ST,Sulawesi Tengah,4,0
+25/04/20,ID-SG,Sulawesi Tenggara,0,0
+25/04/20,ID-SA,Sulawesi Utara,0,0
+25/04/20,ID-SB,Sumatera Barat,1,1
+25/04/20,ID-SS,Sumatera Selatan,13,0
+25/04/20,ID-SU,Sumatera Utara,9,1
+26/04/20,ID-AC,Aceh,0,0
+26/04/20,ID-BA,Bali,3,0
+26/04/20,ID-BT,Banten,0,0
+26/04/20,ID-BE,Bengkulu,0,0
+26/04/20,ID-JK,DKI Jakarta,105,7
+26/04/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+26/04/20,ID-GO,Gorontalo,0,0
+26/04/20,IDN,Indonesia,275,23
+26/04/20,ID-JA,Jambi,11,0
+26/04/20,ID-JB,Jawa Barat,11,0
+26/04/20,ID-JT,Jawa Tengah,28,0
+26/04/20,ID-JI,Jawa Timur,17,12
+26/04/20,ID-KB,Kalimantan Barat,0,0
+26/04/20,ID-KS,Kalimantan Selatan,0,0
+26/04/20,ID-KT,Kalimantan Tengah,4,0
+26/04/20,ID-KI,Kalimantan Timur,8,0
+26/04/20,ID-KU,Kalimantan Utara,6,0
+26/04/20,ID-BB,Kepulauan Bangka Belitung,1,0
+26/04/20,ID-KR,Kepulauan Riau,2,0
+26/04/20,ID-LA,Lampung,4,0
+26/04/20,ID-MA,Maluku,0,0
+26/04/20,ID-MU,Maluku Utara,12,0
+26/04/20,ID-NB,Nusa Tenggara Barat,15,0
+26/04/20,ID-NT,Nusa Tenggara Timur,0,0
+26/04/20,ID-PA,Papua,5,0
+26/04/20,ID-PB,Papua Barat,0,0
+26/04/20,ID-RI,Riau,1,0
+26/04/20,ID-SR,Sulawesi Barat,0,0
+26/04/20,ID-SN,Sulawesi Selatan,8,1
+26/04/20,ID-ST,Sulawesi Tengah,0,0
+26/04/20,ID-SG,Sulawesi Tenggara,4,0
+26/04/20,ID-SA,Sulawesi Utara,4,0
+26/04/20,ID-SB,Sumatera Barat,5,0
+26/04/20,ID-SS,Sumatera Selatan,10,0
+26/04/20,ID-SU,Sumatera Utara,6,0
+27/04/20,ID-AC,Aceh,0,0
+27/04/20,ID-BA,Bali,7,0
+27/04/20,ID-BT,Banten,12,1
+27/04/20,ID-BE,Bengkulu,0,0
+27/04/20,ID-JK,DKI Jakarta,68,13
+27/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+27/04/20,ID-GO,Gorontalo,0,0
+27/04/20,IDN,Indonesia,214,22
+27/04/20,ID-JA,Jambi,0,0
+27/04/20,ID-JB,Jawa Barat,37,1
+27/04/20,ID-JT,Jawa Tengah,17,1
+27/04/20,ID-JI,Jawa Timur,11,1
+27/04/20,ID-KB,Kalimantan Barat,0,0
+27/04/20,ID-KS,Kalimantan Selatan,4,0
+27/04/20,ID-KT,Kalimantan Tengah,8,0
+27/04/20,ID-KI,Kalimantan Timur,2,0
+27/04/20,ID-KU,Kalimantan Utara,1,0
+27/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+27/04/20,ID-KR,Kepulauan Riau,1,0
+27/04/20,ID-LA,Lampung,0,0
+27/04/20,ID-MA,Maluku,0,0
+27/04/20,ID-MU,Maluku Utara,0,0
+27/04/20,ID-NB,Nusa Tenggara Barat,11,0
+27/04/20,ID-NT,Nusa Tenggara Timur,0,0
+27/04/20,ID-PA,Papua,10,0
+27/04/20,ID-PB,Papua Barat,0,0
+27/04/20,ID-RI,Riau,0,0
+27/04/20,ID-SR,Sulawesi Barat,0,0
+27/04/20,ID-SN,Sulawesi Selatan,0,0
+27/04/20,ID-ST,Sulawesi Tengah,0,0
+27/04/20,ID-SG,Sulawesi Tenggara,0,0
+27/04/20,ID-SA,Sulawesi Utara,0,0
+27/04/20,ID-SB,Sumatera Barat,19,3
+27/04/20,ID-SS,Sumatera Selatan,0,0
+27/04/20,ID-SU,Sumatera Utara,0,0
+28/04/20,ID-AC,Aceh,0,0
+28/04/20,ID-BA,Bali,22,0
+28/04/20,ID-BT,Banten,6,1
+28/04/20,ID-BE,Bengkulu,0,1
+28/04/20,ID-JK,DKI Jakarta,125,3
+28/04/20,ID-YO,Daerah Istimewa Yogyakarta,10,0
+28/04/20,ID-GO,Gorontalo,1,0
+28/04/20,IDN,Indonesia,415,8
+28/04/20,ID-JA,Jambi,0,0
+28/04/20,ID-JB,Jawa Barat,18,1
+28/04/20,ID-JT,Jawa Tengah,16,0
+28/04/20,ID-JI,Jawa Timur,61,2
+28/04/20,ID-KB,Kalimantan Barat,0,0
+28/04/20,ID-KS,Kalimantan Selatan,0,1
+28/04/20,ID-KT,Kalimantan Tengah,9,1
+28/04/20,ID-KI,Kalimantan Timur,8,0
+28/04/20,ID-KU,Kalimantan Utara,2,0
+28/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+28/04/20,ID-KR,Kepulauan Riau,3,1
+28/04/20,ID-LA,Lampung,2,0
+28/04/20,ID-MA,Maluku,2,0
+28/04/20,ID-MU,Maluku Utara,0,0
+28/04/20,ID-NB,Nusa Tenggara Barat,15,0
+28/04/20,ID-NT,Nusa Tenggara Timur,0,0
+28/04/20,ID-PA,Papua,26,0
+28/04/20,ID-PB,Papua Barat,21,0
+28/04/20,ID-RI,Riau,1,0
+28/04/20,ID-SR,Sulawesi Barat,2,0
+28/04/20,ID-SN,Sulawesi Selatan,13,0
+28/04/20,ID-ST,Sulawesi Tengah,6,0
+28/04/20,ID-SG,Sulawesi Tenggara,0,0
+28/04/20,ID-SA,Sulawesi Utara,3,0
+28/04/20,ID-SB,Sumatera Barat,23,0
+28/04/20,ID-SS,Sumatera Selatan,14,0
+28/04/20,ID-SU,Sumatera Utara,0,1
+29/04/20,ID-AC,Aceh,0,0
+29/04/20,ID-BA,Bali,0,0
+29/04/20,ID-BT,Banten,0,0
+29/04/20,ID-BE,Bengkulu,4,0
+29/04/20,ID-JK,DKI Jakarta,89,0
+29/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+29/04/20,ID-GO,Gorontalo,0,0
+29/04/20,IDN,Indonesia,260,11
+29/04/20,ID-JA,Jambi,0,0
+29/04/20,ID-JB,Jawa Barat,37,0
+29/04/20,ID-JT,Jawa Tengah,29,2
+29/04/20,ID-JI,Jawa Timur,14,4
+29/04/20,ID-KB,Kalimantan Barat,7,0
+29/04/20,ID-KS,Kalimantan Selatan,7,0
+29/04/20,ID-KT,Kalimantan Tengah,6,0
+29/04/20,ID-KI,Kalimantan Timur,4,0
+29/04/20,ID-KU,Kalimantan Utara,0,0
+29/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+29/04/20,ID-KR,Kepulauan Riau,0,0
+29/04/20,ID-LA,Lampung,2,0
+29/04/20,ID-MA,Maluku,1,0
+29/04/20,ID-MU,Maluku Utara,0,0
+29/04/20,ID-NB,Nusa Tenggara Barat,9,0
+29/04/20,ID-NT,Nusa Tenggara Timur,0,0
+29/04/20,ID-PA,Papua,12,0
+29/04/20,ID-PB,Papua Barat,0,0
+29/04/20,ID-RI,Riau,1,0
+29/04/20,ID-SR,Sulawesi Barat,1,0
+29/04/20,ID-SN,Sulawesi Selatan,12,0
+29/04/20,ID-ST,Sulawesi Tengah,5,0
+29/04/20,ID-SG,Sulawesi Tenggara,8,0
+29/04/20,ID-SA,Sulawesi Utara,1,0
+29/04/20,ID-SB,Sumatera Barat,1,1
+29/04/20,ID-SS,Sumatera Selatan,1,0
+29/04/20,ID-SU,Sumatera Utara,3,0
+30/04/20,ID-AC,Aceh,1,0
+30/04/20,ID-BA,Bali,7,0
+30/04/20,ID-BT,Banten,16,0
+30/04/20,ID-BE,Bengkulu,0,0
+30/04/20,ID-JK,DKI Jakarta,84,0
+30/04/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+30/04/20,ID-GO,Gorontalo,0,0
+30/04/20,IDN,Indonesia,347,8
+30/04/20,ID-JA,Jambi,0,0
+30/04/20,ID-JB,Jawa Barat,4,4
+30/04/20,ID-JT,Jawa Tengah,15,1
+30/04/20,ID-JI,Jawa Timur,83,2
+30/04/20,ID-KB,Kalimantan Barat,0,0
+30/04/20,ID-KS,Kalimantan Selatan,13,0
+30/04/20,ID-KT,Kalimantan Tengah,18,0
+30/04/20,ID-KI,Kalimantan Timur,15,0
+30/04/20,ID-KU,Kalimantan Utara,8,0
+30/04/20,ID-BB,Kepulauan Bangka Belitung,0,0
+30/04/20,ID-KR,Kepulauan Riau,0,0
+30/04/20,ID-LA,Lampung,0,0
+30/04/20,ID-MA,Maluku,0,0
+30/04/20,ID-MU,Maluku Utara,14,0
+30/04/20,ID-NB,Nusa Tenggara Barat,0,0
+30/04/20,ID-NT,Nusa Tenggara Timur,2,0
+30/04/20,ID-PA,Papua,16,0
+30/04/20,ID-PB,Papua Barat,0,0
+30/04/20,ID-RI,Riau,0,0
+30/04/20,ID-SR,Sulawesi Barat,4,0
+30/04/20,ID-SN,Sulawesi Selatan,26,0
+30/04/20,ID-ST,Sulawesi Tengah,0,0
+30/04/20,ID-SG,Sulawesi Tenggara,9,0
+30/04/20,ID-SA,Sulawesi Utara,1,1
+30/04/20,ID-SB,Sumatera Barat,3,0
+30/04/20,ID-SS,Sumatera Selatan,6,0
+30/04/20,ID-SU,Sumatera Utara,3,1
+01/05/20,ID-AC,Aceh,1,0
+01/05/20,ID-BA,Bali,13,0
+01/05/20,ID-BT,Banten,14,0
+01/05/20,ID-BE,Bengkulu,0,0
+01/05/20,ID-JK,DKI Jakarta,135,4
+01/05/20,ID-YO,Daerah Istimewa Yogyakarta,9,0
+01/05/20,ID-GO,Gorontalo,0,0
+01/05/20,IDN,Indonesia,433,8
+01/05/20,ID-JA,Jambi,0,0
+01/05/20,ID-JB,Jawa Barat,4,0
+01/05/20,ID-JT,Jawa Tengah,22,1
+01/05/20,ID-JI,Jawa Timur,77,3
+01/05/20,ID-KB,Kalimantan Barat,3,0
+01/05/20,ID-KS,Kalimantan Selatan,9,0
+01/05/20,ID-KT,Kalimantan Tengah,11,1
+01/05/20,ID-KI,Kalimantan Timur,2,0
+01/05/20,ID-KU,Kalimantan Utara,15,0
+01/05/20,ID-BB,Kepulauan Bangka Belitung,9,0
+01/05/20,ID-KR,Kepulauan Riau,0,0
+01/05/20,ID-LA,Lampung,4,0
+01/05/20,ID-MA,Maluku,0,0
+01/05/20,ID-MU,Maluku Utara,1,0
+01/05/20,ID-NB,Nusa Tenggara Barat,3,0
+01/05/20,ID-NT,Nusa Tenggara Timur,0,0
+01/05/20,ID-PA,Papua,5,0
+01/05/20,ID-PB,Papua Barat,5,0
+01/05/20,ID-RI,Riau,1,0
+01/05/20,ID-SR,Sulawesi Barat,1,0
+01/05/20,ID-SN,Sulawesi Selatan,56,0
+01/05/20,ID-ST,Sulawesi Tengah,0,0
+01/05/20,ID-SG,Sulawesi Tenggara,0,0
+01/05/20,ID-SA,Sulawesi Utara,0,0
+01/05/20,ID-SB,Sumatera Barat,24,0
+01/05/20,ID-SS,Sumatera Selatan,6,0
+01/05/20,ID-SU,Sumatera Utara,0,0
+02/05/20,ID-AC,Aceh,0,0
+02/05/20,ID-BA,Bali,2,0
+02/05/20,ID-BT,Banten,9,0
+02/05/20,ID-BE,Bengkulu,0,0
+02/05/20,ID-JK,DKI Jakarta,72,17
+02/05/20,ID-YO,Daerah Istimewa Yogyakarta,10,0
+02/05/20,ID-GO,Gorontalo,0,0
+02/05/20,IDN,Indonesia,292,31
+02/05/20,ID-JA,Jambi,0,0
+02/05/20,ID-JB,Jawa Barat,34,1
+02/05/20,ID-JT,Jawa Tengah,19,0
+02/05/20,ID-JI,Jawa Timur,6,7
+02/05/20,ID-KB,Kalimantan Barat,7,0
+02/05/20,ID-KS,Kalimantan Selatan,0,0
+02/05/20,ID-KT,Kalimantan Tengah,1,0
+02/05/20,ID-KI,Kalimantan Timur,18,0
+02/05/20,ID-KU,Kalimantan Utara,7,0
+02/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+02/05/20,ID-KR,Kepulauan Riau,0,0
+02/05/20,ID-LA,Lampung,0,0
+02/05/20,ID-MA,Maluku,0,0
+02/05/20,ID-MU,Maluku Utara,0,0
+02/05/20,ID-NB,Nusa Tenggara Barat,17,0
+02/05/20,ID-NT,Nusa Tenggara Timur,0,0
+02/05/20,ID-PA,Papua,29,0
+02/05/20,ID-PB,Papua Barat,1,0
+02/05/20,ID-RI,Riau,3,0
+02/05/20,ID-SR,Sulawesi Barat,1,0
+02/05/20,ID-SN,Sulawesi Selatan,30,4
+02/05/20,ID-ST,Sulawesi Tengah,12,0
+02/05/20,ID-SG,Sulawesi Tenggara,2,0
+02/05/20,ID-SA,Sulawesi Utara,0,0
+02/05/20,ID-SB,Sumatera Barat,10,1
+02/05/20,ID-SS,Sumatera Selatan,0,2
+02/05/20,ID-SU,Sumatera Utara,0,0
+03/05/20,ID-AC,Aceh,1,0
+03/05/20,ID-BA,Bali,25,0
+03/05/20,ID-BT,Banten,5,0
+03/05/20,ID-BE,Bengkulu,0,0
+03/05/20,ID-JK,DKI Jakarta,59,5
+03/05/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+03/05/20,ID-GO,Gorontalo,0,0
+03/05/20,IDN,Indonesia,349,14
+03/05/20,ID-JA,Jambi,6,0
+03/05/20,ID-JB,Jawa Barat,13,1
+03/05/20,ID-JT,Jawa Tengah,9,1
+03/05/20,ID-JI,Jawa Timur,72,5
+03/05/20,ID-KB,Kalimantan Barat,2,0
+03/05/20,ID-KS,Kalimantan Selatan,16,0
+03/05/20,ID-KT,Kalimantan Tengah,0,0
+03/05/20,ID-KI,Kalimantan Timur,8,0
+03/05/20,ID-KU,Kalimantan Utara,0,0
+03/05/20,ID-BB,Kepulauan Bangka Belitung,1,0
+03/05/20,ID-KR,Kepulauan Riau,3,1
+03/05/20,ID-LA,Lampung,0,0
+03/05/20,ID-MA,Maluku,0,0
+03/05/20,ID-MU,Maluku Utara,9,0
+03/05/20,ID-NB,Nusa Tenggara Barat,18,0
+03/05/20,ID-NT,Nusa Tenggara Timur,7,0
+03/05/20,ID-PA,Papua,0,0
+03/05/20,ID-PB,Papua Barat,0,0
+03/05/20,ID-RI,Riau,8,0
+03/05/20,ID-SR,Sulawesi Barat,0,0
+03/05/20,ID-SN,Sulawesi Selatan,24,0
+03/05/20,ID-ST,Sulawesi Tengah,0,0
+03/05/20,ID-SG,Sulawesi Tenggara,0,1
+03/05/20,ID-SA,Sulawesi Utara,0,0
+03/05/20,ID-SB,Sumatera Barat,13,0
+03/05/20,ID-SS,Sumatera Selatan,28,0
+03/05/20,ID-SU,Sumatera Utara,6,0
+04/05/20,ID-AC,Aceh,0,0
+04/05/20,ID-BA,Bali,9,0
+04/05/20,ID-BT,Banten,14,0
+04/05/20,ID-BE,Bengkulu,0,0
+04/05/20,ID-JK,DKI Jakarta,73,10
+04/05/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+04/05/20,ID-GO,Gorontalo,0,0
+04/05/20,IDN,Indonesia,395,19
+04/05/20,ID-JA,Jambi,0,0
+04/05/20,ID-JB,Jawa Barat,186,1
+04/05/20,ID-JT,Jawa Tengah,22,0
+04/05/20,ID-JI,Jawa Timur,9,6
+04/05/20,ID-KB,Kalimantan Barat,3,0
+04/05/20,ID-KS,Kalimantan Selatan,3,0
+04/05/20,ID-KT,Kalimantan Tengah,23,0
+04/05/20,ID-KI,Kalimantan Timur,5,1
+04/05/20,ID-KU,Kalimantan Utara,8,0
+04/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+04/05/20,ID-KR,Kepulauan Riau,0,0
+04/05/20,ID-LA,Lampung,4,0
+04/05/20,ID-MA,Maluku,0,0
+04/05/20,ID-MU,Maluku Utara,0,0
+04/05/20,ID-NB,Nusa Tenggara Barat,0,0
+04/05/20,ID-NT,Nusa Tenggara Timur,0,0
+04/05/20,ID-PA,Papua,0,0
+04/05/20,ID-PB,Papua Barat,0,0
+04/05/20,ID-RI,Riau,5,0
+04/05/20,ID-SR,Sulawesi Barat,0,0
+04/05/20,ID-SN,Sulawesi Selatan,6,0
+04/05/20,ID-ST,Sulawesi Tengah,0,0
+04/05/20,ID-SG,Sulawesi Tenggara,0,0
+04/05/20,ID-SA,Sulawesi Utara,0,0
+04/05/20,ID-SB,Sumatera Barat,8,0
+04/05/20,ID-SS,Sumatera Selatan,0,1
+04/05/20,ID-SU,Sumatera Utara,6,0
+05/05/20,ID-AC,Aceh,0,0
+05/05/20,ID-BA,Bali,6,0
+05/05/20,ID-BT,Banten,10,0
+05/05/20,ID-BE,Bengkulu,0,0
+05/05/20,ID-JK,DKI Jakarta,131,1
+05/05/20,ID-YO,Daerah Istimewa Yogyakarta,6,0
+05/05/20,ID-GO,Gorontalo,0,0
+05/05/20,IDN,Indonesia,484,8
+05/05/20,ID-JA,Jambi,5,0
+05/05/20,ID-JB,Jawa Barat,52,1
+05/05/20,ID-JT,Jawa Tengah,49,0
+05/05/20,ID-JI,Jawa Timur,42,0
+05/05/20,ID-KB,Kalimantan Barat,0,0
+05/05/20,ID-KS,Kalimantan Selatan,14,0
+05/05/20,ID-KT,Kalimantan Tengah,1,2
+05/05/20,ID-KI,Kalimantan Timur,1,0
+05/05/20,ID-KU,Kalimantan Utara,1,0
+05/05/20,ID-BB,Kepulauan Bangka Belitung,8,0
+05/05/20,ID-KR,Kepulauan Riau,5,0
+05/05/20,ID-LA,Lampung,1,0
+05/05/20,ID-MA,Maluku,0,0
+05/05/20,ID-MU,Maluku Utara,0,0
+05/05/20,ID-NB,Nusa Tenggara Barat,16,0
+05/05/20,ID-NT,Nusa Tenggara Timur,2,0
+05/05/20,ID-PA,Papua,6,0
+05/05/20,ID-PB,Papua Barat,6,0
+05/05/20,ID-RI,Riau,3,0
+05/05/20,ID-SR,Sulawesi Barat,14,1
+05/05/20,ID-SN,Sulawesi Selatan,33,2
+05/05/20,ID-ST,Sulawesi Tengah,11,0
+05/05/20,ID-SG,Sulawesi Tenggara,5,0
+05/05/20,ID-SA,Sulawesi Utara,0,0
+05/05/20,ID-SB,Sumatera Barat,18,0
+05/05/20,ID-SS,Sumatera Selatan,15,0
+05/05/20,ID-SU,Sumatera Utara,1,0
+06/05/20,ID-AC,Aceh,5,0
+06/05/20,ID-BA,Bali,0,0
+06/05/20,ID-BT,Banten,29,0
+06/05/20,ID-BE,Bengkulu,2,0
+06/05/20,ID-JK,DKI Jakarta,106,5
+06/05/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+06/05/20,ID-GO,Gorontalo,0,0
+06/05/20,IDN,Indonesia,367,23
+06/05/20,ID-JA,Jambi,4,0
+06/05/20,ID-JB,Jawa Barat,19,3
+06/05/20,ID-JT,Jawa Tengah,44,1
+06/05/20,ID-JI,Jawa Timur,56,6
+06/05/20,ID-KB,Kalimantan Barat,17,0
+06/05/20,ID-KS,Kalimantan Selatan,13,0
+06/05/20,ID-KT,Kalimantan Tengah,5,0
+06/05/20,ID-KI,Kalimantan Timur,14,0
+06/05/20,ID-KU,Kalimantan Utara,0,0
+06/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+06/05/20,ID-KR,Kepulauan Riau,1,0
+06/05/20,ID-LA,Lampung,8,0
+06/05/20,ID-MA,Maluku,0,2
+06/05/20,ID-MU,Maluku Utara,0,0
+06/05/20,ID-NB,Nusa Tenggara Barat,5,1
+06/05/20,ID-NT,Nusa Tenggara Timur,0,0
+06/05/20,ID-PA,Papua,1,0
+06/05/20,ID-PB,Papua Barat,4,0
+06/05/20,ID-RI,Riau,0,0
+06/05/20,ID-SR,Sulawesi Barat,0,0
+06/05/20,ID-SN,Sulawesi Selatan,25,3
+06/05/20,ID-ST,Sulawesi Tengah,0,0
+06/05/20,ID-SG,Sulawesi Tenggara,0,0
+06/05/20,ID-SA,Sulawesi Utara,0,0
+06/05/20,ID-SB,Sumatera Barat,17,1
+06/05/20,ID-SS,Sumatera Selatan,11,1
+06/05/20,ID-SU,Sumatera Utara,11,5
+07/05/20,ID-AC,Aceh,0,0
+07/05/20,ID-BA,Bali,10,0
+07/05/20,ID-BT,Banten,0,15
+07/05/20,ID-BE,Bengkulu,0,0
+07/05/20,ID-JK,DKI Jakarta,82,8
+07/05/20,ID-YO,Daerah Istimewa Yogyakarta,15,0
+07/05/20,ID-GO,Gorontalo,4,0
+07/05/20,IDN,Indonesia,338,35
+07/05/20,ID-JA,Jambi,0,0
+07/05/20,ID-JB,Jawa Barat,54,0
+07/05/20,ID-JT,Jawa Tengah,13,1
+07/05/20,ID-JI,Jawa Timur,45,10
+07/05/20,ID-KB,Kalimantan Barat,5,0
+07/05/20,ID-KS,Kalimantan Selatan,13,0
+07/05/20,ID-KT,Kalimantan Tengah,2,1
+07/05/20,ID-KI,Kalimantan Timur,0,0
+07/05/20,ID-KU,Kalimantan Utara,0,0
+07/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+07/05/20,ID-KR,Kepulauan Riau,0,0
+07/05/20,ID-LA,Lampung,0,0
+07/05/20,ID-MA,Maluku,0,0
+07/05/20,ID-MU,Maluku Utara,0,0
+07/05/20,ID-NB,Nusa Tenggara Barat,11,0
+07/05/20,ID-NT,Nusa Tenggara Timur,0,0
+07/05/20,ID-PA,Papua,4,0
+07/05/20,ID-PB,Papua Barat,0,0
+07/05/20,ID-RI,Riau,5,0
+07/05/20,ID-SR,Sulawesi Barat,0,0
+07/05/20,ID-SN,Sulawesi Selatan,19,1
+07/05/20,ID-ST,Sulawesi Tengah,5,0
+07/05/20,ID-SG,Sulawesi Tenggara,0,0
+07/05/20,ID-SA,Sulawesi Utara,0,0
+07/05/20,ID-SB,Sumatera Barat,14,1
+07/05/20,ID-SS,Sumatera Selatan,17,2
+07/05/20,ID-SU,Sumatera Utara,1,0
+08/05/20,ID-AC,Aceh,0,0
+08/05/20,ID-BA,Bali,13,0
+08/05/20,ID-BT,Banten,20,0
+08/05/20,ID-BE,Bengkulu,0,0
+08/05/20,ID-JK,DKI Jakarta,96,1
+08/05/20,ID-YO,Daerah Istimewa Yogyakarta,6,0
+08/05/20,ID-GO,Gorontalo,0,0
+08/05/20,IDN,Indonesia,336,13
+08/05/20,ID-JA,Jambi,0,0
+08/05/20,ID-JB,Jawa Barat,30,2
+08/05/20,ID-JT,Jawa Tengah,28,0
+08/05/20,ID-JI,Jawa Timur,18,5
+08/05/20,ID-KB,Kalimantan Barat,0,0
+08/05/20,ID-KS,Kalimantan Selatan,8,0
+08/05/20,ID-KT,Kalimantan Tengah,0,0
+08/05/20,ID-KI,Kalimantan Timur,27,0
+08/05/20,ID-KU,Kalimantan Utara,0,0
+08/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+08/05/20,ID-KR,Kepulauan Riau,2,0
+08/05/20,ID-LA,Lampung,3,0
+08/05/20,ID-MA,Maluku,9,0
+08/05/20,ID-MU,Maluku Utara,0,0
+08/05/20,ID-NB,Nusa Tenggara Barat,12,0
+08/05/20,ID-NT,Nusa Tenggara Timur,0,0
+08/05/20,ID-PA,Papua,13,0
+08/05/20,ID-PB,Papua Barat,0,0
+08/05/20,ID-RI,Riau,3,0
+08/05/20,ID-SR,Sulawesi Barat,2,0
+08/05/20,ID-SN,Sulawesi Selatan,24,2
+08/05/20,ID-ST,Sulawesi Tengah,0,0
+08/05/20,ID-SG,Sulawesi Tenggara,1,0
+08/05/20,ID-SA,Sulawesi Utara,2,0
+08/05/20,ID-SB,Sumatera Barat,18,0
+08/05/20,ID-SS,Sumatera Selatan,0,1
+08/05/20,ID-SU,Sumatera Utara,15,0
+09/05/20,ID-AC,Aceh,0,0
+09/05/20,ID-BA,Bali,6,0
+09/05/20,ID-BT,Banten,19,0
+09/05/20,ID-BE,Bengkulu,23,0
+09/05/20,ID-JK,DKI Jakarta,100,3
+09/05/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+09/05/20,ID-GO,Gorontalo,0,0
+09/05/20,IDN,Indonesia,533,16
+09/05/20,ID-JA,Jambi,15,0
+09/05/20,ID-JB,Jawa Barat,30,3
+09/05/20,ID-JT,Jawa Tengah,26,2
+09/05/20,ID-JI,Jawa Timur,135,3
+09/05/20,ID-KB,Kalimantan Barat,23,0
+09/05/20,ID-KS,Kalimantan Selatan,7,0
+09/05/20,ID-KT,Kalimantan Tengah,1,0
+09/05/20,ID-KI,Kalimantan Timur,5,0
+09/05/20,ID-KU,Kalimantan Utara,0,0
+09/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+09/05/20,ID-KR,Kepulauan Riau,1,1
+09/05/20,ID-LA,Lampung,0,0
+09/05/20,ID-MA,Maluku,0,0
+09/05/20,ID-MU,Maluku Utara,4,0
+09/05/20,ID-NB,Nusa Tenggara Barat,18,1
+09/05/20,ID-NT,Nusa Tenggara Timur,0,0
+09/05/20,ID-PA,Papua,12,0
+09/05/20,ID-PB,Papua Barat,0,0
+09/05/20,ID-RI,Riau,2,0
+09/05/20,ID-SR,Sulawesi Barat,2,0
+09/05/20,ID-SN,Sulawesi Selatan,2,0
+09/05/20,ID-ST,Sulawesi Tengah,0,0
+09/05/20,ID-SG,Sulawesi Tenggara,1,0
+09/05/20,ID-SA,Sulawesi Utara,6,1
+09/05/20,ID-SB,Sumatera Barat,16,0
+09/05/20,ID-SS,Sumatera Selatan,51,0
+09/05/20,ID-SU,Sumatera Utara,22,5
+10/05/20,ID-AC,Aceh,0,0
+10/05/20,ID-BA,Bali,5,0
+10/05/20,ID-BT,Banten,10,0
+10/05/20,ID-BE,Bengkulu,0,0
+10/05/20,ID-JK,DKI Jakarta,124,6
+10/05/20,ID-YO,Daerah Istimewa Yogyakarta,7,0
+10/05/20,ID-GO,Gorontalo,0,0
+10/05/20,IDN,Indonesia,387,14
+10/05/20,ID-JA,Jambi,2,0
+10/05/20,ID-JB,Jawa Barat,0,0
+10/05/20,ID-JT,Jawa Tengah,19,1
+10/05/20,ID-JI,Jawa Timur,78,2
+10/05/20,ID-KB,Kalimantan Barat,2,0
+10/05/20,ID-KS,Kalimantan Selatan,7,0
+10/05/20,ID-KT,Kalimantan Tengah,4,0
+10/05/20,ID-KI,Kalimantan Timur,4,0
+10/05/20,ID-KU,Kalimantan Utara,0,0
+10/05/20,ID-BB,Kepulauan Bangka Belitung,1,0
+10/05/20,ID-KR,Kepulauan Riau,0,0
+10/05/20,ID-LA,Lampung,0,1
+10/05/20,ID-MA,Maluku,0,0
+10/05/20,ID-MU,Maluku Utara,0,0
+10/05/20,ID-NB,Nusa Tenggara Barat,0,0
+10/05/20,ID-NT,Nusa Tenggara Timur,0,0
+10/05/20,ID-PA,Papua,30,0
+10/05/20,ID-PB,Papua Barat,17,0
+10/05/20,ID-RI,Riau,2,0
+10/05/20,ID-SR,Sulawesi Barat,0,0
+10/05/20,ID-SN,Sulawesi Selatan,12,2
+10/05/20,ID-ST,Sulawesi Tengah,8,0
+10/05/20,ID-SG,Sulawesi Tenggara,5,0
+10/05/20,ID-SA,Sulawesi Utara,18,1
+10/05/20,ID-SB,Sumatera Barat,13,0
+10/05/20,ID-SS,Sumatera Selatan,0,3
+10/05/20,ID-SU,Sumatera Utara,0,0
+11/05/20,ID-AC,Aceh,0,0
+11/05/20,ID-BA,Bali,3,0
+11/05/20,ID-BT,Banten,8,0
+11/05/20,ID-BE,Bengkulu,0,0
+11/05/20,ID-JK,DKI Jakarta,80,6
+11/05/20,ID-YO,Daerah Istimewa Yogyakarta,6,1
+11/05/20,ID-GO,Gorontalo,0,0
+11/05/20,IDN,Indonesia,233,18
+11/05/20,ID-JA,Jambi,1,0
+11/05/20,ID-JB,Jawa Barat,55,3
+11/05/20,ID-JT,Jawa Tengah,2,0
+11/05/20,ID-JI,Jawa Timur,37,6
+11/05/20,ID-KB,Kalimantan Barat,0,0
+11/05/20,ID-KS,Kalimantan Selatan,0,0
+11/05/20,ID-KT,Kalimantan Tengah,7,0
+11/05/20,ID-KI,Kalimantan Timur,7,1
+11/05/20,ID-KU,Kalimantan Utara,1,0
+11/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+11/05/20,ID-KR,Kepulauan Riau,3,0
+11/05/20,ID-LA,Lampung,0,1
+11/05/20,ID-MA,Maluku,0,2
+11/05/20,ID-MU,Maluku Utara,0,0
+11/05/20,ID-NB,Nusa Tenggara Barat,1,0
+11/05/20,ID-NT,Nusa Tenggara Timur,0,0
+11/05/20,ID-PA,Papua,0,0
+11/05/20,ID-PB,Papua Barat,0,0
+11/05/20,ID-RI,Riau,1,0
+11/05/20,ID-SR,Sulawesi Barat,0,0
+11/05/20,ID-SN,Sulawesi Selatan,0,1
+11/05/20,ID-ST,Sulawesi Tengah,0,0
+11/05/20,ID-SG,Sulawesi Tenggara,0,0
+11/05/20,ID-SA,Sulawesi Utara,0,0
+11/05/20,ID-SB,Sumatera Barat,0,0
+11/05/20,ID-SS,Sumatera Selatan,0,0
+11/05/20,ID-SU,Sumatera Utara,17,3
+12/05/20,ID-AC,Aceh,0,0
+12/05/20,ID-BA,Bali,14,0
+12/05/20,ID-BT,Banten,18,0
+12/05/20,ID-BE,Bengkulu,3,0
+12/05/20,ID-JK,DKI Jakarta,94,2
+12/05/20,ID-YO,Daerah Istimewa Yogyakarta,10,0
+12/05/20,ID-GO,Gorontalo,0,0
+12/05/20,IDN,Indonesia,484,16
+12/05/20,ID-JA,Jambi,0,0
+12/05/20,ID-JB,Jawa Barat,54,0
+12/05/20,ID-JT,Jawa Tengah,9,1
+12/05/20,ID-JI,Jawa Timur,115,6
+12/05/20,ID-KB,Kalimantan Barat,3,0
+12/05/20,ID-KS,Kalimantan Selatan,14,0
+12/05/20,ID-KT,Kalimantan Tengah,4,0
+12/05/20,ID-KI,Kalimantan Timur,3,0
+12/05/20,ID-KU,Kalimantan Utara,0,0
+12/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+12/05/20,ID-KR,Kepulauan Riau,2,0
+12/05/20,ID-LA,Lampung,0,0
+12/05/20,ID-MA,Maluku,18,0
+12/05/20,ID-MU,Maluku Utara,0,0
+12/05/20,ID-NB,Nusa Tenggara Barat,8,0
+12/05/20,ID-NT,Nusa Tenggara Timur,1,0
+12/05/20,ID-PA,Papua,16,0
+12/05/20,ID-PB,Papua Barat,0,0
+12/05/20,ID-RI,Riau,7,0
+12/05/20,ID-SR,Sulawesi Barat,5,0
+12/05/20,ID-SN,Sulawesi Selatan,26,0
+12/05/20,ID-ST,Sulawesi Tengah,12,0
+12/05/20,ID-SG,Sulawesi Tenggara,0,0
+12/05/20,ID-SA,Sulawesi Utara,3,0
+12/05/20,ID-SB,Sumatera Barat,20,1
+12/05/20,ID-SS,Sumatera Selatan,1,1
+12/05/20,ID-SU,Sumatera Utara,2,0
+13/05/20,ID-AC,Aceh,0,0
+13/05/20,ID-BA,Bali,4,0
+13/05/20,ID-BT,Banten,20,1
+13/05/20,ID-BE,Bengkulu,0,0
+13/05/20,ID-JK,DKI Jakarta,178,6
+13/05/20,ID-YO,Daerah Istimewa Yogyakarta,12,0
+13/05/20,ID-GO,Gorontalo,0,0
+13/05/20,IDN,Indonesia,689,21
+13/05/20,ID-JA,Jambi,0,0
+13/05/20,ID-JB,Jawa Barat,8,0
+13/05/20,ID-JT,Jawa Tengah,32,0
+13/05/20,ID-JI,Jawa Timur,116,8
+13/05/20,ID-KB,Kalimantan Barat,6,1
+13/05/20,ID-KS,Kalimantan Selatan,13,0
+13/05/20,ID-KT,Kalimantan Tengah,16,0
+13/05/20,ID-KI,Kalimantan Timur,2,0
+13/05/20,ID-KU,Kalimantan Utara,6,0
+13/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+13/05/20,ID-KR,Kepulauan Riau,5,0
+13/05/20,ID-LA,Lampung,0,0
+13/05/20,ID-MA,Maluku,0,0
+13/05/20,ID-MU,Maluku Utara,23,3
+13/05/20,ID-NB,Nusa Tenggara Barat,5,1
+13/05/20,ID-NT,Nusa Tenggara Timur,6,0
+13/05/20,ID-PA,Papua,5,0
+13/05/20,ID-PB,Papua Barat,0,0
+13/05/20,ID-RI,Riau,7,0
+13/05/20,ID-SR,Sulawesi Barat,6,0
+13/05/20,ID-SN,Sulawesi Selatan,54,0
+13/05/20,ID-ST,Sulawesi Tengah,7,1
+13/05/20,ID-SG,Sulawesi Tenggara,90,1
+13/05/20,ID-SA,Sulawesi Utara,8,1
+13/05/20,ID-SB,Sumatera Barat,20,1
+13/05/20,ID-SS,Sumatera Selatan,43,2
+13/05/20,ID-SU,Sumatera Utara,2,0
+14/05/20,ID-AC,Aceh,0,0
+14/05/20,ID-BA,Bali,5,0
+14/05/20,ID-BT,Banten,14,0
+14/05/20,ID-BE,Bengkulu,2,0
+14/05/20,ID-JK,DKI Jakarta,130,3
+14/05/20,ID-YO,Daerah Istimewa Yogyakarta,4,0
+14/05/20,ID-GO,Gorontalo,2,0
+14/05/20,IDN,Indonesia,568,15
+14/05/20,ID-JA,Jambi,1,0
+14/05/20,ID-JB,Jawa Barat,10,1
+14/05/20,ID-JT,Jawa Tengah,46,0
+14/05/20,ID-JI,Jawa Timur,90,4
+14/05/20,ID-KB,Kalimantan Barat,0,0
+14/05/20,ID-KS,Kalimantan Selatan,2,0
+14/05/20,ID-KT,Kalimantan Tengah,3,0
+14/05/20,ID-KI,Kalimantan Timur,8,0
+14/05/20,ID-KU,Kalimantan Utara,0,0
+14/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+14/05/20,ID-KR,Kepulauan Riau,0,0
+14/05/20,ID-LA,Lampung,0,0
+14/05/20,ID-MA,Maluku,12,0
+14/05/20,ID-MU,Maluku Utara,4,0
+14/05/20,ID-NB,Nusa Tenggara Barat,6,0
+14/05/20,ID-NT,Nusa Tenggara Timur,0,1
+14/05/20,ID-PA,Papua,4,0
+14/05/20,ID-PB,Papua Barat,18,0
+14/05/20,ID-RI,Riau,6,0
+14/05/20,ID-SR,Sulawesi Barat,1,0
+14/05/20,ID-SN,Sulawesi Selatan,36,0
+14/05/20,ID-ST,Sulawesi Tengah,9,0
+14/05/20,ID-SG,Sulawesi Tenggara,0,0
+14/05/20,ID-SA,Sulawesi Utara,1,1
+14/05/20,ID-SB,Sumatera Barat,32,2
+14/05/20,ID-SS,Sumatera Selatan,117,1
+14/05/20,ID-SU,Sumatera Utara,2,0
+15/05/20,ID-AC,Aceh,0,0
+15/05/20,ID-BA,Bali,6,0
+15/05/20,ID-BT,Banten,28,3
+15/05/20,ID-BE,Bengkulu,11,0
+15/05/20,ID-JK,DKI Jakarta,83,7
+15/05/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+15/05/20,ID-GO,Gorontalo,1,0
+15/05/20,IDN,Indonesia,490,33
+15/05/20,ID-JA,Jambi,3,0
+15/05/20,ID-JB,Jawa Barat,32,1
+15/05/20,ID-JT,Jawa Tengah,43,0
+15/05/20,ID-JI,Jawa Timur,60,11
+15/05/20,ID-KB,Kalimantan Barat,0,0
+15/05/20,ID-KS,Kalimantan Selatan,67,27
+15/05/20,ID-KT,Kalimantan Tengah,4,0
+15/05/20,ID-KI,Kalimantan Timur,13,0
+15/05/20,ID-KU,Kalimantan Utara,3,0
+15/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+15/05/20,ID-KR,Kepulauan Riau,4,0
+15/05/20,ID-LA,Lampung,0,1
+15/05/20,ID-MA,Maluku,0,0
+15/05/20,ID-MU,Maluku Utara,4,1
+15/05/20,ID-NB,Nusa Tenggara Barat,8,0
+15/05/20,ID-NT,Nusa Tenggara Timur,0,0
+15/05/20,ID-PA,Papua,3,0
+15/05/20,ID-PB,Papua Barat,0,0
+15/05/20,ID-RI,Riau,1,0
+15/05/20,ID-SR,Sulawesi Barat,0,0
+15/05/20,ID-SN,Sulawesi Selatan,33,0
+15/05/20,ID-ST,Sulawesi Tengah,1,0
+15/05/20,ID-SG,Sulawesi Tenggara,17,0
+15/05/20,ID-SA,Sulawesi Utara,22,1
+15/05/20,ID-SB,Sumatera Barat,22,0
+15/05/20,ID-SS,Sumatera Selatan,16,1
+15/05/20,ID-SU,Sumatera Utara,0,0
+16/05/20,ID-AC,Aceh,1,0
+16/05/20,ID-BA,Bali,3,0
+16/05/20,ID-BT,Banten,0,1
+16/05/20,ID-BE,Bengkulu,3,0
+16/05/20,ID-JK,DKI Jakarta,101,0
+16/05/20,ID-YO,Daerah Istimewa Yogyakarta,6,0
+16/05/20,ID-GO,Gorontalo,1,1
+16/05/20,IDN,Indonesia,529,13
+16/05/20,ID-JA,Jambi,10,0
+16/05/20,ID-JB,Jawa Barat,23,0
+16/05/20,ID-JT,Jawa Tengah,31,0
+16/05/20,ID-JI,Jawa Timur,176,5
+16/05/20,ID-KB,Kalimantan Barat,2,0
+16/05/20,ID-KS,Kalimantan Selatan,7,0
+16/05/20,ID-KT,Kalimantan Tengah,0,0
+16/05/20,ID-KI,Kalimantan Timur,2,0
+16/05/20,ID-KU,Kalimantan Utara,12,0
+16/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+16/05/20,ID-KR,Kepulauan Riau,1,0
+16/05/20,ID-LA,Lampung,0,0
+16/05/20,ID-MA,Maluku,0,0
+16/05/20,ID-MU,Maluku Utara,3,0
+16/05/20,ID-NB,Nusa Tenggara Barat,7,0
+16/05/20,ID-NT,Nusa Tenggara Timur,28,0
+16/05/20,ID-PA,Papua,15,0
+16/05/20,ID-PB,Papua Barat,14,0
+16/05/20,ID-RI,Riau,0,0
+16/05/20,ID-SR,Sulawesi Barat,1,0
+16/05/20,ID-SN,Sulawesi Selatan,46,1
+16/05/20,ID-ST,Sulawesi Tengah,1,0
+16/05/20,ID-SG,Sulawesi Tenggara,6,0
+16/05/20,ID-SA,Sulawesi Utara,9,0
+16/05/20,ID-SB,Sumatera Barat,3,1
+16/05/20,ID-SS,Sumatera Selatan,0,0
+16/05/20,ID-SU,Sumatera Utara,0,0
+17/05/20,ID-AC,Aceh,0,0
+17/05/20,ID-BA,Bali,2,0
+17/05/20,ID-BT,Banten,24,0
+17/05/20,ID-BE,Bengkulu,9,0
+17/05/20,ID-JK,DKI Jakarta,127,3
+17/05/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+17/05/20,ID-GO,Gorontalo,1,0
+17/05/20,IDN,Indonesia,489,59
+17/05/20,ID-JA,Jambi,1,0
+17/05/20,ID-JB,Jawa Barat,32,10
+17/05/20,ID-JT,Jawa Tengah,17,0
+17/05/20,ID-JI,Jawa Timur,54,11
+17/05/20,ID-KB,Kalimantan Barat,1,0
+17/05/20,ID-KS,Kalimantan Selatan,2,8
+17/05/20,ID-KT,Kalimantan Tengah,0,0
+17/05/20,ID-KI,Kalimantan Timur,1,0
+17/05/20,ID-KU,Kalimantan Utara,2,0
+17/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+17/05/20,ID-KR,Kepulauan Riau,0,1
+17/05/20,ID-LA,Lampung,1,0
+17/05/20,ID-MA,Maluku,22,2
+17/05/20,ID-MU,Maluku Utara,4,0
+17/05/20,ID-NB,Nusa Tenggara Barat,6,0
+17/05/20,ID-NT,Nusa Tenggara Timur,12,0
+17/05/20,ID-PA,Papua,33,0
+17/05/20,ID-PB,Papua Barat,3,0
+17/05/20,ID-RI,Riau,4,0
+17/05/20,ID-SR,Sulawesi Barat,0,0
+17/05/20,ID-SN,Sulawesi Selatan,34,0
+17/05/20,ID-ST,Sulawesi Tengah,2,0
+17/05/20,ID-SG,Sulawesi Tenggara,2,0
+17/05/20,ID-SA,Sulawesi Utara,0,4
+17/05/20,ID-SB,Sumatera Barat,12,0
+17/05/20,ID-SS,Sumatera Selatan,66,3
+17/05/20,ID-SU,Sumatera Utara,16,2
+18/05/20,ID-AC,Aceh,0,0
+18/05/20,ID-BA,Bali,11,0
+18/05/20,ID-BT,Banten,32,1
+18/05/20,ID-BE,Bengkulu,1,0
+18/05/20,ID-JK,DKI Jakarta,79,0
+18/05/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+18/05/20,ID-GO,Gorontalo,4,0
+18/05/20,IDN,Indonesia,496,43
+18/05/20,ID-JA,Jambi,1,0
+18/05/20,ID-JB,Jawa Barat,22,13
+18/05/20,ID-JT,Jawa Tengah,8,0
+18/05/20,ID-JI,Jawa Timur,135,15
+18/05/20,ID-KB,Kalimantan Barat,0,0
+18/05/20,ID-KS,Kalimantan Selatan,71,2
+18/05/20,ID-KT,Kalimantan Tengah,0,0
+18/05/20,ID-KI,Kalimantan Timur,1,0
+18/05/20,ID-KU,Kalimantan Utara,0,0
+18/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+18/05/20,ID-KR,Kepulauan Riau,11,0
+18/05/20,ID-LA,Lampung,16,0
+18/05/20,ID-MA,Maluku,23,0
+18/05/20,ID-MU,Maluku Utara,1,0
+18/05/20,ID-NB,Nusa Tenggara Barat,4,0
+18/05/20,ID-NT,Nusa Tenggara Timur,9,0
+18/05/20,ID-PA,Papua,0,0
+18/05/20,ID-PB,Papua Barat,0,0
+18/05/20,ID-RI,Riau,2,0
+18/05/20,ID-SR,Sulawesi Barat,0,0
+18/05/20,ID-SN,Sulawesi Selatan,66,3
+18/05/20,ID-ST,Sulawesi Tengah,0,0
+18/05/20,ID-SG,Sulawesi Tenggara,0,0
+18/05/20,ID-SA,Sulawesi Utara,2,1
+18/05/20,ID-SB,Sumatera Barat,1,0
+18/05/20,ID-SS,Sumatera Selatan,16,2
+18/05/20,ID-SU,Sumatera Utara,7,1
+19/05/20,ID-AC,Aceh,0,0
+19/05/20,ID-BA,Bali,4,0
+19/05/20,ID-BT,Banten,21,0
+19/05/20,ID-BE,Bengkulu,1,0
+19/05/20,ID-JK,DKI Jakarta,94,7
+19/05/20,ID-YO,Daerah Istimewa Yogyakarta,7,0
+19/05/20,ID-GO,Gorontalo,0,0
+19/05/20,IDN,Indonesia,486,30
+19/05/20,ID-JA,Jambi,3,0
+19/05/20,ID-JB,Jawa Barat,21,1
+19/05/20,ID-JT,Jawa Tengah,10,0
+19/05/20,ID-JI,Jawa Timur,83,13
+19/05/20,ID-KB,Kalimantan Barat,0,0
+19/05/20,ID-KS,Kalimantan Selatan,46,5
+19/05/20,ID-KT,Kalimantan Tengah,5,0
+19/05/20,ID-KI,Kalimantan Timur,3,0
+19/05/20,ID-KU,Kalimantan Utara,5,0
+19/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+19/05/20,ID-KR,Kepulauan Riau,13,0
+19/05/20,ID-LA,Lampung,1,0
+19/05/20,ID-MA,Maluku,0,0
+19/05/20,ID-MU,Maluku Utara,2,0
+19/05/20,ID-NB,Nusa Tenggara Barat,0,0
+19/05/20,ID-NT,Nusa Tenggara Timur,3,0
+19/05/20,ID-PA,Papua,6,0
+19/05/20,ID-PB,Papua Barat,0,0
+19/05/20,ID-RI,Riau,5,0
+19/05/20,ID-SR,Sulawesi Barat,2,0
+19/05/20,ID-SN,Sulawesi Selatan,47,0
+19/05/20,ID-ST,Sulawesi Tengah,0,0
+19/05/20,ID-SG,Sulawesi Tenggara,11,0
+19/05/20,ID-SA,Sulawesi Utara,10,0
+19/05/20,ID-SB,Sumatera Barat,11,0
+19/05/20,ID-SS,Sumatera Selatan,57,0
+19/05/20,ID-SU,Sumatera Utara,10,1
+20/05/20,ID-AC,Aceh,0,0
+20/05/20,ID-BA,Bali,8,0
+20/05/20,ID-BT,Banten,1,0
+20/05/20,ID-BE,Bengkulu,0,0
+20/05/20,ID-JK,DKI Jakarta,85,1
+20/05/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+20/05/20,ID-GO,Gorontalo,0,0
+20/05/20,IDN,Indonesia,693,21
+20/05/20,ID-JA,Jambi,5,0
+20/05/20,ID-JB,Jawa Barat,164,0
+20/05/20,ID-JT,Jawa Tengah,17,0
+20/05/20,ID-JI,Jawa Timur,123,6
+20/05/20,ID-KB,Kalimantan Barat,0,0
+20/05/20,ID-KS,Kalimantan Selatan,59,4
+20/05/20,ID-KT,Kalimantan Tengah,9,0
+20/05/20,ID-KI,Kalimantan Timur,6,0
+20/05/20,ID-KU,Kalimantan Utara,0,0
+20/05/20,ID-BB,Kepulauan Bangka Belitung,6,0
+20/05/20,ID-KR,Kepulauan Riau,0,0
+20/05/20,ID-LA,Lampung,2,0
+20/05/20,ID-MA,Maluku,17,1
+20/05/20,ID-MU,Maluku Utara,1,0
+20/05/20,ID-NB,Nusa Tenggara Barat,18,0
+20/05/20,ID-NT,Nusa Tenggara Timur,5,0
+20/05/20,ID-PA,Papua,20,0
+20/05/20,ID-PB,Papua Barat,1,0
+20/05/20,ID-RI,Riau,1,0
+20/05/20,ID-SR,Sulawesi Barat,1,0
+20/05/20,ID-SN,Sulawesi Selatan,36,1
+20/05/20,ID-ST,Sulawesi Tengah,0,0
+20/05/20,ID-SG,Sulawesi Tenggara,0,0
+20/05/20,ID-SA,Sulawesi Utara,24,1
+20/05/20,ID-SB,Sumatera Barat,8,1
+20/05/20,ID-SS,Sumatera Selatan,50,2
+20/05/20,ID-SU,Sumatera Utara,15,2
+21/05/20,ID-AC,Aceh,0,0
+21/05/20,ID-BA,Bali,3,0
+21/05/20,ID-BT,Banten,54,3
+21/05/20,ID-BE,Bengkulu,2,0
+21/05/20,ID-JK,DKI Jakarta,70,8
+21/05/20,ID-YO,Daerah Istimewa Yogyakarta,6,0
+21/05/20,ID-GO,Gorontalo,16,0
+21/05/20,IDN,Indonesia,973,36
+21/05/20,ID-JA,Jambi,0,0
+21/05/20,ID-JB,Jawa Barat,83,0
+21/05/20,ID-JT,Jawa Tengah,25,0
+21/05/20,ID-JI,Jawa Timur,492,13
+21/05/20,ID-KB,Kalimantan Barat,1,0
+21/05/20,ID-KS,Kalimantan Selatan,8,4
+21/05/20,ID-KT,Kalimantan Tengah,13,0
+21/05/20,ID-KI,Kalimantan Timur,2,0
+21/05/20,ID-KU,Kalimantan Utara,2,0
+21/05/20,ID-BB,Kepulauan Bangka Belitung,1,0
+21/05/20,ID-KR,Kepulauan Riau,0,0
+21/05/20,ID-LA,Lampung,16,0
+21/05/20,ID-MA,Maluku,11,0
+21/05/20,ID-MU,Maluku Utara,1,0
+21/05/20,ID-NB,Nusa Tenggara Barat,17,0
+21/05/20,ID-NT,Nusa Tenggara Timur,3,0
+21/05/20,ID-PA,Papua,1,0
+21/05/20,ID-PB,Papua Barat,3,0
+21/05/20,ID-RI,Riau,1,0
+21/05/20,ID-SR,Sulawesi Barat,8,0
+21/05/20,ID-SN,Sulawesi Selatan,33,3
+21/05/20,ID-ST,Sulawesi Tengah,2,0
+21/05/20,ID-SG,Sulawesi Tenggara,0,0
+21/05/20,ID-SA,Sulawesi Utara,30,4
+21/05/20,ID-SB,Sumatera Barat,8,0
+21/05/20,ID-SS,Sumatera Selatan,28,1
+21/05/20,ID-SU,Sumatera Utara,23,1
+22/05/20,ID-AC,Aceh,1,0
+22/05/20,ID-BA,Bali,6,0
+22/05/20,ID-BT,Banten,15,1
+22/05/20,ID-BE,Bengkulu,0,0
+22/05/20,ID-JK,DKI Jakarta,103,30
+22/05/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+22/05/20,ID-GO,Gorontalo,3,0
+22/05/20,IDN,Indonesia,634,48
+22/05/20,ID-JA,Jambi,2,0
+22/05/20,ID-JB,Jawa Barat,39,1
+22/05/20,ID-JT,Jawa Tengah,17,0
+22/05/20,ID-JI,Jawa Timur,125,14
+22/05/20,ID-KB,Kalimantan Barat,7,0
+22/05/20,ID-KS,Kalimantan Selatan,21,1
+22/05/20,ID-KT,Kalimantan Tengah,35,4
+22/05/20,ID-KI,Kalimantan Timur,5,0
+22/05/20,ID-KU,Kalimantan Utara,1,0
+22/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+22/05/20,ID-KR,Kepulauan Riau,1,0
+22/05/20,ID-LA,Lampung,4,0
+22/05/20,ID-MA,Maluku,22,0
+22/05/20,ID-MU,Maluku Utara,2,0
+22/05/20,ID-NB,Nusa Tenggara Barat,54,0
+22/05/20,ID-NT,Nusa Tenggara Timur,0,0
+22/05/20,ID-PA,Papua,27,0
+22/05/20,ID-PB,Papua Barat,10,0
+22/05/20,ID-RI,Riau,1,0
+22/05/20,ID-SR,Sulawesi Barat,0,0
+22/05/20,ID-SN,Sulawesi Selatan,71,2
+22/05/20,ID-ST,Sulawesi Tengah,1,0
+22/05/20,ID-SG,Sulawesi Tenggara,9,0
+22/05/20,ID-SA,Sulawesi Utara,18,4
+22/05/20,ID-SB,Sumatera Barat,2,0
+22/05/20,ID-SS,Sumatera Selatan,19,1
+22/05/20,ID-SU,Sumatera Utara,12,1
+23/05/20,ID-AC,Aceh,0,0
+23/05/20,ID-BA,Bali,8,0
+23/05/20,ID-BT,Banten,0,0
+23/05/20,ID-BE,Bengkulu,0,0
+23/05/20,ID-JK,DKI Jakarta,111,1
+23/05/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+23/05/20,ID-GO,Gorontalo,2,0
+23/05/20,IDN,Indonesia,949,25
+23/05/20,ID-JA,Jambi,0,0
+23/05/20,ID-JB,Jawa Barat,57,2
+23/05/20,ID-JT,Jawa Tengah,54,0
+23/05/20,ID-JI,Jawa Timur,452,14
+23/05/20,ID-KB,Kalimantan Barat,28,0
+23/05/20,ID-KS,Kalimantan Selatan,18,2
+23/05/20,ID-KT,Kalimantan Tengah,2,0
+23/05/20,ID-KI,Kalimantan Timur,3,0
+23/05/20,ID-KU,Kalimantan Utara,0,0
+23/05/20,ID-BB,Kepulauan Bangka Belitung,3,0
+23/05/20,ID-KR,Kepulauan Riau,8,1
+23/05/20,ID-LA,Lampung,0,0
+23/05/20,ID-MA,Maluku,0,0
+23/05/20,ID-MU,Maluku Utara,0,0
+23/05/20,ID-NB,Nusa Tenggara Barat,10,1
+23/05/20,ID-NT,Nusa Tenggara Timur,0,0
+23/05/20,ID-PA,Papua,56,0
+23/05/20,ID-PB,Papua Barat,10,1
+23/05/20,ID-RI,Riau,1,0
+23/05/20,ID-SR,Sulawesi Barat,0,0
+23/05/20,ID-SN,Sulawesi Selatan,57,0
+23/05/20,ID-ST,Sulawesi Tengah,2,0
+23/05/20,ID-SG,Sulawesi Tenggara,4,0
+23/05/20,ID-SA,Sulawesi Utara,3,2
+23/05/20,ID-SB,Sumatera Barat,5,1
+23/05/20,ID-SS,Sumatera Selatan,32,3
+23/05/20,ID-SU,Sumatera Utara,9,0
+24/05/20,ID-AC,Aceh,0,0
+24/05/20,ID-BA,Bali,6,0
+24/05/20,ID-BT,Banten,21,0
+24/05/20,ID-BE,Bengkulu,0,0
+24/05/20,ID-JK,DKI Jakarta,113,0
+24/05/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+24/05/20,ID-GO,Gorontalo,9,0
+24/05/20,IDN,Indonesia,526,21
+24/05/20,ID-JA,Jambi,4,0
+24/05/20,ID-JB,Jawa Barat,47,1
+24/05/20,ID-JT,Jawa Tengah,21,0
+24/05/20,ID-JI,Jawa Timur,77,12
+24/05/20,ID-KB,Kalimantan Barat,0,0
+24/05/20,ID-KS,Kalimantan Selatan,9,2
+24/05/20,ID-KT,Kalimantan Tengah,15,0
+24/05/20,ID-KI,Kalimantan Timur,2,0
+24/05/20,ID-KU,Kalimantan Utara,1,0
+24/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+24/05/20,ID-KR,Kepulauan Riau,4,0
+24/05/20,ID-LA,Lampung,4,2
+24/05/20,ID-MA,Maluku,2,0
+24/05/20,ID-MU,Maluku Utara,1,1
+24/05/20,ID-NB,Nusa Tenggara Barat,4,0
+24/05/20,ID-NT,Nusa Tenggara Timur,0,0
+24/05/20,ID-PA,Papua,62,0
+24/05/20,ID-PB,Papua Barat,1,0
+24/05/20,ID-RI,Riau,1,0
+24/05/20,ID-SR,Sulawesi Barat,0,0
+24/05/20,ID-SN,Sulawesi Selatan,32,2
+24/05/20,ID-ST,Sulawesi Tengah,0,0
+24/05/20,ID-SG,Sulawesi Tenggara,0,0
+24/05/20,ID-SA,Sulawesi Utara,29,1
+24/05/20,ID-SB,Sumatera Barat,35,0
+24/05/20,ID-SS,Sumatera Selatan,11,0
+24/05/20,ID-SU,Sumatera Utara,17,1
+25/05/20,ID-AC,Aceh,0,0
+25/05/20,ID-BA,Bali,2,0
+25/05/20,ID-BT,Banten,0,0
+25/05/20,ID-BE,Bengkulu,0,0
+25/05/20,ID-JK,DKI Jakarta,75,0
+25/05/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+25/05/20,ID-GO,Gorontalo,0,0
+25/05/20,IDN,Indonesia,479,19
+25/05/20,ID-JA,Jambi,2,0
+25/05/20,ID-JB,Jawa Barat,21,0
+25/05/20,ID-JT,Jawa Tengah,2,0
+25/05/20,ID-JI,Jawa Timur,231,9
+25/05/20,ID-KB,Kalimantan Barat,7,0
+25/05/20,ID-KS,Kalimantan Selatan,3,2
+25/05/20,ID-KT,Kalimantan Tengah,2,2
+25/05/20,ID-KI,Kalimantan Timur,0,0
+25/05/20,ID-KU,Kalimantan Utara,0,0
+25/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+25/05/20,ID-KR,Kepulauan Riau,0,0
+25/05/20,ID-LA,Lampung,7,1
+25/05/20,ID-MA,Maluku,1,0
+25/05/20,ID-MU,Maluku Utara,7,0
+25/05/20,ID-NB,Nusa Tenggara Barat,0,0
+25/05/20,ID-NT,Nusa Tenggara Timur,3,0
+25/05/20,ID-PA,Papua,9,0
+25/05/20,ID-PB,Papua Barat,0,0
+25/05/20,ID-RI,Riau,0,0
+25/05/20,ID-SR,Sulawesi Barat,0,0
+25/05/20,ID-SN,Sulawesi Selatan,22,3
+25/05/20,ID-ST,Sulawesi Tengah,0,0
+25/05/20,ID-SG,Sulawesi Tenggara,0,0
+25/05/20,ID-SA,Sulawesi Utara,9,1
+25/05/20,ID-SB,Sumatera Barat,0,0
+25/05/20,ID-SS,Sumatera Selatan,72,0
+25/05/20,ID-SU,Sumatera Utara,4,0
+26/05/20,ID-AC,Aceh,0,0
+26/05/20,ID-BA,Bali,11,0
+26/05/20,ID-BT,Banten,18,0
+26/05/20,ID-BE,Bengkulu,0,1
+26/05/20,ID-JK,DKI Jakarta,89,0
+26/05/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+26/05/20,ID-GO,Gorontalo,0,0
+26/05/20,IDN,Indonesia,415,27
+26/05/20,ID-JA,Jambi,0,0
+26/05/20,ID-JB,Jawa Barat,16,9
+26/05/20,ID-JT,Jawa Tengah,4,0
+26/05/20,ID-JI,Jawa Timur,61,9
+26/05/20,ID-KB,Kalimantan Barat,1,0
+26/05/20,ID-KS,Kalimantan Selatan,28,8
+26/05/20,ID-KT,Kalimantan Tengah,12,0
+26/05/20,ID-KI,Kalimantan Timur,1,0
+26/05/20,ID-KU,Kalimantan Utara,0,1
+26/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+26/05/20,ID-KR,Kepulauan Riau,0,1
+26/05/20,ID-LA,Lampung,0,0
+26/05/20,ID-MA,Maluku,0,0
+26/05/20,ID-MU,Maluku Utara,11,1
+26/05/20,ID-NB,Nusa Tenggara Barat,10,0
+26/05/20,ID-NT,Nusa Tenggara Timur,3,0
+26/05/20,ID-PA,Papua,0,0
+26/05/20,ID-PB,Papua Barat,2,0
+26/05/20,ID-RI,Riau,0,0
+26/05/20,ID-SR,Sulawesi Barat,1,0
+26/05/20,ID-SN,Sulawesi Selatan,34,2
+26/05/20,ID-ST,Sulawesi Tengah,0,0
+26/05/20,ID-SG,Sulawesi Tenggara,0,0
+26/05/20,ID-SA,Sulawesi Utara,26,5
+26/05/20,ID-SB,Sumatera Barat,32,0
+26/05/20,ID-SS,Sumatera Selatan,58,0
+26/05/20,ID-SU,Sumatera Utara,0,0
+27/05/20,ID-AC,Aceh,0,0
+27/05/20,ID-BA,Bali,8,0
+27/05/20,ID-BT,Banten,10,0
+27/05/20,ID-BE,Bengkulu,0,0
+27/05/20,ID-JK,DKI Jakarta,108,8
+27/05/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+27/05/20,ID-GO,Gorontalo,2,0
+27/05/20,IDN,Indonesia,686,55
+27/05/20,ID-JA,Jambi,0,0
+27/05/20,ID-JB,Jawa Barat,23,5
+27/05/20,ID-JT,Jawa Tengah,11,0
+27/05/20,ID-JI,Jawa Timur,179,19
+27/05/20,ID-KB,Kalimantan Barat,7,0
+27/05/20,ID-KS,Kalimantan Selatan,73,0
+27/05/20,ID-KT,Kalimantan Tengah,8,0
+27/05/20,ID-KI,Kalimantan Timur,3,0
+27/05/20,ID-KU,Kalimantan Utara,1,0
+27/05/20,ID-BB,Kepulauan Bangka Belitung,3,0
+27/05/20,ID-KR,Kepulauan Riau,8,0
+27/05/20,ID-LA,Lampung,2,0
+27/05/20,ID-MA,Maluku,10,1
+27/05/20,ID-MU,Maluku Utara,1,0
+27/05/20,ID-NB,Nusa Tenggara Barat,49,1
+27/05/20,ID-NT,Nusa Tenggara Timur,0,0
+27/05/20,ID-PA,Papua,14,0
+27/05/20,ID-PB,Papua Barat,0,0
+27/05/20,ID-RI,Riau,0,0
+27/05/20,ID-SR,Sulawesi Barat,1,0
+27/05/20,ID-SN,Sulawesi Selatan,29,0
+27/05/20,ID-ST,Sulawesi Tengah,0,0
+27/05/20,ID-SG,Sulawesi Tenggara,11,0
+27/05/20,ID-SA,Sulawesi Utara,16,2
+27/05/20,ID-SB,Sumatera Barat,27,1
+27/05/20,ID-SS,Sumatera Selatan,48,1
+27/05/20,ID-SU,Sumatera Utara,17,1
+28/05/20,ID-AC,Aceh,1,0
+28/05/20,ID-BA,Bali,5,0
+28/05/20,ID-BT,Banten,14,0
+28/05/20,ID-BE,Bengkulu,2,0
+28/05/20,ID-JK,DKI Jakarta,101,0
+28/05/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+28/05/20,ID-GO,Gorontalo,5,1
+28/05/20,IDN,Indonesia,687,23
+28/05/20,ID-JA,Jambi,0,0
+28/05/20,ID-JB,Jawa Barat,25,0
+28/05/20,ID-JT,Jawa Tengah,10,0
+28/05/20,ID-JI,Jawa Timur,125,14
+28/05/20,ID-KB,Kalimantan Barat,1,0
+28/05/20,ID-KS,Kalimantan Selatan,114,1
+28/05/20,ID-KT,Kalimantan Tengah,6,0
+28/05/20,ID-KI,Kalimantan Timur,1,0
+28/05/20,ID-KU,Kalimantan Utara,0,0
+28/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+28/05/20,ID-KR,Kepulauan Riau,13,1
+28/05/20,ID-LA,Lampung,0,0
+28/05/20,ID-MA,Maluku,18,0
+28/05/20,ID-MU,Maluku Utara,9,1
+28/05/20,ID-NB,Nusa Tenggara Barat,25,1
+28/05/20,ID-NT,Nusa Tenggara Timur,0,0
+28/05/20,ID-PA,Papua,4,0
+28/05/20,ID-PB,Papua Barat,20,0
+28/05/20,ID-RI,Riau,0,0
+28/05/20,ID-SR,Sulawesi Barat,0,0
+28/05/20,ID-SN,Sulawesi Selatan,46,0
+28/05/20,ID-ST,Sulawesi Tengah,6,0
+28/05/20,ID-SG,Sulawesi Tenggara,14,0
+28/05/20,ID-SA,Sulawesi Utara,16,0
+28/05/20,ID-SB,Sumatera Barat,4,0
+28/05/20,ID-SS,Sumatera Selatan,27,0
+28/05/20,ID-SU,Sumatera Utara,30,1
+29/05/20,ID-AC,Aceh,0,0
+29/05/20,ID-BA,Bali,23,0
+29/05/20,ID-BT,Banten,13,3
+29/05/20,ID-BE,Bengkulu,1,0
+29/05/20,ID-JK,DKI Jakarta,124,0
+29/05/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+29/05/20,ID-GO,Gorontalo,3,0
+29/05/20,IDN,Indonesia,678,24
+29/05/20,ID-JA,Jambi,0,0
+29/05/20,ID-JB,Jawa Barat,40,0
+29/05/20,ID-JT,Jawa Tengah,14,0
+29/05/20,ID-JI,Jawa Timur,169,11
+29/05/20,ID-KB,Kalimantan Barat,0,0
+29/05/20,ID-KS,Kalimantan Selatan,73,5
+29/05/20,ID-KT,Kalimantan Tengah,29,0
+29/05/20,ID-KI,Kalimantan Timur,4,0
+29/05/20,ID-KU,Kalimantan Utara,0,0
+29/05/20,ID-BB,Kepulauan Bangka Belitung,0,0
+29/05/20,ID-KR,Kepulauan Riau,3,0
+29/05/20,ID-LA,Lampung,13,0
+29/05/20,ID-MA,Maluku,27,0
+29/05/20,ID-MU,Maluku Utara,11,0
+29/05/20,ID-NB,Nusa Tenggara Barat,28,0
+29/05/20,ID-NT,Nusa Tenggara Timur,5,0
+29/05/20,ID-PA,Papua,56,0
+29/05/20,ID-PB,Papua Barat,6,0
+29/05/20,ID-RI,Riau,6,0
+29/05/20,ID-SR,Sulawesi Barat,0,0
+29/05/20,ID-SN,Sulawesi Selatan,41,3
+29/05/20,ID-ST,Sulawesi Tengah,0,0
+29/05/20,ID-SG,Sulawesi Tenggara,1,0
+29/05/20,ID-SA,Sulawesi Utara,9,1
+29/05/20,ID-SB,Sumatera Barat,0,0
+29/05/20,ID-SS,Sumatera Selatan,12,1
+29/05/20,ID-SU,Sumatera Utara,38,0
+30/05/20,ID-AC,Aceh,0,0
+30/05/20,ID-BA,Bali,12,0
+30/05/20,ID-BT,Banten,14,0
+30/05/20,ID-BE,Bengkulu,14,0
+30/05/20,ID-JK,DKI Jakarta,103,7
+30/05/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+30/05/20,ID-GO,Gorontalo,1,2
+30/05/20,IDN,Indonesia,557,53
+30/05/20,ID-JA,Jambi,0,0
+30/05/20,ID-JB,Jawa Barat,21,2
+30/05/20,ID-JT,Jawa Tengah,16,0
+30/05/20,ID-JI,Jawa Timur,197,27
+30/05/20,ID-KB,Kalimantan Barat,0,0
+30/05/20,ID-KS,Kalimantan Selatan,3,0
+30/05/20,ID-KT,Kalimantan Tengah,31,2
+30/05/20,ID-KI,Kalimantan Timur,6,0
+30/05/20,ID-KU,Kalimantan Utara,0,0
+30/05/20,ID-BB,Kepulauan Bangka Belitung,3,0
+30/05/20,ID-KR,Kepulauan Riau,18,0
+30/05/20,ID-LA,Lampung,1,0
+30/05/20,ID-MA,Maluku,0,0
+30/05/20,ID-MU,Maluku Utara,7,0
+30/05/20,ID-NB,Nusa Tenggara Barat,4,0
+30/05/20,ID-NT,Nusa Tenggara Timur,1,0
+30/05/20,ID-PA,Papua,18,0
+30/05/20,ID-PB,Papua Barat,4,0
+30/05/20,ID-RI,Riau,0,0
+30/05/20,ID-SR,Sulawesi Barat,0,0
+30/05/20,ID-SN,Sulawesi Selatan,41,1
+30/05/20,ID-ST,Sulawesi Tengah,0,0
+30/05/20,ID-SG,Sulawesi Tenggara,0,0
+30/05/20,ID-SA,Sulawesi Utara,16,0
+30/05/20,ID-SB,Sumatera Barat,11,0
+30/05/20,ID-SS,Sumatera Selatan,11,4
+30/05/20,ID-SU,Sumatera Utara,6,4
+31/05/20,ID-AC,Aceh,0,0
+31/05/20,ID-BA,Bali,10,0
+31/05/20,ID-BT,Banten,3,0
+31/05/20,ID-BE,Bengkulu,5,0
+31/05/20,ID-JK,DKI Jakarta,113,1
+31/05/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+31/05/20,ID-GO,Gorontalo,25,1
+31/05/20,IDN,Indonesia,700,40
+31/05/20,ID-JA,Jambi,0,0
+31/05/20,ID-JB,Jawa Barat,37,0
+31/05/20,ID-JT,Jawa Tengah,37,0
+31/05/20,ID-JI,Jawa Timur,234,24
+31/05/20,ID-KB,Kalimantan Barat,5,0
+31/05/20,ID-KS,Kalimantan Selatan,26,6
+31/05/20,ID-KT,Kalimantan Tengah,12,0
+31/05/20,ID-KI,Kalimantan Timur,4,0
+31/05/20,ID-KU,Kalimantan Utara,0,0
+31/05/20,ID-BB,Kepulauan Bangka Belitung,1,0
+31/05/20,ID-KR,Kepulauan Riau,0,1
+31/05/20,ID-LA,Lampung,1,0
+31/05/20,ID-MA,Maluku,8,0
+31/05/20,ID-MU,Maluku Utara,7,4
+31/05/20,ID-NB,Nusa Tenggara Barat,42,0
+31/05/20,ID-NT,Nusa Tenggara Timur,1,0
+31/05/20,ID-PA,Papua,17,0
+31/05/20,ID-PB,Papua Barat,6,0
+31/05/20,ID-RI,Riau,0,0
+31/05/20,ID-SR,Sulawesi Barat,4,0
+31/05/20,ID-SN,Sulawesi Selatan,32,2
+31/05/20,ID-ST,Sulawesi Tengah,2,0
+31/05/20,ID-SG,Sulawesi Tenggara,3,0
+31/05/20,ID-SA,Sulawesi Utara,17,2
+31/05/20,ID-SB,Sumatera Barat,15,0
+31/05/20,ID-SS,Sumatera Selatan,19,0
+31/05/20,ID-SU,Sumatera Utara,3,0
+01/06/20,ID-AC,Aceh,0,0
+01/06/20,ID-BA,Bali,17,1
+01/06/20,ID-BT,Banten,7,0
+01/06/20,ID-BE,Bengkulu,0,0
+01/06/20,ID-JK,DKI Jakarta,153,2
+01/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+01/06/20,ID-GO,Gorontalo,0,0
+01/06/20,IDN,Indonesia,467,28
+01/06/20,ID-JA,Jambi,0,0
+01/06/20,ID-JB,Jawa Barat,41,0
+01/06/20,ID-JT,Jawa Tengah,14,0
+01/06/20,ID-JI,Jawa Timur,72,16
+01/06/20,ID-KB,Kalimantan Barat,7,0
+01/06/20,ID-KS,Kalimantan Selatan,29,1
+01/06/20,ID-KT,Kalimantan Tengah,9,0
+01/06/20,ID-KI,Kalimantan Timur,2,0
+01/06/20,ID-KU,Kalimantan Utara,0,0
+01/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+01/06/20,ID-KR,Kepulauan Riau,0,0
+01/06/20,ID-LA,Lampung,2,0
+01/06/20,ID-MA,Maluku,0,0
+01/06/20,ID-MU,Maluku Utara,7,3
+01/06/20,ID-NB,Nusa Tenggara Barat,16,0
+01/06/20,ID-NT,Nusa Tenggara Timur,5,0
+01/06/20,ID-PA,Papua,42,0
+01/06/20,ID-PB,Papua Barat,0,0
+01/06/20,ID-RI,Riau,0,0
+01/06/20,ID-SR,Sulawesi Barat,0,0
+01/06/20,ID-SN,Sulawesi Selatan,45,1
+01/06/20,ID-ST,Sulawesi Tengah,0,0
+01/06/20,ID-SG,Sulawesi Tenggara,0,0
+01/06/20,ID-SA,Sulawesi Utara,0,1
+01/06/20,ID-SB,Sumatera Barat,0,0
+01/06/20,ID-SS,Sumatera Selatan,12,0
+01/06/20,ID-SU,Sumatera Utara,8,0
+02/06/20,ID-AC,Aceh,0,0
+02/06/20,ID-BA,Bali,5,0
+02/06/20,ID-BT,Banten,14,0
+02/06/20,ID-BE,Bengkulu,1,0
+02/06/20,ID-JK,DKI Jakarta,60,0
+02/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+02/06/20,ID-GO,Gorontalo,14,0
+02/06/20,IDN,Indonesia,609,22
+02/06/20,ID-JA,Jambi,0,0
+02/06/20,ID-JB,Jawa Barat,18,7
+02/06/20,ID-JT,Jawa Tengah,15,0
+02/06/20,ID-JI,Jawa Timur,218,6
+02/06/20,ID-KB,Kalimantan Barat,0,0
+02/06/20,ID-KS,Kalimantan Selatan,21,3
+02/06/20,ID-KT,Kalimantan Tengah,9,1
+02/06/20,ID-KI,Kalimantan Timur,1,0
+02/06/20,ID-KU,Kalimantan Utara,0,0
+02/06/20,ID-BB,Kepulauan Bangka Belitung,4,0
+02/06/20,ID-KR,Kepulauan Riau,12,0
+02/06/20,ID-LA,Lampung,0,0
+02/06/20,ID-MA,Maluku,0,0
+02/06/20,ID-MU,Maluku Utara,14,1
+02/06/20,ID-NB,Nusa Tenggara Barat,18,2
+02/06/20,ID-NT,Nusa Tenggara Timur,0,0
+02/06/20,ID-PA,Papua,99,1
+02/06/20,ID-PB,Papua Barat,4,0
+02/06/20,ID-RI,Riau,0,0
+02/06/20,ID-SR,Sulawesi Barat,0,0
+02/06/20,ID-SN,Sulawesi Selatan,43,0
+02/06/20,ID-ST,Sulawesi Tengah,0,0
+02/06/20,ID-SG,Sulawesi Tenggara,0,0
+02/06/20,ID-SA,Sulawesi Utara,15,1
+02/06/20,ID-SB,Sumatera Barat,7,0
+02/06/20,ID-SS,Sumatera Selatan,26,0
+02/06/20,ID-SU,Sumatera Utara,1,0
+03/06/20,ID-AC,Aceh,0,0
+03/06/20,ID-BA,Bali,3,0
+03/06/20,ID-BT,Banten,71,0
+03/06/20,ID-BE,Bengkulu,0,0
+03/06/20,ID-JK,DKI Jakarta,91,5
+03/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+03/06/20,ID-GO,Gorontalo,10,0
+03/06/20,IDN,Indonesia,684,35
+03/06/20,ID-JA,Jambi,0,0
+03/06/20,ID-JB,Jawa Barat,4,3
+03/06/20,ID-JT,Jawa Tengah,22,1
+03/06/20,ID-JI,Jawa Timur,175,11
+03/06/20,ID-KB,Kalimantan Barat,6,0
+03/06/20,ID-KS,Kalimantan Selatan,64,3
+03/06/20,ID-KT,Kalimantan Tengah,28,4
+03/06/20,ID-KI,Kalimantan Timur,12,0
+03/06/20,ID-KU,Kalimantan Utara,0,0
+03/06/20,ID-BB,Kepulauan Bangka Belitung,12,0
+03/06/20,ID-KR,Kepulauan Riau,0,0
+03/06/20,ID-LA,Lampung,0,0
+03/06/20,ID-MA,Maluku,15,0
+03/06/20,ID-MU,Maluku Utara,2,1
+03/06/20,ID-NB,Nusa Tenggara Barat,15,1
+03/06/20,ID-NT,Nusa Tenggara Timur,0,0
+03/06/20,ID-PA,Papua,46,0
+03/06/20,ID-PB,Papua Barat,0,0
+03/06/20,ID-RI,Riau,0,0
+03/06/20,ID-SR,Sulawesi Barat,0,0
+03/06/20,ID-SN,Sulawesi Selatan,37,0
+03/06/20,ID-ST,Sulawesi Tengah,1,0
+03/06/20,ID-SG,Sulawesi Tenggara,7,0
+03/06/20,ID-SA,Sulawesi Utara,23,4
+03/06/20,ID-SB,Sumatera Barat,9,0
+03/06/20,ID-SS,Sumatera Selatan,10,0
+03/06/20,ID-SU,Sumatera Utara,26,2
+04/06/20,ID-AC,Aceh,0,0
+04/06/20,ID-BA,Bali,20,0
+04/06/20,ID-BT,Banten,10,0
+04/06/20,ID-BE,Bengkulu,0,0
+04/06/20,ID-JK,DKI Jakarta,108,0
+04/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+04/06/20,ID-GO,Gorontalo,3,0
+04/06/20,IDN,Indonesia,585,23
+04/06/20,ID-JA,Jambi,2,0
+04/06/20,ID-JB,Jawa Barat,8,1
+04/06/20,ID-JT,Jawa Tengah,24,0
+04/06/20,ID-JI,Jawa Timur,97,8
+04/06/20,ID-KB,Kalimantan Barat,0,0
+04/06/20,ID-KS,Kalimantan Selatan,109,0
+04/06/20,ID-KT,Kalimantan Tengah,13,0
+04/06/20,ID-KI,Kalimantan Timur,6,0
+04/06/20,ID-KU,Kalimantan Utara,0,0
+04/06/20,ID-BB,Kepulauan Bangka Belitung,10,0
+04/06/20,ID-KR,Kepulauan Riau,11,0
+04/06/20,ID-LA,Lampung,4,0
+04/06/20,ID-MA,Maluku,0,0
+04/06/20,ID-MU,Maluku Utara,1,2
+04/06/20,ID-NB,Nusa Tenggara Barat,20,4
+04/06/20,ID-NT,Nusa Tenggara Timur,0,0
+04/06/20,ID-PA,Papua,17,0
+04/06/20,ID-PB,Papua Barat,1,0
+04/06/20,ID-RI,Riau,0,0
+04/06/20,ID-SR,Sulawesi Barat,0,0
+04/06/20,ID-SN,Sulawesi Selatan,54,4
+04/06/20,ID-ST,Sulawesi Tengah,0,0
+04/06/20,ID-SG,Sulawesi Tenggara,1,1
+04/06/20,ID-SA,Sulawesi Utara,4,1
+04/06/20,ID-SB,Sumatera Barat,11,0
+04/06/20,ID-SS,Sumatera Selatan,27,3
+04/06/20,ID-SU,Sumatera Utara,44,1
+05/06/20,ID-AC,Aceh,0,0
+05/06/20,ID-BA,Bali,14,0
+05/06/20,ID-BT,Banten,24,1
+05/06/20,ID-BE,Bengkulu,0,1
+05/06/20,ID-JK,DKI Jakarta,70,1
+05/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+05/06/20,ID-GO,Gorontalo,0,0
+05/06/20,IDN,Indonesia,703,49
+05/06/20,ID-JA,Jambi,2,0
+05/06/20,ID-JB,Jawa Barat,15,3
+05/06/20,ID-JT,Jawa Tengah,58,6
+05/06/20,ID-JI,Jawa Timur,142,10
+05/06/20,ID-KB,Kalimantan Barat,3,0
+05/06/20,ID-KS,Kalimantan Selatan,71,2
+05/06/20,ID-KT,Kalimantan Tengah,15,2
+05/06/20,ID-KI,Kalimantan Timur,1,0
+05/06/20,ID-KU,Kalimantan Utara,2,0
+05/06/20,ID-BB,Kepulauan Bangka Belitung,9,0
+05/06/20,ID-KR,Kepulauan Riau,3,0
+05/06/20,ID-LA,Lampung,1,0
+05/06/20,ID-MA,Maluku,16,0
+05/06/20,ID-MU,Maluku Utara,1,0
+05/06/20,ID-NB,Nusa Tenggara Barat,52,3
+05/06/20,ID-NT,Nusa Tenggara Timur,0,0
+05/06/20,ID-PA,Papua,43,0
+05/06/20,ID-PB,Papua Barat,2,0
+05/06/20,ID-RI,Riau,0,0
+05/06/20,ID-SR,Sulawesi Barat,0,0
+05/06/20,ID-SN,Sulawesi Selatan,53,14
+05/06/20,ID-ST,Sulawesi Tengah,7,0
+05/06/20,ID-SG,Sulawesi Tenggara,5,0
+05/06/20,ID-SA,Sulawesi Utara,10,1
+05/06/20,ID-SB,Sumatera Barat,13,1
+05/06/20,ID-SS,Sumatera Selatan,17,3
+05/06/20,ID-SU,Sumatera Utara,48,1
+06/06/20,ID-AC,Aceh,0,0
+06/06/20,ID-BA,Bali,33,0
+06/06/20,ID-BT,Banten,36,1
+06/06/20,ID-BE,Bengkulu,0,0
+06/06/20,ID-JK,DKI Jakarta,113,0
+06/06/20,ID-YO,Daerah Istimewa Yogyakarta,4,0
+06/06/20,ID-GO,Gorontalo,5,0
+06/06/20,IDN,Indonesia,993,31
+06/06/20,ID-JA,Jambi,2,0
+06/06/20,ID-JB,Jawa Barat,13,0
+06/06/20,ID-JT,Jawa Tengah,27,0
+06/06/20,ID-JI,Jawa Timur,270,17
+06/06/20,ID-KB,Kalimantan Barat,5,0
+06/06/20,ID-KS,Kalimantan Selatan,33,2
+06/06/20,ID-KT,Kalimantan Tengah,15,0
+06/06/20,ID-KI,Kalimantan Timur,10,0
+06/06/20,ID-KU,Kalimantan Utara,1,0
+06/06/20,ID-BB,Kepulauan Bangka Belitung,17,0
+06/06/20,ID-KR,Kepulauan Riau,4,0
+06/06/20,ID-LA,Lampung,2,0
+06/06/20,ID-MA,Maluku,7,0
+06/06/20,ID-MU,Maluku Utara,7,0
+06/06/20,ID-NB,Nusa Tenggara Barat,41,1
+06/06/20,ID-NT,Nusa Tenggara Timur,0,0
+06/06/20,ID-PA,Papua,87,0
+06/06/20,ID-PB,Papua Barat,3,0
+06/06/20,ID-RI,Riau,1,0
+06/06/20,ID-SR,Sulawesi Barat,0,0
+06/06/20,ID-SN,Sulawesi Selatan,65,0
+06/06/20,ID-ST,Sulawesi Tengah,3,0
+06/06/20,ID-SG,Sulawesi Tenggara,0,0
+06/06/20,ID-SA,Sulawesi Utara,79,1
+06/06/20,ID-SB,Sumatera Barat,11,0
+06/06/20,ID-SS,Sumatera Selatan,28,1
+06/06/20,ID-SU,Sumatera Utara,67,0
+07/06/20,ID-AC,Aceh,0,0
+07/06/20,ID-BA,Bali,25,0
+07/06/20,ID-BT,Banten,10,0
+07/06/20,ID-BE,Bengkulu,0,0
+07/06/20,ID-JK,DKI Jakarta,164,4
+07/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+07/06/20,ID-GO,Gorontalo,8,0
+07/06/20,IDN,Indonesia,672,50
+07/06/20,ID-JA,Jambi,0,0
+07/06/20,ID-JB,Jawa Barat,35,0
+07/06/20,ID-JT,Jawa Tengah,51,22
+07/06/20,ID-JI,Jawa Timur,103,20
+07/06/20,ID-KB,Kalimantan Barat,0,0
+07/06/20,ID-KS,Kalimantan Selatan,38,3
+07/06/20,ID-KT,Kalimantan Tengah,1,0
+07/06/20,ID-KI,Kalimantan Timur,2,0
+07/06/20,ID-KU,Kalimantan Utara,1,0
+07/06/20,ID-BB,Kepulauan Bangka Belitung,4,0
+07/06/20,ID-KR,Kepulauan Riau,1,0
+07/06/20,ID-LA,Lampung,1,0
+07/06/20,ID-MA,Maluku,8,0
+07/06/20,ID-MU,Maluku Utara,1,0
+07/06/20,ID-NB,Nusa Tenggara Barat,10,0
+07/06/20,ID-NT,Nusa Tenggara Timur,0,0
+07/06/20,ID-PA,Papua,58,0
+07/06/20,ID-PB,Papua Barat,1,0
+07/06/20,ID-RI,Riau,0,0
+07/06/20,ID-SR,Sulawesi Barat,2,0
+07/06/20,ID-SN,Sulawesi Selatan,64,0
+07/06/20,ID-ST,Sulawesi Tengah,20,0
+07/06/20,ID-SG,Sulawesi Tenggara,2,0
+07/06/20,ID-SA,Sulawesi Utara,25,5
+07/06/20,ID-SB,Sumatera Barat,8,0
+07/06/20,ID-SS,Sumatera Selatan,25,0
+07/06/20,ID-SU,Sumatera Utara,0,0
+08/06/20,ID-AC,Aceh,0,0
+08/06/20,ID-BA,Bali,12,0
+08/06/20,ID-BT,Banten,11,0
+08/06/20,ID-BE,Bengkulu,0,0
+08/06/20,ID-JK,DKI Jakarta,88,0
+08/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+08/06/20,ID-GO,Gorontalo,0,1
+08/06/20,IDN,Indonesia,847,32
+08/06/20,ID-JA,Jambi,0,0
+08/06/20,ID-JB,Jawa Barat,23,3
+08/06/20,ID-JT,Jawa Tengah,27,0
+08/06/20,ID-JI,Jawa Timur,359,19
+08/06/20,ID-KB,Kalimantan Barat,0,0
+08/06/20,ID-KS,Kalimantan Selatan,62,0
+08/06/20,ID-KT,Kalimantan Tengah,8,2
+08/06/20,ID-KI,Kalimantan Timur,9,0
+08/06/20,ID-KU,Kalimantan Utara,0,0
+08/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+08/06/20,ID-KR,Kepulauan Riau,1,0
+08/06/20,ID-LA,Lampung,1,0
+08/06/20,ID-MA,Maluku,38,0
+08/06/20,ID-MU,Maluku Utara,0,0
+08/06/20,ID-NB,Nusa Tenggara Barat,14,1
+08/06/20,ID-NT,Nusa Tenggara Timur,6,0
+08/06/20,ID-PA,Papua,27,0
+08/06/20,ID-PB,Papua Barat,0,0
+08/06/20,ID-RI,Riau,0,0
+08/06/20,ID-SR,Sulawesi Barat,0,0
+08/06/20,ID-SN,Sulawesi Selatan,109,0
+08/06/20,ID-ST,Sulawesi Tengah,0,0
+08/06/20,ID-SG,Sulawesi Tenggara,0,0
+08/06/20,ID-SA,Sulawesi Utara,15,3
+08/06/20,ID-SB,Sumatera Barat,0,0
+08/06/20,ID-SS,Sumatera Selatan,27,0
+08/06/20,ID-SU,Sumatera Utara,2,2
+09/06/20,ID-AC,Aceh,0,0
+09/06/20,ID-BA,Bali,14,0
+09/06/20,ID-BT,Banten,16,1
+09/06/20,ID-BE,Bengkulu,0,0
+09/06/20,ID-JK,DKI Jakarta,240,4
+09/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+09/06/20,ID-GO,Gorontalo,5,0
+09/06/20,IDN,Indonesia,1042,40
+09/06/20,ID-JA,Jambi,0,0
+09/06/20,ID-JB,Jawa Barat,29,0
+09/06/20,ID-JT,Jawa Tengah,32,5
+09/06/20,ID-JI,Jawa Timur,200,12
+09/06/20,ID-KB,Kalimantan Barat,24,0
+09/06/20,ID-KS,Kalimantan Selatan,91,8
+09/06/20,ID-KT,Kalimantan Tengah,18,0
+09/06/20,ID-KI,Kalimantan Timur,13,0
+09/06/20,ID-KU,Kalimantan Utara,1,0
+09/06/20,ID-BB,Kepulauan Bangka Belitung,19,0
+09/06/20,ID-KR,Kepulauan Riau,0,0
+09/06/20,ID-LA,Lampung,3,0
+09/06/20,ID-MA,Maluku,8,0
+09/06/20,ID-MU,Maluku Utara,28,0
+09/06/20,ID-NB,Nusa Tenggara Barat,8,3
+09/06/20,ID-NT,Nusa Tenggara Timur,0,0
+09/06/20,ID-PA,Papua,18,0
+09/06/20,ID-PB,Papua Barat,4,0
+09/06/20,ID-RI,Riau,2,0
+09/06/20,ID-SR,Sulawesi Barat,0,0
+09/06/20,ID-SN,Sulawesi Selatan,177,3
+09/06/20,ID-ST,Sulawesi Tengah,0,0
+09/06/20,ID-SG,Sulawesi Tenggara,4,0
+09/06/20,ID-SA,Sulawesi Utara,17,0
+09/06/20,ID-SB,Sumatera Barat,19,2
+09/06/20,ID-SS,Sumatera Selatan,30,1
+09/06/20,ID-SU,Sumatera Utara,12,4
+10/06/20,ID-AC,Aceh,2,0
+10/06/20,ID-BA,Bali,32,0
+10/06/20,ID-BT,Banten,34,1
+10/06/20,ID-BE,Bengkulu,0,0
+10/06/20,ID-JK,DKI Jakarta,166,2
+10/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+10/06/20,ID-GO,Gorontalo,6,0
+10/06/20,IDN,Indonesia,1241,36
+10/06/20,ID-JA,Jambi,2,0
+10/06/20,ID-JB,Jawa Barat,52,0
+10/06/20,ID-JT,Jawa Tengah,139,0
+10/06/20,ID-JI,Jawa Timur,265,15
+10/06/20,ID-KB,Kalimantan Barat,11,0
+10/06/20,ID-KS,Kalimantan Selatan,127,4
+10/06/20,ID-KT,Kalimantan Tengah,15,1
+10/06/20,ID-KI,Kalimantan Timur,11,0
+10/06/20,ID-KU,Kalimantan Utara,0,0
+10/06/20,ID-BB,Kepulauan Bangka Belitung,2,0
+10/06/20,ID-KR,Kepulauan Riau,0,0
+10/06/20,ID-LA,Lampung,2,0
+10/06/20,ID-MA,Maluku,13,0
+10/06/20,ID-MU,Maluku Utara,13,0
+10/06/20,ID-NB,Nusa Tenggara Barat,27,3
+10/06/20,ID-NT,Nusa Tenggara Timur,2,0
+10/06/20,ID-PA,Papua,29,0
+10/06/20,ID-PB,Papua Barat,8,0
+10/06/20,ID-RI,Riau,0,0
+10/06/20,ID-SR,Sulawesi Barat,1,0
+10/06/20,ID-SN,Sulawesi Selatan,186,1
+10/06/20,ID-ST,Sulawesi Tengah,0,0
+10/06/20,ID-SG,Sulawesi Tenggara,3,0
+10/06/20,ID-SA,Sulawesi Utara,18,0
+10/06/20,ID-SB,Sumatera Barat,14,0
+10/06/20,ID-SS,Sumatera Selatan,40,3
+10/06/20,ID-SU,Sumatera Utara,18,1
+11/06/20,ID-AC,Aceh,0,0
+11/06/20,ID-BA,Bali,19,0
+11/06/20,ID-BT,Banten,25,2
+11/06/20,ID-BE,Bengkulu,0,0
+11/06/20,ID-JK,DKI Jakarta,132,1
+11/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+11/06/20,ID-GO,Gorontalo,3,0
+11/06/20,IDN,Indonesia,979,41
+11/06/20,ID-JA,Jambi,0,0
+11/06/20,ID-JB,Jawa Barat,47,0
+11/06/20,ID-JT,Jawa Tengah,19,0
+11/06/20,ID-JI,Jawa Timur,289,24
+11/06/20,ID-KB,Kalimantan Barat,0,0
+11/06/20,ID-KS,Kalimantan Selatan,70,4
+11/06/20,ID-KT,Kalimantan Tengah,15,0
+11/06/20,ID-KI,Kalimantan Timur,3,0
+11/06/20,ID-KU,Kalimantan Utara,0,0
+11/06/20,ID-BB,Kepulauan Bangka Belitung,3,0
+11/06/20,ID-KR,Kepulauan Riau,10,0
+11/06/20,ID-LA,Lampung,2,0
+11/06/20,ID-MA,Maluku,0,0
+11/06/20,ID-MU,Maluku Utara,36,4
+11/06/20,ID-NB,Nusa Tenggara Barat,11,3
+11/06/20,ID-NT,Nusa Tenggara Timur,0,0
+11/06/20,ID-PA,Papua,19,0
+11/06/20,ID-PB,Papua Barat,4,0
+11/06/20,ID-RI,Riau,0,0
+11/06/20,ID-SR,Sulawesi Barat,1,0
+11/06/20,ID-SN,Sulawesi Selatan,132,0
+11/06/20,ID-ST,Sulawesi Tengah,0,0
+11/06/20,ID-SG,Sulawesi Tenggara,6,0
+11/06/20,ID-SA,Sulawesi Utara,34,3
+11/06/20,ID-SB,Sumatera Barat,2,0
+11/06/20,ID-SS,Sumatera Selatan,39,0
+11/06/20,ID-SU,Sumatera Utara,45,3
+12/06/20,ID-AC,Aceh,0,0
+12/06/20,ID-BA,Bali,36,0
+12/06/20,ID-BT,Banten,35,1
+12/06/20,ID-BE,Bengkulu,3,1
+12/06/20,ID-JK,DKI Jakarta,93,4
+12/06/20,ID-YO,Daerah Istimewa Yogyakarta,10,0
+12/06/20,ID-GO,Gorontalo,33,0
+12/06/20,IDN,Indonesia,1111,48
+12/06/20,ID-JA,Jambi,1,0
+12/06/20,ID-JB,Jawa Barat,17,0
+12/06/20,ID-JT,Jawa Tengah,44,0
+12/06/20,ID-JI,Jawa Timur,311,22
+12/06/20,ID-KB,Kalimantan Barat,22,0
+12/06/20,ID-KS,Kalimantan Selatan,60,3
+12/06/20,ID-KT,Kalimantan Tengah,13,0
+12/06/20,ID-KI,Kalimantan Timur,8,1
+12/06/20,ID-KU,Kalimantan Utara,0,0
+12/06/20,ID-BB,Kepulauan Bangka Belitung,6,0
+12/06/20,ID-KR,Kepulauan Riau,0,0
+12/06/20,ID-LA,Lampung,1,0
+12/06/20,ID-MA,Maluku,58,2
+12/06/20,ID-MU,Maluku Utara,22,0
+12/06/20,ID-NB,Nusa Tenggara Barat,23,0
+12/06/20,ID-NT,Nusa Tenggara Timur,0,0
+12/06/20,ID-PA,Papua,31,0
+12/06/20,ID-PB,Papua Barat,5,0
+12/06/20,ID-RI,Riau,0,0
+12/06/20,ID-SR,Sulawesi Barat,1,0
+12/06/20,ID-SN,Sulawesi Selatan,61,12
+12/06/20,ID-ST,Sulawesi Tengah,0,0
+12/06/20,ID-SG,Sulawesi Tenggara,5,0
+12/06/20,ID-SA,Sulawesi Utara,56,0
+12/06/20,ID-SB,Sumatera Barat,10,0
+12/06/20,ID-SS,Sumatera Selatan,34,5
+12/06/20,ID-SU,Sumatera Utara,83,1
+13/06/20,ID-AC,Aceh,0,0
+13/06/20,ID-BA,Bali,28,1
+13/06/20,ID-BT,Banten,74,3
+13/06/20,ID-BE,Bengkulu,3,1
+13/06/20,ID-JK,DKI Jakarta,123,8
+13/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+13/06/20,ID-GO,Gorontalo,4,1
+13/06/20,IDN,Indonesia,1014,43
+13/06/20,ID-JA,Jambi,2,0
+13/06/20,ID-JB,Jawa Barat,11,0
+13/06/20,ID-JT,Jawa Tengah,70,0
+13/06/20,ID-JI,Jawa Timur,185,14
+13/06/20,ID-KB,Kalimantan Barat,0,0
+13/06/20,ID-KS,Kalimantan Selatan,123,6
+13/06/20,ID-KT,Kalimantan Tengah,21,1
+13/06/20,ID-KI,Kalimantan Timur,3,0
+13/06/20,ID-KU,Kalimantan Utara,0,0
+13/06/20,ID-BB,Kepulauan Bangka Belitung,4,0
+13/06/20,ID-KR,Kepulauan Riau,1,0
+13/06/20,ID-LA,Lampung,12,1
+13/06/20,ID-MA,Maluku,13,0
+13/06/20,ID-MU,Maluku Utara,17,0
+13/06/20,ID-NB,Nusa Tenggara Barat,13,2
+13/06/20,ID-NT,Nusa Tenggara Timur,0,0
+13/06/20,ID-PA,Papua,50,0
+13/06/20,ID-PB,Papua Barat,5,1
+13/06/20,ID-RI,Riau,5,0
+13/06/20,ID-SR,Sulawesi Barat,0,0
+13/06/20,ID-SN,Sulawesi Selatan,126,0
+13/06/20,ID-ST,Sulawesi Tengah,9,0
+13/06/20,ID-SG,Sulawesi Tenggara,2,0
+13/06/20,ID-SA,Sulawesi Utara,16,4
+13/06/20,ID-SB,Sumatera Barat,3,0
+13/06/20,ID-SS,Sumatera Selatan,23,2
+13/06/20,ID-SU,Sumatera Utara,98,2
+14/06/20,ID-AC,Aceh,5,0
+14/06/20,ID-BA,Bali,18,0
+14/06/20,ID-BT,Banten,9,0
+14/06/20,ID-BE,Bengkulu,3,0
+14/06/20,ID-JK,DKI Jakarta,121,7
+14/06/20,ID-YO,Daerah Istimewa Yogyakarta,5,0
+14/06/20,ID-GO,Gorontalo,0,0
+14/06/20,IDN,Indonesia,857,43
+14/06/20,ID-JA,Jambi,0,0
+14/06/20,ID-JB,Jawa Barat,17,0
+14/06/20,ID-JT,Jawa Tengah,113,1
+14/06/20,ID-JI,Jawa Timur,203,11
+14/06/20,ID-KB,Kalimantan Barat,1,0
+14/06/20,ID-KS,Kalimantan Selatan,70,6
+14/06/20,ID-KT,Kalimantan Tengah,0,3
+14/06/20,ID-KI,Kalimantan Timur,2,0
+14/06/20,ID-KU,Kalimantan Utara,0,0
+14/06/20,ID-BB,Kepulauan Bangka Belitung,8,1
+14/06/20,ID-KR,Kepulauan Riau,0,0
+14/06/20,ID-LA,Lampung,1,0
+14/06/20,ID-MA,Maluku,21,0
+14/06/20,ID-MU,Maluku Utara,8,0
+14/06/20,ID-NB,Nusa Tenggara Barat,11,0
+14/06/20,ID-NT,Nusa Tenggara Timur,3,0
+14/06/20,ID-PA,Papua,12,0
+14/06/20,ID-PB,Papua Barat,3,0
+14/06/20,ID-RI,Riau,0,0
+14/06/20,ID-SR,Sulawesi Barat,1,0
+14/06/20,ID-SN,Sulawesi Selatan,140,6
+14/06/20,ID-ST,Sulawesi Tengah,2,0
+14/06/20,ID-SG,Sulawesi Tenggara,4,0
+14/06/20,ID-SA,Sulawesi Utara,7,0
+14/06/20,ID-SB,Sumatera Barat,7,1
+14/06/20,ID-SS,Sumatera Selatan,69,0
+14/06/20,ID-SU,Sumatera Utara,8,0
+15/06/20,ID-AC,Aceh,0,0
+15/06/20,ID-BA,Bali,19,0
+15/06/20,ID-BT,Banten,4,0
+15/06/20,ID-BE,Bengkulu,0,0
+15/06/20,ID-JK,DKI Jakarta,144,2
+15/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+15/06/20,ID-GO,Gorontalo,23,0
+15/06/20,IDN,Indonesia,1017,64
+15/06/20,ID-JA,Jambi,0,0
+15/06/20,ID-JB,Jawa Barat,24,1
+15/06/20,ID-JT,Jawa Tengah,116,17
+15/06/20,ID-JI,Jawa Timur,270,16
+15/06/20,ID-KB,Kalimantan Barat,0,0
+15/06/20,ID-KS,Kalimantan Selatan,66,4
+15/06/20,ID-KT,Kalimantan Tengah,45,4
+15/06/20,ID-KI,Kalimantan Timur,4,0
+15/06/20,ID-KU,Kalimantan Utara,0,0
+15/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+15/06/20,ID-KR,Kepulauan Riau,15,0
+15/06/20,ID-LA,Lampung,0,0
+15/06/20,ID-MA,Maluku,32,1
+15/06/20,ID-MU,Maluku Utara,2,0
+15/06/20,ID-NB,Nusa Tenggara Barat,22,2
+15/06/20,ID-NT,Nusa Tenggara Timur,0,0
+15/06/20,ID-PA,Papua,0,0
+15/06/20,ID-PB,Papua Barat,1,0
+15/06/20,ID-RI,Riau,1,1
+15/06/20,ID-SR,Sulawesi Barat,0,0
+15/06/20,ID-SN,Sulawesi Selatan,103,8
+15/06/20,ID-ST,Sulawesi Tengah,1,0
+15/06/20,ID-SG,Sulawesi Tenggara,3,0
+15/06/20,ID-SA,Sulawesi Utara,17,0
+15/06/20,ID-SB,Sumatera Barat,0,0
+15/06/20,ID-SS,Sumatera Selatan,49,2
+15/06/20,ID-SU,Sumatera Utara,63,5
+16/06/20,ID-AC,Aceh,0,0
+16/06/20,ID-BA,Bali,22,0
+16/06/20,ID-BT,Banten,36,0
+16/06/20,ID-BE,Bengkulu,3,0
+16/06/20,ID-JK,DKI Jakarta,97,0
+16/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+16/06/20,ID-GO,Gorontalo,6,0
+16/06/20,IDN,Indonesia,1106,33
+16/06/20,ID-JA,Jambi,0,0
+16/06/20,ID-JB,Jawa Barat,39,0
+16/06/20,ID-JT,Jawa Tengah,56,0
+16/06/20,ID-JI,Jawa Timur,249,22
+16/06/20,ID-KB,Kalimantan Barat,2,0
+16/06/20,ID-KS,Kalimantan Selatan,169,6
+16/06/20,ID-KT,Kalimantan Tengah,26,0
+16/06/20,ID-KI,Kalimantan Timur,10,0
+16/06/20,ID-KU,Kalimantan Utara,1,0
+16/06/20,ID-BB,Kepulauan Bangka Belitung,1,0
+16/06/20,ID-KR,Kepulauan Riau,0,0
+16/06/20,ID-LA,Lampung,0,0
+16/06/20,ID-MA,Maluku,44,2
+16/06/20,ID-MU,Maluku Utara,3,0
+16/06/20,ID-NB,Nusa Tenggara Barat,20,0
+16/06/20,ID-NT,Nusa Tenggara Timur,0,0
+16/06/20,ID-PA,Papua,32,0
+16/06/20,ID-PB,Papua Barat,3,0
+16/06/20,ID-RI,Riau,0,0
+16/06/20,ID-SR,Sulawesi Barat,0,0
+16/06/20,ID-SN,Sulawesi Selatan,167,0
+16/06/20,ID-ST,Sulawesi Tengah,1,0
+16/06/20,ID-SG,Sulawesi Tenggara,5,0
+16/06/20,ID-SA,Sulawesi Utara,26,6
+16/06/20,ID-SB,Sumatera Barat,6,0
+16/06/20,ID-SS,Sumatera Selatan,50,4
+16/06/20,ID-SU,Sumatera Utara,25,2
+17/06/20,ID-AC,Aceh,10,1
+17/06/20,ID-BA,Bali,47,0
+17/06/20,ID-BT,Banten,31,0
+17/06/20,ID-BE,Bengkulu,1,0
+17/06/20,ID-JK,DKI Jakarta,123,6
+17/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+17/06/20,ID-GO,Gorontalo,0,0
+17/06/20,IDN,Indonesia,1031,45
+17/06/20,ID-JA,Jambi,1,0
+17/06/20,ID-JB,Jawa Barat,45,7
+17/06/20,ID-JT,Jawa Tengah,115,0
+17/06/20,ID-JI,Jawa Timur,240,14
+17/06/20,ID-KB,Kalimantan Barat,12,0
+17/06/20,ID-KS,Kalimantan Selatan,87,9
+17/06/20,ID-KT,Kalimantan Tengah,45,1
+17/06/20,ID-KI,Kalimantan Timur,5,0
+17/06/20,ID-KU,Kalimantan Utara,0,0
+17/06/20,ID-BB,Kepulauan Bangka Belitung,2,0
+17/06/20,ID-KR,Kepulauan Riau,9,0
+17/06/20,ID-LA,Lampung,3,0
+17/06/20,ID-MA,Maluku,24,0
+17/06/20,ID-MU,Maluku Utara,7,0
+17/06/20,ID-NB,Nusa Tenggara Barat,21,6
+17/06/20,ID-NT,Nusa Tenggara Timur,0,0
+17/06/20,ID-PA,Papua,30,0
+17/06/20,ID-PB,Papua Barat,2,0
+17/06/20,ID-RI,Riau,2,1
+17/06/20,ID-SR,Sulawesi Barat,1,0
+17/06/20,ID-SN,Sulawesi Selatan,90,0
+17/06/20,ID-ST,Sulawesi Tengah,0,0
+17/06/20,ID-SG,Sulawesi Tenggara,1,0
+17/06/20,ID-SA,Sulawesi Utara,35,0
+17/06/20,ID-SB,Sumatera Barat,4,0
+17/06/20,ID-SS,Sumatera Selatan,53,3
+17/06/20,ID-SU,Sumatera Utara,13,0
+18/06/20,ID-AC,Aceh,1,0
+18/06/20,ID-BA,Bali,65,0
+18/06/20,ID-BT,Banten,17,0
+18/06/20,ID-BE,Bengkulu,0,2
+18/06/20,ID-JK,DKI Jakarta,171,30
+18/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+18/06/20,ID-GO,Gorontalo,0,0
+18/06/20,IDN,Indonesia,1331,63
+18/06/20,ID-JA,Jambi,0,0
+18/06/20,ID-JB,Jawa Barat,52,2
+18/06/20,ID-JT,Jawa Tengah,45,9
+18/06/20,ID-JI,Jawa Timur,394,13
+18/06/20,ID-KB,Kalimantan Barat,0,0
+18/06/20,ID-KS,Kalimantan Selatan,118,2
+18/06/20,ID-KT,Kalimantan Tengah,36,6
+18/06/20,ID-KI,Kalimantan Timur,8,0
+18/06/20,ID-KU,Kalimantan Utara,0,0
+18/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+18/06/20,ID-KR,Kepulauan Riau,1,0
+18/06/20,ID-LA,Lampung,2,0
+18/06/20,ID-MA,Maluku,14,0
+18/06/20,ID-MU,Maluku Utara,21,0
+18/06/20,ID-NB,Nusa Tenggara Barat,30,2
+18/06/20,ID-NT,Nusa Tenggara Timur,0,0
+18/06/20,ID-PA,Papua,39,0
+18/06/20,ID-PB,Papua Barat,5,0
+18/06/20,ID-RI,Riau,6,0
+18/06/20,ID-SR,Sulawesi Barat,5,0
+18/06/20,ID-SN,Sulawesi Selatan,166,0
+18/06/20,ID-ST,Sulawesi Tengah,0,0
+18/06/20,ID-SG,Sulawesi Tenggara,34,0
+18/06/20,ID-SA,Sulawesi Utara,25,3
+18/06/20,ID-SB,Sumatera Barat,5,0
+18/06/20,ID-SS,Sumatera Selatan,56,2
+18/06/20,ID-SU,Sumatera Utara,23,0
+19/06/20,ID-AC,Aceh,0,0
+19/06/20,ID-BA,Bali,81,0
+19/06/20,ID-BT,Banten,5,0
+19/06/20,ID-BE,Bengkulu,2,0
+19/06/20,ID-JK,DKI Jakarta,136,0
+19/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+19/06/20,ID-GO,Gorontalo,6,0
+19/06/20,IDN,Indonesia,1041,34
+19/06/20,ID-JA,Jambi,3,0
+19/06/20,ID-JB,Jawa Barat,62,0
+19/06/20,ID-JT,Jawa Tengah,80,13
+19/06/20,ID-JI,Jawa Timur,139,14
+19/06/20,ID-KB,Kalimantan Barat,14,0
+19/06/20,ID-KS,Kalimantan Selatan,66,3
+19/06/20,ID-KT,Kalimantan Tengah,0,0
+19/06/20,ID-KI,Kalimantan Timur,12,0
+19/06/20,ID-KU,Kalimantan Utara,2,0
+19/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+19/06/20,ID-KR,Kepulauan Riau,0,0
+19/06/20,ID-LA,Lampung,1,0
+19/06/20,ID-MA,Maluku,10,0
+19/06/20,ID-MU,Maluku Utara,40,1
+19/06/20,ID-NB,Nusa Tenggara Barat,14,0
+19/06/20,ID-NT,Nusa Tenggara Timur,0,0
+19/06/20,ID-PA,Papua,18,0
+19/06/20,ID-PB,Papua Barat,3,0
+19/06/20,ID-RI,Riau,8,0
+19/06/20,ID-SR,Sulawesi Barat,0,0
+19/06/20,ID-SN,Sulawesi Selatan,211,0
+19/06/20,ID-ST,Sulawesi Tengah,1,0
+19/06/20,ID-SG,Sulawesi Tenggara,3,0
+19/06/20,ID-SA,Sulawesi Utara,23,0
+19/06/20,ID-SB,Sumatera Barat,4,0
+19/06/20,ID-SS,Sumatera Selatan,74,1
+19/06/20,ID-SU,Sumatera Utara,31,0
+20/06/20,ID-AC,Aceh,1,0
+20/06/20,ID-BA,Bali,36,1
+20/06/20,ID-BT,Banten,15,0
+20/06/20,ID-BE,Bengkulu,9,0
+20/06/20,ID-JK,DKI Jakarta,196,8
+20/06/20,ID-YO,Daerah Istimewa Yogyakarta,8,0
+20/06/20,ID-GO,Gorontalo,0,0
+20/06/20,IDN,Indonesia,1226,56
+20/06/20,ID-JA,Jambi,0,0
+20/06/20,ID-JB,Jawa Barat,17,0
+20/06/20,ID-JT,Jawa Tengah,98,0
+20/06/20,ID-JI,Jawa Timur,385,20
+20/06/20,ID-KB,Kalimantan Barat,2,0
+20/06/20,ID-KS,Kalimantan Selatan,84,10
+20/06/20,ID-KT,Kalimantan Tengah,26,2
+20/06/20,ID-KI,Kalimantan Timur,6,0
+20/06/20,ID-KU,Kalimantan Utara,2,0
+20/06/20,ID-BB,Kepulauan Bangka Belitung,1,0
+20/06/20,ID-KR,Kepulauan Riau,1,0
+20/06/20,ID-LA,Lampung,8,0
+20/06/20,ID-MA,Maluku,37,0
+20/06/20,ID-MU,Maluku Utara,17,0
+20/06/20,ID-NB,Nusa Tenggara Barat,29,1
+20/06/20,ID-NT,Nusa Tenggara Timur,0,0
+20/06/20,ID-PA,Papua,12,0
+20/06/20,ID-PB,Papua Barat,0,0
+20/06/20,ID-RI,Riau,0,0
+20/06/20,ID-SR,Sulawesi Barat,0,0
+20/06/20,ID-SN,Sulawesi Selatan,114,15
+20/06/20,ID-ST,Sulawesi Tengah,0,0
+20/06/20,ID-SG,Sulawesi Tenggara,3,0
+20/06/20,ID-SA,Sulawesi Utara,24,0
+20/06/20,ID-SB,Sumatera Barat,3,0
+20/06/20,ID-SS,Sumatera Selatan,51,3
+20/06/20,ID-SU,Sumatera Utara,58,2
+21/06/20,ID-AC,Aceh,10,0
+21/06/20,ID-BA,Bali,36,2
+21/06/20,ID-BT,Banten,9,0
+21/06/20,ID-BE,Bengkulu,0,1
+21/06/20,ID-JK,DKI Jakarta,142,1
+21/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+21/06/20,ID-GO,Gorontalo,7,0
+21/06/20,IDN,Indonesia,862,36
+21/06/20,ID-JA,Jambi,0,0
+21/06/20,ID-JB,Jawa Barat,22,0
+21/06/20,ID-JT,Jawa Tengah,99,0
+21/06/20,ID-JI,Jawa Timur,91,17
+21/06/20,ID-KB,Kalimantan Barat,0,0
+21/06/20,ID-KS,Kalimantan Selatan,94,2
+21/06/20,ID-KT,Kalimantan Tengah,0,0
+21/06/20,ID-KI,Kalimantan Timur,11,1
+21/06/20,ID-KU,Kalimantan Utara,1,0
+21/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+21/06/20,ID-KR,Kepulauan Riau,14,0
+21/06/20,ID-LA,Lampung,1,0
+21/06/20,ID-MA,Maluku,17,0
+21/06/20,ID-MU,Maluku Utara,11,0
+21/06/20,ID-NB,Nusa Tenggara Barat,5,0
+21/06/20,ID-NT,Nusa Tenggara Timur,3,0
+21/06/20,ID-PA,Papua,49,0
+21/06/20,ID-PB,Papua Barat,2,0
+21/06/20,ID-RI,Riau,0,0
+21/06/20,ID-SR,Sulawesi Barat,0,0
+21/06/20,ID-SN,Sulawesi Selatan,111,0
+21/06/20,ID-ST,Sulawesi Tengah,0,0
+21/06/20,ID-SG,Sulawesi Tenggara,0,0
+21/06/20,ID-SA,Sulawesi Utara,45,0
+21/06/20,ID-SB,Sumatera Barat,4,0
+21/06/20,ID-SS,Sumatera Selatan,57,4
+21/06/20,ID-SU,Sumatera Utara,13,2
+22/06/20,ID-AC,Aceh,0,0
+22/06/20,ID-BA,Bali,31,0
+22/06/20,ID-BT,Banten,8,0
+22/06/20,ID-BE,Bengkulu,0,0
+22/06/20,ID-JK,DKI Jakarta,126,0
+22/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+22/06/20,ID-GO,Gorontalo,3,0
+22/06/20,IDN,Indonesia,954,35
+22/06/20,ID-JA,Jambi,0,0
+22/06/20,ID-JB,Jawa Barat,19,0
+22/06/20,ID-JT,Jawa Tengah,49,1
+22/06/20,ID-JI,Jawa Timur,310,13
+22/06/20,ID-KB,Kalimantan Barat,0,0
+22/06/20,ID-KS,Kalimantan Selatan,89,0
+22/06/20,ID-KT,Kalimantan Tengah,21,3
+22/06/20,ID-KI,Kalimantan Timur,1,0
+22/06/20,ID-KU,Kalimantan Utara,1,0
+22/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+22/06/20,ID-KR,Kepulauan Riau,3,0
+22/06/20,ID-LA,Lampung,0,0
+22/06/20,ID-MA,Maluku,35,0
+22/06/20,ID-MU,Maluku Utara,20,2
+22/06/20,ID-NB,Nusa Tenggara Barat,11,1
+22/06/20,ID-NT,Nusa Tenggara Timur,0,0
+22/06/20,ID-PA,Papua,11,0
+22/06/20,ID-PB,Papua Barat,0,0
+22/06/20,ID-RI,Riau,24,0
+22/06/20,ID-SR,Sulawesi Barat,0,0
+22/06/20,ID-SN,Sulawesi Selatan,111,7
+22/06/20,ID-ST,Sulawesi Tengah,3,0
+22/06/20,ID-SG,Sulawesi Tenggara,2,0
+22/06/20,ID-SA,Sulawesi Utara,1,0
+22/06/20,ID-SB,Sumatera Barat,0,0
+22/06/20,ID-SS,Sumatera Selatan,59,0
+22/06/20,ID-SU,Sumatera Utara,20,3
+23/06/20,ID-AC,Aceh,0,0
+23/06/20,ID-BA,Bali,35,0
+23/06/20,ID-BT,Banten,10,0
+23/06/20,ID-BE,Bengkulu,2,1
+23/06/20,ID-JK,DKI Jakarta,163,8
+23/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+23/06/20,ID-GO,Gorontalo,1,0
+23/06/20,IDN,Indonesia,1051,35
+23/06/20,ID-JA,Jambi,2,0
+23/06/20,ID-JB,Jawa Barat,32,0
+23/06/20,ID-JT,Jawa Tengah,49,4
+23/06/20,ID-JI,Jawa Timur,260,13
+23/06/20,ID-KB,Kalimantan Barat,15,0
+23/06/20,ID-KS,Kalimantan Selatan,27,1
+23/06/20,ID-KT,Kalimantan Tengah,11,1
+23/06/20,ID-KI,Kalimantan Timur,12,0
+23/06/20,ID-KU,Kalimantan Utara,0,0
+23/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+23/06/20,ID-KR,Kepulauan Riau,0,0
+23/06/20,ID-LA,Lampung,0,0
+23/06/20,ID-MA,Maluku,1,0
+23/06/20,ID-MU,Maluku Utara,33,1
+23/06/20,ID-NB,Nusa Tenggara Barat,14,0
+23/06/20,ID-NT,Nusa Tenggara Timur,0,0
+23/06/20,ID-PA,Papua,55,0
+23/06/20,ID-PB,Papua Barat,0,0
+23/06/20,ID-RI,Riau,27,1
+23/06/20,ID-SR,Sulawesi Barat,0,0
+23/06/20,ID-SN,Sulawesi Selatan,136,1
+23/06/20,ID-ST,Sulawesi Tengah,3,0
+23/06/20,ID-SG,Sulawesi Tenggara,2,0
+23/06/20,ID-SA,Sulawesi Utara,7,0
+23/06/20,ID-SB,Sumatera Barat,5,0
+23/06/20,ID-SS,Sumatera Selatan,17,2
+23/06/20,ID-SU,Sumatera Utara,117,3
+24/06/20,ID-AC,Aceh,4,0
+24/06/20,ID-BA,Bali,44,0
+24/06/20,ID-BT,Banten,19,0
+24/06/20,ID-BE,Bengkulu,0,0
+24/06/20,ID-JK,DKI Jakarta,154,8
+24/06/20,ID-YO,Daerah Istimewa Yogyakarta,1,0
+24/06/20,ID-GO,Gorontalo,7,0
+24/06/20,IDN,Indonesia,1113,38
+24/06/20,ID-JA,Jambi,0,0
+24/06/20,ID-JB,Jawa Barat,46,0
+24/06/20,ID-JT,Jawa Tengah,76,2
+24/06/20,ID-JI,Jawa Timur,188,9
+24/06/20,ID-KB,Kalimantan Barat,0,0
+24/06/20,ID-KS,Kalimantan Selatan,90,7
+24/06/20,ID-KT,Kalimantan Tengah,4,0
+24/06/20,ID-KI,Kalimantan Timur,9,1
+24/06/20,ID-KU,Kalimantan Utara,2,0
+24/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+24/06/20,ID-KR,Kepulauan Riau,3,0
+24/06/20,ID-LA,Lampung,2,0
+24/06/20,ID-MA,Maluku,37,1
+24/06/20,ID-MU,Maluku Utara,96,0
+24/06/20,ID-NB,Nusa Tenggara Barat,21,2
+24/06/20,ID-NT,Nusa Tenggara Timur,0,0
+24/06/20,ID-PA,Papua,58,0
+24/06/20,ID-PB,Papua Barat,1,0
+24/06/20,ID-RI,Riau,24,0
+24/06/20,ID-SR,Sulawesi Barat,1,0
+24/06/20,ID-SN,Sulawesi Selatan,137,6
+24/06/20,ID-ST,Sulawesi Tengah,1,1
+24/06/20,ID-SG,Sulawesi Tenggara,1,0
+24/06/20,ID-SA,Sulawesi Utara,31,1
+24/06/20,ID-SB,Sumatera Barat,3,0
+24/06/20,ID-SS,Sumatera Selatan,13,3
+24/06/20,ID-SU,Sumatera Utara,55,3
+25/06/20,ID-AC,Aceh,13,0
+25/06/20,ID-BA,Bali,56,2
+25/06/20,ID-BT,Banten,13,0
+25/06/20,ID-BE,Bengkulu,2,0
+25/06/20,ID-JK,DKI Jakarta,192,9
+25/06/20,ID-YO,Daerah Istimewa Yogyakarta,7,0
+25/06/20,ID-GO,Gorontalo,5,0
+25/06/20,IDN,Indonesia,1178,47
+25/06/20,ID-JA,Jambi,0,0
+25/06/20,ID-JB,Jawa Barat,37,2
+25/06/20,ID-JT,Jawa Tengah,78,0
+25/06/20,ID-JI,Jawa Timur,261,14
+25/06/20,ID-KB,Kalimantan Barat,0,0
+25/06/20,ID-KS,Kalimantan Selatan,60,3
+25/06/20,ID-KT,Kalimantan Tengah,10,0
+25/06/20,ID-KI,Kalimantan Timur,17,0
+25/06/20,ID-KU,Kalimantan Utara,9,0
+25/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+25/06/20,ID-KR,Kepulauan Riau,7,0
+25/06/20,ID-LA,Lampung,4,0
+25/06/20,ID-MA,Maluku,13,0
+25/06/20,ID-MU,Maluku Utara,77,3
+25/06/20,ID-NB,Nusa Tenggara Barat,17,2
+25/06/20,ID-NT,Nusa Tenggara Timur,0,0
+25/06/20,ID-PA,Papua,60,0
+25/06/20,ID-PB,Papua Barat,8,0
+25/06/20,ID-RI,Riau,3,1
+25/06/20,ID-SR,Sulawesi Barat,1,0
+25/06/20,ID-SN,Sulawesi Selatan,119,2
+25/06/20,ID-ST,Sulawesi Tengah,1,0
+25/06/20,ID-SG,Sulawesi Tenggara,0,0
+25/06/20,ID-SA,Sulawesi Utara,36,3
+25/06/20,ID-SB,Sumatera Barat,2,0
+25/06/20,ID-SS,Sumatera Selatan,26,2
+25/06/20,ID-SU,Sumatera Utara,69,3
+26/06/20,ID-AC,Aceh,3,0
+26/06/20,ID-BA,Bali,49,0
+26/06/20,ID-BT,Banten,11,0
+26/06/20,ID-BE,Bengkulu,4,0
+26/06/20,ID-JK,DKI Jakarta,204,4
+26/06/20,ID-YO,Daerah Istimewa Yogyakarta,3,0
+26/06/20,ID-GO,Gorontalo,0,0
+26/06/20,IDN,Indonesia,1240,63
+26/06/20,ID-JA,Jambi,0,0
+26/06/20,ID-JB,Jawa Barat,34,2
+26/06/20,ID-JT,Jawa Tengah,178,0
+26/06/20,ID-JI,Jawa Timur,380,32
+26/06/20,ID-KB,Kalimantan Barat,0,0
+26/06/20,ID-KS,Kalimantan Selatan,41,0
+26/06/20,ID-KT,Kalimantan Tengah,7,2
+26/06/20,ID-KI,Kalimantan Timur,10,1
+26/06/20,ID-KU,Kalimantan Utara,9,0
+26/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+26/06/20,ID-KR,Kepulauan Riau,0,0
+26/06/20,ID-LA,Lampung,0,0
+26/06/20,ID-MA,Maluku,7,1
+26/06/20,ID-MU,Maluku Utara,24,2
+26/06/20,ID-NB,Nusa Tenggara Barat,23,0
+26/06/20,ID-NT,Nusa Tenggara Timur,2,0
+26/06/20,ID-PA,Papua,20,0
+26/06/20,ID-PB,Papua Barat,0,0
+26/06/20,ID-RI,Riau,3,0
+26/06/20,ID-SR,Sulawesi Barat,2,0
+26/06/20,ID-SN,Sulawesi Selatan,168,3
+26/06/20,ID-ST,Sulawesi Tengah,2,0
+26/06/20,ID-SG,Sulawesi Tenggara,3,0
+26/06/20,ID-SA,Sulawesi Utara,56,0
+26/06/20,ID-SB,Sumatera Barat,3,1
+26/06/20,ID-SS,Sumatera Selatan,14,1
+26/06/20,ID-SU,Sumatera Utara,14,4
+27/06/20,ID-AC,Aceh,8,0
+27/06/20,ID-BA,Bali,107,0
+27/06/20,ID-BT,Banten,17,0
+27/06/20,ID-BE,Bengkulu,1,0
+27/06/20,ID-JK,DKI Jakarta,203,8
+27/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+27/06/20,ID-GO,Gorontalo,0,0
+27/06/20,IDN,Indonesia,1385,37
+27/06/20,ID-JA,Jambi,3,0
+27/06/20,ID-JB,Jawa Barat,46,0
+27/06/20,ID-JT,Jawa Tengah,197,0
+27/06/20,ID-JI,Jawa Timur,300,17
+27/06/20,ID-KB,Kalimantan Barat,8,0
+27/06/20,ID-KS,Kalimantan Selatan,54,0
+27/06/20,ID-KT,Kalimantan Tengah,5,1
+27/06/20,ID-KI,Kalimantan Timur,11,0
+27/06/20,ID-KU,Kalimantan Utara,4,0
+27/06/20,ID-BB,Kepulauan Bangka Belitung,1,0
+27/06/20,ID-KR,Kepulauan Riau,0,0
+27/06/20,ID-LA,Lampung,1,0
+27/06/20,ID-MA,Maluku,14,0
+27/06/20,ID-MU,Maluku Utara,37,0
+27/06/20,ID-NB,Nusa Tenggara Barat,21,1
+27/06/20,ID-NT,Nusa Tenggara Timur,0,0
+27/06/20,ID-PA,Papua,37,0
+27/06/20,ID-PB,Papua Barat,1,0
+27/06/20,ID-RI,Riau,0,0
+27/06/20,ID-SR,Sulawesi Barat,4,0
+27/06/20,ID-SN,Sulawesi Selatan,152,2
+27/06/20,ID-ST,Sulawesi Tengah,1,0
+27/06/20,ID-SG,Sulawesi Tenggara,3,1
+27/06/20,ID-SA,Sulawesi Utara,55,0
+27/06/20,ID-SB,Sumatera Barat,2,0
+27/06/20,ID-SS,Sumatera Selatan,43,0
+27/06/20,ID-SU,Sumatera Utara,77,5
+28/06/20,ID-AC,Aceh,2,0
+28/06/20,ID-BA,Bali,45,2
+28/06/20,ID-BT,Banten,3,0
+28/06/20,ID-BE,Bengkulu,0,0
+28/06/20,ID-JK,DKI Jakarta,125,1
+28/06/20,ID-YO,Daerah Istimewa Yogyakarta,2,0
+28/06/20,ID-GO,Gorontalo,0,0
+28/06/20,IDN,Indonesia,1198,34
+28/06/20,ID-JA,Jambi,0,0
+28/06/20,ID-JB,Jawa Barat,25,0
+28/06/20,ID-JT,Jawa Tengah,188,0
+28/06/20,ID-JI,Jawa Timur,330,18
+28/06/20,ID-KB,Kalimantan Barat,0,0
+28/06/20,ID-KS,Kalimantan Selatan,73,4
+28/06/20,ID-KT,Kalimantan Tengah,12,0
+28/06/20,ID-KI,Kalimantan Timur,9,0
+28/06/20,ID-KU,Kalimantan Utara,0,0
+28/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+28/06/20,ID-KR,Kepulauan Riau,2,0
+28/06/20,ID-LA,Lampung,0,0
+28/06/20,ID-MA,Maluku,6,0
+28/06/20,ID-MU,Maluku Utara,11,0
+28/06/20,ID-NB,Nusa Tenggara Barat,36,3
+28/06/20,ID-NT,Nusa Tenggara Timur,0,0
+28/06/20,ID-PA,Papua,26,0
+28/06/20,ID-PB,Papua Barat,2,0
+28/06/20,ID-RI,Riau,1,0
+28/06/20,ID-SR,Sulawesi Barat,1,0
+28/06/20,ID-SN,Sulawesi Selatan,192,4
+28/06/20,ID-ST,Sulawesi Tengah,2,0
+28/06/20,ID-SG,Sulawesi Tenggara,0,0
+28/06/20,ID-SA,Sulawesi Utara,32,2
+28/06/20,ID-SB,Sumatera Barat,3,0
+28/06/20,ID-SS,Sumatera Selatan,50,0
+28/06/20,ID-SU,Sumatera Utara,20,0
+29/06/20,ID-AC,Aceh,0,0
+29/06/20,ID-BA,Bali,30,0
+29/06/20,ID-BT,Banten,2,0
+29/06/20,ID-BE,Bengkulu,0,1
+29/06/20,ID-JK,DKI Jakarta,125,0
+29/06/20,ID-YO,Daerah Istimewa Yogyakarta,0,0
+29/06/20,ID-GO,Gorontalo,0,0
+29/06/20,IDN,Indonesia,1082,51
+29/06/20,ID-JA,Jambi,0,0
+29/06/20,ID-JB,Jawa Barat,45,0
+29/06/20,ID-JT,Jawa Tengah,198,0
+29/06/20,ID-JI,Jawa Timur,297,32
+29/06/20,ID-KB,Kalimantan Barat,0,0
+29/06/20,ID-KS,Kalimantan Selatan,39,4
+29/06/20,ID-KT,Kalimantan Tengah,47,0
+29/06/20,ID-KI,Kalimantan Timur,7,0
+29/06/20,ID-KU,Kalimantan Utara,3,0
+29/06/20,ID-BB,Kepulauan Bangka Belitung,3,0
+29/06/20,ID-KR,Kepulauan Riau,0,0
+29/06/20,ID-LA,Lampung,0,0
+29/06/20,ID-MA,Maluku,15,0
+29/06/20,ID-MU,Maluku Utara,0,0
+29/06/20,ID-NB,Nusa Tenggara Barat,14,6
+29/06/20,ID-NT,Nusa Tenggara Timur,0,0
+29/06/20,ID-PA,Papua,3,0
+29/06/20,ID-PB,Papua Barat,1,1
+29/06/20,ID-RI,Riau,2,0
+29/06/20,ID-SR,Sulawesi Barat,0,0
+29/06/20,ID-SN,Sulawesi Selatan,188,1
+29/06/20,ID-ST,Sulawesi Tengah,0,0
+29/06/20,ID-SG,Sulawesi Tenggara,2,0
+29/06/20,ID-SA,Sulawesi Utara,25,4
+29/06/20,ID-SB,Sumatera Barat,0,0
+29/06/20,ID-SS,Sumatera Selatan,23,2
+29/06/20,ID-SU,Sumatera Utara,13,0
+30/06/20,ID-AC,Aceh,1,1
+30/06/20,ID-BA,Bali,49,1
+30/06/20,ID-BT,Banten,9,0
+30/06/20,ID-BE,Bengkulu,0,1
+30/06/20,ID-JK,DKI Jakarta,190,7
+30/06/20,ID-YO,Daerah Istimewa Yogyakarta,7,0
+30/06/20,ID-GO,Gorontalo,6,2
+30/06/20,IDN,Indonesia,1293,71
+30/06/20,ID-JA,Jambi,0,0
+30/06/20,ID-JB,Jawa Barat,81,1
+30/06/20,ID-JT,Jawa Tengah,153,0
+30/06/20,ID-JI,Jawa Timur,331,30
+30/06/20,ID-KB,Kalimantan Barat,0,0
+30/06/20,ID-KS,Kalimantan Selatan,106,3
+30/06/20,ID-KT,Kalimantan Tengah,13,2
+30/06/20,ID-KI,Kalimantan Timur,8,0
+30/06/20,ID-KU,Kalimantan Utara,2,0
+30/06/20,ID-BB,Kepulauan Bangka Belitung,0,0
+30/06/20,ID-KR,Kepulauan Riau,0,0
+30/06/20,ID-LA,Lampung,2,0
+30/06/20,ID-MA,Maluku,16,1
+30/06/20,ID-MU,Maluku Utara,9,0
+30/06/20,ID-NB,Nusa Tenggara Barat,21,1
+30/06/20,ID-NT,Nusa Tenggara Timur,0,0
+30/06/20,ID-PA,Papua,51,8
+30/06/20,ID-PB,Papua Barat,2,0
+30/06/20,ID-RI,Riau,0,0
+30/06/20,ID-SR,Sulawesi Barat,1,0
+30/06/20,ID-SN,Sulawesi Selatan,89,4
+30/06/20,ID-ST,Sulawesi Tengah,3,0
+30/06/20,ID-SG,Sulawesi Tenggara,18,0
+30/06/20,ID-SA,Sulawesi Utara,27,1
+30/06/20,ID-SB,Sumatera Barat,1,0
+30/06/20,ID-SS,Sumatera Selatan,26,7
+30/06/20,ID-SU,Sumatera Utara,71,1
